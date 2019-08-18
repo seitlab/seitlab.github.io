@@ -12,6 +12,7 @@ sitemap:
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 THINK Lab has moved to Michigan State University!
+THINK Lab has changed its name to SEIT Lab (*SE*cure and **I**ntelligent _T_hings Lab)
 
 THINK Lab (Cybersecurity and Threat Intelligence Lab) in Computer Science and Engineering department at Michigan State University is directed by Prof. Qiben Yan. The lab conducts research on security and privacy issues of wireless network, Internet-of-Things (IoT), with the current emphases on IoT security, wireless and mobile network security, data-driven botnet and mobile malware detection, threat intelligence and attack prevention. Our mission is to build a data-driven secure network infrastructure – including anomaly detection system, intelligent monitoring and analysis system, attack resilient communication system – to manage massive Internet of Things and to provide security add-ons for the modern networks under cyber threats.
 
