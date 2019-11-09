@@ -1,0 +1,11 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /sliderimg/1.jpg
+      alt: image one
+    - src: /sliderimg/2.jpg
+      alt: image two
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
