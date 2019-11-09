@@ -1,10 +1,6 @@
 <div>
-        <div class="home-title">
-          <h3>Recent Posts</h3>
-        </div>
       <div class="flexslider">
           <ul class="slides">
-                {% for page in site.categories.blog %}
                 <li>
                     <!-- <a href="{{ site.url}}{{ page.permalink }}">
                       <img src="{{ page.image-slider }}">
@@ -13,8 +9,6 @@
 
                   <img src="/sliderimg/1.jpg" alt="MSU" />
                </li>
-                {% endfor %}
           </ul>
       </div>
-      <p style="text-align: center"><a href="{{ site.url }}/posts-page">See All Posts</a></p>
   </div>
