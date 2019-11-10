@@ -43,8 +43,8 @@ carousel:
 						<p>at <a href="https://msu.edu">Michigan State University</a><br /></p>
 
 						<div id="slider1">
-							<img data-src="" dat-src2x="" src="/sliderimg/1.jpg" title="" alt="Minimum required attributes">
-							<img data-src="" dat-src2x="" src="/sliderimg/2.jpg" title="" alt="Minimum required attributes">
+							<img data-src="" dat-src-2x="" src="/sliderimg/1.jpg" title="" alt="Minimum required attributes">
+							<img data-src="" dat-src-2x="" src="/sliderimg/2.jpg" title="" alt="Minimum required attributes">
 						</div>
 
 
@@ -135,7 +135,11 @@ carousel:
 		{% include scripts-main.html %}
     {% include tracking.html %}
 
-	<script src="/bower_components/ideal-image-slider/ideal-image-slider.js"></script>
+
+	<script src="/bower_components/ideal-image-slider/ideal-image-slider.min.js"></script>
+	<script src="/bower_components/ideal-image-slider/extensions/bullet-nav/iis-bullet-nav.js"></script>
+	<script src="/bower_components/ideal-image-slider/extensions/captions/iis-captions.js"></script>
+
 	<script>
 		var slider3 = new IdealImageSlider.Slider({
 		selector: '#slider1',
