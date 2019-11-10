@@ -48,6 +48,8 @@ carousel:
 							<img src="/sliderimg/2.jpg" alt="Minimum required attributes">
 						</div>
 
+
+
 						<ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -134,14 +136,15 @@ carousel:
 		{% include scripts-main.html %}
     {% include tracking.html %}
 
-<!-- Flexslider Scripts
-=================================================-->
-	<!-- Google CDN Hosted jQuery  -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-	<!-- Flexslider Library  -->
-	<script src="/assets/js/flexslider/jquery.flexslider-min.js"></script>
-	<!-- Initialisation Code  -->
-	<script src="/assets/js/app.js"></script>
+	<script src="/bower_components/ideal-image-slider/ideal-image-slider.min.js"></script>
+	<script>
+		var slider1 = new IdealImageSlider.Slider({
+			selector: '#slider',
+			height: 400,
+			});
+		  slider1.addCaptions();
+		  slider1.start();
+	</script>
 
 	</body>
 </html>
