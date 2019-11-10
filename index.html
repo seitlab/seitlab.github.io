@@ -2,19 +2,13 @@
 layout: null
 title: Welcome! SEIT Lab - Home Page
 description: Official website of the SEIT Lab (SEcure and Intelligent Things Lab) at Michigan State University (MSU).
-image_sliders_load_all: true
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
 	changefreq: weekly
-slider:
-text_color: white
-shadow_color: black
-slides:
-	- image: /sliderimg1.jpg
-	slide_html: "<h3>La Passione 1/2</h3>Shirley, do you own a Ferrari?"
-	- image: /sliderimg/2.jpg
-	slide_html:	
+carousel:
+	- image: /img/carousel/slide1.jpg
+	- image: /img/carousel/slide2.jpg
 ---
 <!DOCTYPE HTML>
 <!--
@@ -45,8 +39,16 @@ slides:
 						<h2>SEcure and Intelligent Things Lab</h2>
 						<p>at <a href="https://msu.edu">Michigan State University</a><br /></p>
 
-						{% if page.slider %}
-  						{% include slider.html height="50" unit="%" transition="slide" duration="7" %}
+						{% if page.carousel %}
+						<div class="flexslider">
+						  <ul class="slides">
+							{% for slides in page.carousel %}
+							<li>
+							  <img src="{{ slides.image }}">
+							</li>
+							{% endfor %}
+						  </ul>
+						</div>
 						{% endif %}
 
 						<ul class="actions">
