@@ -21,6 +21,9 @@ carousel:
 	<head>
 	{% include head.html %}
 
+	<link rel="stylesheet" href="/bower_components/ideal-image-slider/ideal-image-slider.css">
+	<link rel="stylesheet" href="/bower_components/ideal-image-slider/themes/default/default.css">
+
 	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" /> -->
 
 	<!-- <link rel="stylesheet" href="/slider/ideal-image-slider.css">
@@ -29,6 +32,7 @@ carousel:
 	</head>
 	<body class="is-loading">
 		<!-- <script src="slider/ideal-image-slider.js"></script> -->
+		<script src="/bower_components/ideal-image-slider/ideal-image-slider.js"></script>
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
@@ -39,17 +43,10 @@ carousel:
 						<h2>SEcure and Intelligent Things Lab</h2>
 						<p>at <a href="https://msu.edu">Michigan State University</a><br /></p>
 
-						{% if page.carousel %}
-						<div class="flexslider">
-						  <ul class="slides">
-							{% for slides in page.carousel %}
-							<li>
-							  <img src="{{ slides.image }}">
-							</li>
-							{% endfor %}
-						  </ul>
+						<div id="slider">
+							<img src="/sliderimg/1.jpg" alt="Minimum required attributes">
+							<img src="/sliderimg/2.jpg" alt="Minimum required attributes">
 						</div>
-						{% endif %}
 
 						<ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
