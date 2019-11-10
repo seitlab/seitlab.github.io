@@ -139,12 +139,21 @@ carousel:
 	<script src="/js/slider/iis-captions.js"></script>
 
 	<script>
-		var slider1 = new IdealImageSlider.Slider({
-		selector: '#slider1',
-		height: 400,
-		});
-		slider1.addCaptions();
-		slider1.start();
+		// var slider1 = new IdealImageSlider.Slider({
+		// selector: '#slider1',
+		// height: 400,
+		// });
+		// slider1.addCaptions();
+		// slider1.start();
+
+		var slider2 = new IdealImageSlider.Slider({
+      	selector: '#slider1',
+      	height: 400,
+      	effect: 'fade',
+     	 });
+		slider2.addBulletNav();
+		slider2.addCaptions();
+		slider2.start();
 	</script>
 
 	</body>
