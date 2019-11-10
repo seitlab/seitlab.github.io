@@ -42,9 +42,9 @@ carousel:
 						<h2>SEcure and Intelligent Things Lab</h2>
 						<p>at <a href="https://msu.edu">Michigan State University</a><br /></p>
 
-						<div id="slider">
-							<img src="/sliderimg/1.jpg" alt="Minimum required attributes">
-							<img src="/sliderimg/2.jpg" alt="Minimum required attributes">
+						<div id="slider1">
+							<img data-src="" dat-src2x="" src="/sliderimg/1.jpg" title="" alt="Minimum required attributes">
+							<img data-src="" dat-src2x="" src="/sliderimg/2.jpg" title="" alt="Minimum required attributes">
 						</div>
 
 
@@ -137,7 +137,12 @@ carousel:
 
 	<script src="/bower_components/ideal-image-slider/ideal-image-slider.js"></script>
 	<script>
-	new IdealImageSlider.Slider('#slider');
+		var slider3 = new IdealImageSlider.Slider({
+		selector: '#slider1',
+		height: 'auto',
+		disableNav: true,
+		});
+		slider3.start();
 	</script>
 
 	</body>
