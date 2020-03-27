@@ -2,7 +2,7 @@
 This is the source code of the SEIT Lab website. Please read this document before making changes to the website.
 
 # Important notes
-* This is the the development version of seit.egr.msu.edu website, it is not published yet.
+* This is the the production version of seit.egr.msu.edu website, it is published, and therefore has to be handled with care.
 * Please do not synchronize the local Git repository via automated cloud file storage solutions, such as Tresorit, MEGA, pCloud, Dropbox, Google Drive, etc. If you work on the website from several computers, synchronize this repository only via Git. If you do want to put it into your cloud storage, create a separate local repositories for each computer you are working from.
 * Unless you have solid experience merging Git branches/changesets, please avoid simultaneous website editing by multiple users. Having a dedicated person responsible for website updates is the best strategy.
 * **Do not** push a commit (by running `go.sh` or doing `git push`) if you have not tested the changes---all changes are immediately published on the website.
