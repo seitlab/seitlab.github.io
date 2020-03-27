@@ -1,5 +1,5 @@
 # Introduction
-This is the source code of the MSU SEIT Lab website. Please read this document before making changes to the website.
+This is the source code of the SEIT Lab website. Please read this document before making changes to the website.
 
 # Important notes
 * This is the the development version of seit.egr.msu.edu website, it is not published yet.
@@ -19,7 +19,7 @@ This is the source code of the MSU SEIT Lab website. Please read this document b
 6. Install Git following the instruction for your OS: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 7. Clone this repository (it will ask for login/password because it is a private repo):
 ```
-git clone https://github.com/nick-ivanov/seitlab-site-draft.git
+git clone https://github.com/seitlab/seitlab.github.io.git
 ```
 8. Make `go.sh` executable:
 ```
@@ -29,7 +29,7 @@ chmod +x go.sh
 # How to make changes
 1. Enter the Git repository:
 ```
-cd seitlab-site-draft
+cd seitlab.github.io
 ```
 
 2. Download latest changes (**always do it before editing the website**):
@@ -46,7 +46,7 @@ It is not a rocket science, but like all skills, it may need some diligent readi
 
 4. **VERY IMPORTANT**: Test changes locally:
   
-  * While in the root of the current repository (i.e., the `seitlab-site-draft` directory), run the mini HTTP server:
+  * While in the root of the current repository (i.e., the `seitlab.github.io` directory), run the mini HTTP server:
   ```
   http-server
   ```
