@@ -1,0 +1,7 @@
+@article{shao2020tree,
+  title={Tree Decomposition Based Anomalous Connected Subgraph Scanning for Detecting and Forecasting Events in Attributed Social Media Networks},
+  author={Shao, Minglai and Sun, Peiyuan and Li, Jianxin and Yan, Qiben and Feng, Zhirui},
+  journal={Neurocomputing},
+  year={2020},
+  publisher={Elsevier}
+}

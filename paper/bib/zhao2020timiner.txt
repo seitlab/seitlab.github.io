@@ -1,0 +1,8 @@
+@article{zhao2020timiner,
+  title={TIMiner: Automatically Extracting and Analyzing Categorized Cyber Threat Intelligence from Social Data},
+  author={Zhao, Jun and Yan, Qiben and Li, Jianxin and Shao, Minglai and He, Zuti and Li, Bo},
+  journal={Computers \& Security},
+  pages={101867},
+  year={2020},
+  publisher={Elsevier}
+}
