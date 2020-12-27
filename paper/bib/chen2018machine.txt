@@ -1,0 +1,9 @@
+@article{chen2018machine,
+  title={Machine learning based mobile malware detection using highly imbalanced network traffic},
+  author={Chen, Zhenxiang and Yan, Qiben and Han, Hongbo and Wang, Shanshan and Peng, Lizhi and Wang, Lin and Yang, Bo},
+  journal={Information Sciences},
+  volume={433},
+  pages={346--364},
+  year={2018},
+  publisher={Elsevier}
+}

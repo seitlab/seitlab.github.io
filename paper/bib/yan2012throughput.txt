@@ -1,0 +1,10 @@
+@article{yan2012throughput,
+  title={Throughput analysis of cooperative mobile content distribution in vehicular network using symbol level network coding},
+  author={Yan, Qiben and Li, Ming and Yang, Zhenyu and Lou, Wenjing and Zhai, Hongqiang},
+  journal={IEEE Journal on Selected Areas in Communications},
+  volume={30},
+  number={2},
+  pages={484--492},
+  year={2012},
+  publisher={IEEE}
+}

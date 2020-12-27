@@ -1,0 +1,10 @@
+@article{li2018significant,
+  title={Significant permission identification for machine-learning-based android malware detection},
+  author={Li, Jin and Sun, Lichao and Yan, Qiben and Li, Zhiqiang and Srisa-An, Witawas and Ye, Heng},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={14},
+  number={7},
+  pages={3216--3225},
+  year={2018},
+  publisher={IEEE}
+}

@@ -1,0 +1,9 @@
+@article{wang2020deep,
+  title={Deep and broad URL feature mining for android malware detection},
+  author={Wang, Shanshan and Chen, Zhenxiang and Yan, Qiben and Ji, Ke and Peng, Lizhi and Yang, Bo and Conti, Mauro},
+  journal={Information Sciences},
+  volume={513},
+  pages={600--613},
+  year={2020},
+  publisher={Elsevier}
+}

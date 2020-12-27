@@ -1,0 +1,7 @@
+@inproceedings{zhang2020generating,
+  title={Generating robust audio adversarial examples with temporal dependency},
+  author={Zhang, Hongting and Zhou, P and Yan, Q and Liu, Xiao-Yang},
+  booktitle={Proc. of IJCAI},
+  pages={1--5},
+  year={2020}
+}

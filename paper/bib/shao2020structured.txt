@@ -1,0 +1,7 @@
+@article{shao2020structured,
+  title={Structured Sparsity Model Based Trajectory Tracking Using Private Location Data Release},
+  author={Shao, Minglai and Li, Jianxin and Yan, Qiben and Chen, Feng and Huang, Hongyi and Chen, Xunxun},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2020},
+  publisher={IEEE}
+}

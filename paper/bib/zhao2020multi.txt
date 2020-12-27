@@ -1,0 +1,7 @@
+@article{zhao2020multi,
+  title={Multi-Attributed Heterogeneous Graph Convolutional Network for Bot Detection},
+  author={Zhao, Jun and Liu, Xudong and Yan, Qiben and Li, Bo and Shao, Minglai and Peng, Hao},
+  journal={Information Sciences},
+  year={2020},
+  publisher={Elsevier}
+}

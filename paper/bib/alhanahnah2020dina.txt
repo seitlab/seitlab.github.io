@@ -1,0 +1,9 @@
+@article{alhanahnah2020dina,
+  title={DINA: Detecting Hidden Android Inter-App Communication in Dynamic Loaded Code},
+  author={Alhanahnah, Mohannad and Yan, Qiben and Bagheri, Hamid and Zhou, Hao and Tsutano, Yutaka and Srisa-An, Witawas and Luo, Xiapu},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={15},
+  pages={2782--2797},
+  year={2020},
+  publisher={IEEE}
+}

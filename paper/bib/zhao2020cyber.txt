@@ -1,0 +1,7 @@
+@inproceedings{zhao2020cyber,
+  title={Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network},
+  author={Zhao, Jun and Yan, Qiben and Liu, Xudong and Li, Bo and Zuo, Guangsheng},
+  booktitle={23rd International Symposium on Research in Attacks, Intrusions and Defenses ($$RAID$$ 2020)},
+  pages={241--256},
+  year={2020}
+}

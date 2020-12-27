@@ -1,0 +1,10 @@
+@article{wang2017detecting,
+  title={Detecting android malware leveraging text semantics of network flows},
+  author={Wang, Shanshan and Yan, Qiben and Chen, Zhenxiang and Yang, Bo and Zhao, Chuan and Conti, Mauro},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={13},
+  number={5},
+  pages={1096--1109},
+  year={2017},
+  publisher={IEEE}
+}

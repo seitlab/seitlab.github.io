@@ -1,0 +1,6 @@
+@inproceedings{yan2020surfingattack,
+  title={Surfingattack: Interactive hidden attack on voice assistants using ultrasonic guided waves},
+  author={Yan, Qiben and Liu, Kehai and Zhou, Qin and Guo, Hanqing and Zhang, Ning},
+  booktitle={Network and Distributed Systems Security (NDSS) Symposium},
+  year={2020}
+}

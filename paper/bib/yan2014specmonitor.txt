@@ -1,0 +1,10 @@
+@article{yan2014specmonitor,
+  title={SpecMonitor: Toward efficient passive traffic monitoring for cognitive radio networks},
+  author={Yan, Qiben and Li, Ming and Chen, Feng and Jiang, Tingting and Lou, Wenjing and Hou, Y Thomas and Lu, Chang-Tien},
+  journal={IEEE Transactions on Wireless Communications},
+  volume={13},
+  number={10},
+  pages={5893--5905},
+  year={2014},
+  publisher={IEEE}
+}

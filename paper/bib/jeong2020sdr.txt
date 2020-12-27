@@ -1,0 +1,7 @@
+@inproceedings{jeong2020sdr,
+  title={SDR receiver using commodity wifi via physical-layer signal reconstruction},
+  author={Jeong, Woojae and Jung, Jinhwan and Wang, Yuanda and Wang, Shuai and Yang, Seokwon and Yan, Qiben and Yi, Yung and Kim, Song Min},
+  booktitle={Proceedings of the 26th Annual International Conference on Mobile Computing and Networking},
+  pages={1--14},
+  year={2020}
+}

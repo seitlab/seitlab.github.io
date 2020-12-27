@@ -1,0 +1,10 @@
+@article{jiang2012limitation,
+  title={On the limitation of embedding cryptographic signature for primary transmitter authentication},
+  author={Jiang, Tingting and Zeng, Huacheng and Yan, Qiben and Lou, Wenjing and Hou, Y Thomas},
+  journal={IEEE Wireless Communications Letters},
+  volume={1},
+  number={4},
+  pages={324--327},
+  year={2012},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@article{zhao2020automatically,
+  title={Automatically Predicting Cyber Attack Preference with Attributed Heterogeneous Attention Networks and Transductive Learning},
+  author={Zhao, Jun and Liu, Xudong and Yan, Qiben and Li, Bo and Shao, Minglai and Peng, Hao and Sun, Lichao},
+  journal={Computers \& Security},
+  year={2020},
+  publisher={Elsevier}
+}

@@ -1,0 +1,8 @@
+@inproceedings{ivanov2020smart,
+  title={Smart WiFi: Universal and Secure Smart Contract-Enabled WiFi Hotspot},
+  author={Ivanov, Nikolay and Lou, Jianzhi and Yan, Qiben},
+  booktitle={International Conference on Security and Privacy in Communication Systems},
+  pages={425--445},
+  year={2020},
+  organization={Springer}
+}

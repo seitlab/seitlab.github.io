@@ -1,0 +1,10 @@
+@article{sangdeh2020practical,
+  title={A Practical Downlink NOMA Scheme for Wireless LANs},
+  author={Sangdeh, Pedram Kheirkhah and Pirayesh, Hossein and Yan, Qiben and Zeng, Kai and Lou, Wenjing and Zeng, Huacheng},
+  journal={IEEE Transactions on Communications},
+  volume={68},
+  number={4},
+  pages={2236--2250},
+  year={2020},
+  publisher={IEEE}
+}

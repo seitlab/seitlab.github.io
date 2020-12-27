@@ -1,0 +1,7 @@
+@inproceedings{li2019dart,
+  title={DART: Detecting Unseen Malware Variants Using Adaptation Regularization Transfer Learning},
+  author={Li, Hao and Chen, Zhenxiang Chen and Spolaort, Riccardo and Yan, Qiben and Zhao, Chuan and Yang, Bo},
+  booktitle={IEEE ICC 2019},
+  month={May},
+  year={2019},
+}

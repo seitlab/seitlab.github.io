@@ -1,0 +1,10 @@
+@article{yan2016jamming,
+  title={Jamming resilient communication using MIMO interference cancellation},
+  author={Yan, Qiben and Zeng, Huacheng and Jiang, Tingting and Li, Ming and Lou, Wenjing and Hou, Y Thomas},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={11},
+  number={7},
+  pages={1486--1499},
+  year={2016},
+  publisher={IEEE}
+}
