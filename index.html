@@ -183,6 +183,24 @@
             else return "";
         }
 
+        function mark_today(tt) {
+          var now = new Date();
+          var year = now.getFullYear();
+          var month = now.getMonth()+1;
+          var date = now.getDate();
+
+          if (month.toString().length==1)
+            month = "0"+month;
+          if (date.toString().length==1)
+            date = "0"+date;
+
+          var time1 = year+"-"+month+"-"+date;
+          var time2 = tt.substring(0, 10);
+            if (time1 == time2)
+                return "<i>today</i>";
+            else return "<i>old</i>";
+        }
+
         CsvToHtmlTable.init({
             csv_path: "data/security_title_url.csv",
             element: "security_table-container",
@@ -195,16 +213,17 @@
                 paging: true,
                 searching:true,
                 info: false,
-                "lengthMenu": [7,8,9],
+                "lengthMenu": [6,7,8],
                 "columns": [
                   { "visible": true },
                   { "visible": true },
                   { "visible": true },
-                  { "visible": false },
+                  { "visible": true },
                 ],
             },
             custom_formatting: [
-                [2, format_link]
+                [2, format_link],
+                [3, mark_today]
             ]
         });
     </script>
