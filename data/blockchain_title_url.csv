@@ -1,17 +1,109 @@
 Index,Title,URL,Time
-1,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,4/27/2021 22:28
-2,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,4/27/2021 22:28
-3,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,4/27/2021 22:28
-4,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,4/27/2021 22:28
-5,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,4/27/2021 22:28
-6,Paid in Full: an internet where every interaction is a financial transaction,https://reallifemag.com/paid-in-full/,4/27/2021 22:28
-7,JPMorgan to Let Clients Invest in Bitcoin Fund for First Time,https://finance.yahoo.com/news/jpmorgan-let-clients-invest-bitcoin-110851292.html,4/27/2021 22:28
-8,A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies,https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html,4/27/2021 22:29
-9,Apple store fake app stole man's life savings in Bitcoin,https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/,4/27/2021 22:30
-10,The social contract of open source,https://snarky.ca/the-social-contract-of-open-source/,4/27/2021 22:30
-11,Ether as a Computation Unit,https://blog.merwanedrai.com/2021/04/24/ether-as-a-computation-unit.html,4/27/2021 22:30
-12,EU sues AstraZeneca over breach of Covid-19 vaccine supply contract,https://www.reuters.com/world/europe/eu-sues-astrazeneca-over-delayed-deliveries-covid-19-vaccine-2021-04-26/,4/27/2021 22:30
-13,Craig Wright’s claim he invented Bitcoin to be considered by UK court,https://www.theguardian.com/technology/2021/apr/23/australian-man-craig-wrights-claim-he-invented-bitcoin-to-be-considered-by-uk-court,4/27/2021 22:31
-14,Ethereum staking – More sustainable crypto,https://ethereum.org/en/eth2/staking,4/27/2021 22:31
-15,Nassim Taleb says Bitcoin is an open Ponzi scheme and a failed currency,https://markets.businessinsider.com/currencies/news/black-swan-nassim-taleb-bitcoin-open-ponzi-scheme-failed-currency-2021-4-1030339366,4/27/2021 22:31
-16,Nassim Taleb says Bitcoin is an open Ponzi scheme and a failed currency,https://www.businessinsider.com/black-swan-nassim-taleb-bitcoin-open-ponzi-scheme-failed-currency-2021-4,4/27/2021 22:31
+0,Game Engine Black Books Update (2019),https://fabiensanglard.net/gebb/index.html,2021-05-02 08:32:26
+1,The IRS Wants Help Hacking Cryptocurrency Hardware Wallets,https://www.vice.com/en/article/k78a53/the-irs-wants-help-hacking-cryptocurrency-hardware-wallets,2021-05-02 08:31:56
+2,Books Are a Seed You Can Plant,https://allenpike.com/2021/books-are-a-seed,2021-05-02 08:31:31
+3,Feds arrest founder of Bitcoin ‘mixer’ they say laundered $335M,https://www.theverge.com/2021/4/29/22409501/feds-arrest-founder-bitcoin-mixer-laundered-cryptocurrency,2021-05-02 08:31:31
+4,Study shows printed books are still preferred to e-books,https://www.weforum.org/agenda/2021/04/printed-books-vs-e-books-which-is-the-most-popular/,2021-05-02 08:31:12
+5,Mining robot stranded on Pacific Ocean floor in deep-sea mining trial,https://www.reuters.com/business/environment/mining-robot-stranded-pacific-ocean-floor-deep-sea-mining-trial-2021-04-28/,2021-05-02 08:31:05
+6,I booked my cheapest one-month trip,https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/,2021-05-02 08:30:58
+7,NASA suspends SpaceX’s $2.9B moon lander contract after rivals protest,https://www.theverge.com/2021/4/30/22412771/nasa-spacex-hls-moon-lander-blue-origin-protest,2021-05-02 08:30:52
+8,Opera adds native support for blockchain domain names,https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/,2021-05-02 08:30:52
+9,YouTube TV removed from Roku channel store amid Google contract dispute,https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html,2021-05-02 08:30:39
+10,SSD makers start warning that mining products like ChiaCoin will void warranty,https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html,2021-05-02 08:30:33
+11,Emacs Lisp book revived: Marcin Borkowski,http://mbork.pl/2021-05-01_Emacs_Lisp_book_revived,2021-05-02 08:30:26
+12,"Box It, Bag It, Wrap It: Medieval Books on the Go (2015)",https://medievalbooks.nl/2015/02/06/box-it-bag-it-wrap-it-medieval-books-on-the-go/,2021-05-02 08:30:19
+13,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-29 01:00:44
+14,What Snoop Dogg’s Success Says About the Book Industry,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-29 01:00:25
+15,Game Engine Black Books Update,https://fabiensanglard.net/gebb/index.html,2021-04-29 00:00:11
+16,Apple store fake app stole man's life savings in Bitcoin,https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/,2021-04-28 23:01:34
+17,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 23:01:21
+18,JPMorgan to Let Clients Invest in Bitcoin Fund for First Time,https://finance.yahoo.com/news/jpmorgan-let-clients-invest-bitcoin-110851292.html,2021-04-28 23:01:15
+19,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,2021-04-28 23:00:56
+20,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 23:00:34
+21,What Snoop Dogg’s Success Says About the Book Industry,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-28 23:00:24
+22,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 22:00:30
+23,What Snoop Dogg’s Success Says About the Book Industry,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-28 22:00:21
+24,Apple store fake app stole man's life savings in Bitcoin,https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/,2021-04-28 21:01:40
+25,JPMorgan to Let Clients Invest in Bitcoin Fund for First Time,https://finance.yahoo.com/news/jpmorgan-let-clients-invest-bitcoin-110851292.html,2021-04-28 21:01:18
+26,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 21:01:18
+27,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,2021-04-28 21:01:00
+28,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 21:00:33
+29,What Snoop Dogg’s Success Says About the Book Industry,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-28 21:00:15
+30,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-28 20:01:08
+31,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 20:00:30
+32,Money Stuff: Tesla Sold Some Bitcoins,https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin,2021-04-28 20:00:19
+33,EU sues AstraZeneca over breach of Covid-19 vaccine supply contract,https://www.reuters.com/world/europe/eu-sues-astrazeneca-over-delayed-deliveries-covid-19-vaccine-2021-04-26/,2021-04-28 19:01:27
+34,Ethereum staking – More sustainable crypto,https://ethereum.org/en/eth2/staking,2021-04-28 19:01:27
+35,A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies,https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html,2021-04-28 19:01:14
+36,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-28 19:01:07
+37,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 19:00:29
+38,"Bitcoin is a fraud that will blow up, says JP Morgan boss",https://www.theguardian.com/technology/2017/sep/13/bitcoin-fraud-jp-morgan-cryptocurrency-drug-dealers,2021-04-28 19:00:17
+39,Money Stuff: Tesla Sold Some Bitcoins,https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin,2021-04-28 19:00:12
+40,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 18:00:28
+41,Money Stuff: Tesla Sold Some Bitcoins,https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin,2021-04-28 18:00:14
+42,EU sues AstraZeneca over breach of Covid-19 vaccine supply contract,https://www.reuters.com/world/europe/eu-sues-astrazeneca-over-delayed-deliveries-covid-19-vaccine-2021-04-26/,2021-04-28 17:02:11
+43,Ether as a Computation Unit,https://blog.merwanedrai.com/2021/04/24/ether-as-a-computation-unit.html,2021-04-28 17:02:00
+44,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 17:01:38
+45,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-28 17:01:17
+46,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,2021-04-28 17:00:47
+47,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 17:00:20
+48,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 16:00:30
+49,What Snoop Dogg’s Success Says About the Book Industry,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-28 16:00:17
+50,Apple store fake app stole man's life savings in Bitcoin,https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/,2021-04-28 15:02:11
+51,The social contract of open source,https://snarky.ca/the-social-contract-of-open-source/,2021-04-28 15:01:45
+52,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 15:01:34
+53,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-28 15:01:15
+54,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,2021-04-28 15:00:43
+55,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 15:00:22
+56,Paid in Full: an internet where every interaction is a financial transaction,https://reallifemag.com/paid-in-full/,2021-04-28 14:01:01
+57,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 14:00:22
+58,What Snoop Dogg’s Success Says About the Book Industry,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-28 14:00:12
+59,EU sues AstraZeneca over breach of Covid-19 vaccine supply contract,https://www.reuters.com/world/europe/eu-sues-astrazeneca-over-delayed-deliveries-covid-19-vaccine-2021-04-26/,2021-04-28 13:02:06
+60,Ether as a Computation Unit,https://blog.merwanedrai.com/2021/04/24/ether-as-a-computation-unit.html,2021-04-28 13:01:55
+61,A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies,https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html,2021-04-28 13:01:31
+62,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 13:01:25
+63,Paid in Full: an internet where every interaction is a financial transaction,https://reallifemag.com/paid-in-full/,2021-04-28 13:00:57
+64,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 13:00:22
+65,98% of the books that publishers released in 2020 sold fewer than 5k copies,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-28 13:00:11
+66,Paid in Full: an internet where every interaction is a financial transaction,https://reallifemag.com/paid-in-full/,2021-04-28 12:00:53
+67,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 12:00:21
+68,98% of the books that publishers released in 2020 sold fewer than 5k copies,https://www.nytimes.com/2021/04/18/books/book-sales-publishing-pandemic-coronavirus.html,2021-04-28 12:00:10
+69,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 11:00:10
+70,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 10:00:10
+71,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-28 09:00:58
+72,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,2021-04-28 09:00:33
+73,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 09:00:11
+74,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 08:00:16
+75,A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies,https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html,2021-04-28 07:01:35
+76,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 07:01:07
+77,Paid in Full: an internet where every interaction is a financial transaction,https://reallifemag.com/paid-in-full/,2021-04-28 07:00:55
+78,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 07:00:17
+79,Paid in Full: an internet where every interaction is a financial transaction,https://reallifemag.com/paid-in-full/,2021-04-28 06:00:47
+80,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 06:00:09
+81,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,2021-04-28 05:00:29
+82,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-28 05:00:11
+83,EU sues AstraZeneca over breach of Covid-19 vaccine supply contract,https://www.reuters.com/world/europe/eu-sues-astrazeneca-over-delayed-deliveries-covid-19-vaccine-2021-04-26/,2021-04-28 04:01:58
+84,Apple store fake app stole man's life savings in Bitcoin,https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/,2021-04-28 04:01:43
+85,A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies,https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html,2021-04-28 04:01:21
+86,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 04:00:56
+87,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-28 04:00:50
+88,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 04:00:11
+89,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-28 03:00:51
+90,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-28 03:00:45
+91,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-28 03:00:11
+92,Nassim Taleb says Bitcoin is an open Ponzi scheme and a failed currency,https://markets.businessinsider.com/currencies/news/black-swan-nassim-taleb-bitcoin-open-ponzi-scheme-failed-currency-2021-4-1030339366,2021-04-27 22:31:18
+93,Nassim Taleb says Bitcoin is an open Ponzi scheme and a failed currency,https://www.businessinsider.com/black-swan-nassim-taleb-bitcoin-open-ponzi-scheme-failed-currency-2021-4,2021-04-27 22:31:18
+94,Ethereum staking – More sustainable crypto,https://ethereum.org/en/eth2/staking,2021-04-27 22:31:14
+95,Craig Wright’s claim he invented Bitcoin to be considered by UK court,https://www.theguardian.com/technology/2021/apr/23/australian-man-craig-wrights-claim-he-invented-bitcoin-to-be-considered-by-uk-court,2021-04-27 22:31:08
+96,EU sues AstraZeneca over breach of Covid-19 vaccine supply contract,https://www.reuters.com/world/europe/eu-sues-astrazeneca-over-delayed-deliveries-covid-19-vaccine-2021-04-26/,2021-04-27 22:30:48
+97,Ether as a Computation Unit,https://blog.merwanedrai.com/2021/04/24/ether-as-a-computation-unit.html,2021-04-27 22:30:42
+98,The social contract of open source,https://snarky.ca/the-social-contract-of-open-source/,2021-04-27 22:30:24
+99,Apple store fake app stole man's life savings in Bitcoin,https://www.washingtonpost.com/technology/2021/03/30/trezor-scam-bitcoin-1-million/,2021-04-27 22:30:20
+100,A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies,https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html,2021-04-27 22:29:08
+101,JPMorgan to Let Clients Invest in Bitcoin Fund for First Time,https://finance.yahoo.com/news/jpmorgan-let-clients-invest-bitcoin-110851292.html,2021-04-27 22:28:59
+102,Paid in Full: an internet where every interaction is a financial transaction,https://reallifemag.com/paid-in-full/,2021-04-27 22:28:41
+103,Tesla Earnings Bitcoin,https://www.nytimes.com/2021/04/27/business/dealbook/tesla-earnings-bitcoin.html,2021-04-27 22:28:27
+104,"Deepfake satellite imagery poses a not-so-distant threat, warn geographers",https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat,2021-04-27 22:28:27
+105,Microsoft books biggest revenue growth since 2018,https://www.cnbc.com/2021/04/27/microsoft-msft-earnings-q3-2021.html,2021-04-27 22:28:15
+106,Amulet – a short poem with a lucky SHA-256 hash,https://text.bargains/amulet/,2021-04-27 22:28:06
+107,KeyDB CEO Interview: Getting into YC with a Fork of Redis,https://console.dev/qa/keydb-john-sully/,2021-04-27 22:28:06
