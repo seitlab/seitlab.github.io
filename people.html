@@ -40,12 +40,6 @@
 	</script>
 	<div class="container mt-4">
 
-
-		<div class="col-lg-12">
-			<h2 class="my-4">People</h2>
-		</div>
-
-
 		<div class="row">
 			<div class="col-lg-12">
 				<h3 class="my-4">Faculty</h3>
@@ -139,8 +133,7 @@
 				<b>Graduate Assistant</b><br/>
 				<img style="height: 22px;" src="/images/email_guangjing.png"/><br />
 				Sept. 2020 &ndash; Present<br />
-				Website: <a href="https://myrespect.github.io/">https://myrespect.github.io/</a><br />
-				MS: University of Science and Technology of China<br />
+				MS: University of Science & Technology of China<br />
 				BS: Southwest University, China
 			</div>
 
@@ -186,7 +179,7 @@
 			</div>
 
 			<ul>
-				<b>Postdoc and Graduated Doctoral Students:</b>
+				<h5 class="my-4">Postdoc and Graduated Doctoral Students</h5>
 				<li><b>Zhiqiang Li</b>, PhD at UNL, 
 					<i>Aug. 2015 &ndash; Apr. 2020</i>, 
 					Joined A10 Networks as software engineer</li>
@@ -198,8 +191,7 @@
 				joined Songshan Lake Materials Lab of Chinese Academy of Science as a lecturer</li>
 				</li></br>
 
-				<b>Graduated Master Students:</b>
-				<!-- <li>Boyang Hu, BS: Beijing Jiaotong University, China, MS: University of Maryland, College Park, Aug 2017 &ndash; July 2019</li> -->
+				<h5 class="my-4">Graduated Master Students</h5>
 				<li><b>Qicheng Lin</b>, MS at UNL, 
 					<i>Aug. 2017 &ndash; July 2019</i>,
 					Joined BNY Mellon as a software engineer</li>
@@ -209,7 +201,7 @@
 					<i>Sep. 2015 &ndash; Aug. 2016</i>, 
 					Joined Univ. of Illinois at Chicago as a PhD student</li></br>
 
-				<b>Undergraduate Students:</b>
+				<h5 class="my-4">Undergraduate Students</h5>
 				<li><b>Jun Sun</b>, BS at UNL, 
 					<i>Apr. 2017 &ndash; Aug. 2020</i>, 
 					Joined University of Nebraska &ndash; Lincoln as a graduate student</li>
@@ -239,13 +231,29 @@
 		</div>
 
 	</div>
-	<!-- Footer -->
-	<div id="footer-ph"></div>
-	<script>
-		$(function(){
-			$("#footer-ph").load("./footer.html");
-		});
-	</script>
+
+    <!-- Footer -->
+    <div id="footer-ph"></div>
+
+    <script>
+        $(function(){
+            $("#footer-ph").load("./footer.html");
+        });
+    </script>
+
+    <script>
+        function ct() {
+          return document.compatMode == "BackCompat" ? document.body.clientHeight : document.documentElement.clientHeight;
+        }
+        var f = document.getElementById('footer-ph');
+        (window.onresize = function() {
+          f.style.position = document.body.scrollHeight > ct() ? 'static' : 'fixed';
+          f.style.left = "0";
+          f.style.bottom = "0";
+          f.style.width = "100%"
+        })();
+
+    </script>
 
 	<!-- Bootstrap core JavaScript -->
 	<script src="vendor/jquery/jquery.min.js"></script>

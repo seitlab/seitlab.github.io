@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="SEIT Lab">
+
+    <title>SEIT Lab - Posts</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/small-business.css" rel="stylesheet">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+
+</head>
+
+<body>
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Navigation -->
+    <div id="nav-placeholder"></div>
+    <script>
+      $(function(){
+        $("#nav-placeholder").load("./nav.html");
+      });
+    </script>
+
+    <div class="container mt-4">
+      <h3>Security Posts</h3>
+      <div id="security_table-container"></div>
+      <br>
+      <h3>AI Posts</h3>
+      <div id="ai_table-container"></div>
+      <br>
+      <h3>IoT Posts</h3>
+      <div id="iot_table-container"></div>
+      <br>
+      <h3>Blockchain Posts</h3>
+      <div id="blockchain_table-container"></div>      
+      <br>
+
+    </div>
+
+    <!-- Footer -->
+    <div id="footer-ph"></div>
+
+    <script>
+        $(function(){
+            $("#footer-ph").load("./footer.html");
+        });
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="assets/js/csv_to_html_table.js"></script>
+
+    <script>
+        function format_link(link){
+          if (link)
+            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+          else
+            return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/security_title_url.csv",
+            element: "security_table-container",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: true,
+                searching:true,
+                "info": true,
+                "lengthMenu": [10,20]
+            },
+            custom_formatting: [
+                [2, format_link]
+            ]
+        });
+    </script>
+
+    <script>
+        function format_link(link){
+          if (link)
+            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+          else
+            return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/ai_title_url.csv",
+            element: "ai_table-container",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: true,
+                searching:true,
+                "info": true,
+                "lengthMenu": [10,20] 
+
+            },
+            custom_formatting: [
+                [2, format_link]
+            ]
+        });
+    </script>
+
+    <script>
+        function format_link(link){
+          if (link)
+            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+          else
+            return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/blockchain_title_url.csv",
+            element: "blockchain_table-container",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: true,
+                searching:true,
+                "info": true,
+                "lengthMenu": [10, 20]
+            },
+            custom_formatting: [
+                [2, format_link]
+            ]
+        });
+    </script>
+
+    <script>
+        function format_link(link){
+          if (link)
+            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+          else
+            return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/iot_title_url.csv",
+            element: "iot_table-container",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: true,
+                searching:true,
+                "info": true,
+                "lengthMenu": [10, 20]
+            },
+            custom_formatting: [
+                [2, format_link]
+            ]
+        });
+    </script>
+
+  </body>
+
+</html>

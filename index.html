@@ -28,6 +28,11 @@
         gtag('config', 'G-SWS2DLHFTG');
     </script>
 
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+
   </head>
 
   <body>
@@ -51,29 +56,14 @@
       <!-- Heading Row -->
       <div class="row my-4">
         <div class="col-lg-6">
-          <h1>SEIT Lab</h1>
+          <h3>Our Mission</h3>
           <p>
             SEIT Lab (SEcure and Intelligent Things Lab) in <a href="https://www.cse.msu.edu/">Computer Science and Engineering</a> department at <a href="https://msu.edu/">Michigan State University</a> is directed by <a href="http://cse.msu.edu/~qyan/">Prof. Qiben Yan.</a> <strong>Our mission is to develop and integrate Secure and Intelligent Things in human lives to enrich living experience and foster creative connections for a better world.</strong> The lab conducts research on security and privacy issues of Internet-of-Things (IoT) and Cyber Physical Systems, with the current emphases on IoT/CPS security, wireless and mobile network security, blockchain system security, and threat intelligence and attack prevention. We are building a data-driven secure network infrastructure – including anomaly detection system, intelligent monitoring and analysis system, attack resilient communication system – to manage massive Internet of Things and to provide security add-ons for the modern networks under cyber threats. 
-            </p>
+          </p>
 
-
-            <!--<div class="p-3 mb-2 bg-secondary text-white">
-                <b>
-                  Multiple Research Assistant positions available at SEIT Lab @ MSU! If you are interested in Internet-of-Things, AI Applications, Blockchain, Cyber Security, Mobile Systems, Wireless Systems,
-                  please email your CV, Transcripts, and Publications (if any) to <a href="http://cse.msu.edu/~qyan/">Prof. Yan</a>. Visiting/exchange scholars and students are also welcome to contact us.
-                </b>
-          </div>-->
-
-
-            <!--<p>
-              <b>Our Address:</b><br/>
-              Department of Computer Science and Engineering<br/>
-              Michigan State University,<br/>
-              East Lansing, MI
-            </p>-->
-
-
-        </div>
+          <h3><a href="./posts.html">Security Posts</a></h3>
+            <div id="security_table-container"></div>
+      </div>
 
         <!-- <div class="col-lg-4">
           <img class="img-fluid rounded" src="./images/ngf2019.jpg" alt="">
@@ -99,8 +89,7 @@
         <div class="card-body">
           <p class="text-white m-0">
             <b>
-              <i>Multiple Research Assistant positions available at SEIT Lab @ MSU! If you are interested in Internet-of-Things, AI Applications, Blockchain, Cyber Security, Mobile Systems, Wireless Systems,
-                  please email your CV, Transcripts, and Publications (if any) to Prof. Yan. Visiting/exchange scholars and students are also welcome to contact us.</i>
+              <i>Multiple Research Assistant positions available at SEIT Lab @ MSU! If you are interested in Internet-of-Things, AI Applications, Blockchain, Cyber Security, Mobile Systems, Wireless Systems, please email your CV, Transcripts, and Publications (if any) to Prof. Yan. Visiting/exchange scholars and students are also welcome to contact us.</i>
             </b>
         </div> </div>
 
@@ -178,12 +167,50 @@
       });
     </script>
 
-  </body>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="assets/js/csv_to_html_table.js"></script>
+
+    <script>
+        function format_link(link) {
+            if (link)
+                return "<a href='" + "./posts.html" + "' target='_blank'>" + link + "</a>";
+            else return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/security_title_url.csv",
+            element: "security_table-container",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: true,
+                searching:true,
+                info: false,
+                "lengthMenu": [7,8,9],
+                  "columns": [
+                    { "visible": true },
+                    { "visible": true },
+                    { "visible": false },
+                    { "visible": false },
+                  ] 
+
+            },
+            custom_formatting: [
+                [1, format_link]
+            ]
+        });
+    </script>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-
-
+  </body>
 </html>
