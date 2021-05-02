@@ -1,111 +1,97 @@
 Index,Title,URL,Time
-0,5G-capable devices access mmWave 5G less than 1% of the time across all US,https://arstechnica.com/information-technology/2021/04/verizon-leads-all-us-carriers-in-mmwave-5g-availability-at-0-8/,2021-05-02 08:31:50
-1,Newest Respects Your Freedom certified device is a 802.11n router,https://www.fsf.org/news/free-software-wireless-n-mini-router-v3-from-thinkpenguin-inc-now-fsf-certified-to-respect-your-freedom,2021-05-02 08:31:36
-2,"Raspberry Pi Imager Hidden Settings – Setup Hostname, SSH and WiFi",https://www.youtube.com/watch?v=om8gGB3gyT0,2021-05-02 08:30:58
-3,Wi-Fi packet capturing on M1 Macs is broken,https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/,2021-05-02 08:30:33
-4,A cellular platform for the development of synthetic living machines,https://robotics.sciencemag.org/content/6/52/eabf1571,2021-05-02 08:30:19
-5,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-29 01:00:31
-6,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-29 00:00:29
-7,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-28 23:01:21
-8,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 23:01:15
-9,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 23:01:08
-10,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 23:01:04
-11,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 23:00:51
-12,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 23:00:24
-13,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 22:00:24
-14,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-28 21:01:26
-15,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 21:01:12
-16,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 21:01:05
-17,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 21:01:00
-18,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 21:00:47
-19,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 21:00:21
-20,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 20:01:08
+0,5G-capable devices access mmWave 5G less than 1% of the time across all US,https://arstechnica.com/information-technology/2021/04/verizon-leads-all-us-carriers-in-mmwave-5g-availability-at-0-8/,2021-05-02 09:01:45
+1,"Raspberry Pi Imager Hidden Settings – Setup Hostname, SSH and WiFi",https://www.youtube.com/watch?v=om8gGB3gyT0,2021-05-02 09:01:00
+2,Silicon carbide radio circuits can take the volcanic heat of Venus,https://spectrum.ieee.org/semiconductors/materials/the-radio-we-could-send-to-hell,2021-05-02 09:00:19
+3,5G-capable devices access mmWave 5G less than 1% of the time across all US,https://arstechnica.com/information-technology/2021/04/verizon-leads-all-us-carriers-in-mmwave-5g-availability-at-0-8/,2021-05-02 08:31:50
+4,Newest Respects Your Freedom certified device is a 802.11n router,https://www.fsf.org/news/free-software-wireless-n-mini-router-v3-from-thinkpenguin-inc-now-fsf-certified-to-respect-your-freedom,2021-05-02 08:31:36
+5,"Raspberry Pi Imager Hidden Settings – Setup Hostname, SSH and WiFi",https://www.youtube.com/watch?v=om8gGB3gyT0,2021-05-02 08:30:58
+6,Wi-Fi packet capturing on M1 Macs is broken,https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/,2021-05-02 08:30:33
+7,A cellular platform for the development of synthetic living machines,https://robotics.sciencemag.org/content/6/52/eabf1571,2021-05-02 08:30:19
+8,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-29 01:00:31
+9,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-29 00:00:29
+10,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-28 23:01:21
+11,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 23:01:08
+12,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-28 23:01:08
+13,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 23:01:04
+14,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 23:00:24
+15,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 22:00:21
+16,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-28 21:01:12
+17,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 21:01:05
+18,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 21:01:00
+19,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 21:00:27
+20,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-28 20:01:08
 21,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 20:01:02
 22,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 20:00:55
-23,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 20:00:36
-24,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 20:00:19
+23,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 20:00:26
+24,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-28 19:01:18
 25,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-28 19:01:07
-26,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-28 19:01:07
-27,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 19:01:01
-28,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 19:00:54
-29,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 19:00:22
-30,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 18:00:21
-31,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-28 17:02:24
-32,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-28 17:01:45
-33,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 17:01:24
-34,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 17:01:17
-35,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 17:01:00
-36,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 17:00:53
-37,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 17:00:34
-38,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 17:00:12
-39,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 16:00:23
-40,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-28 15:02:22
-41,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-28 15:01:45
-42,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-28 15:01:21
-43,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 15:01:21
-44,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 15:01:02
-45,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 15:00:48
-46,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 15:00:32
-47,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 15:00:16
-48,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 14:01:01
-49,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 14:00:54
-50,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 14:00:28
-51,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 14:00:14
-52,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-28 13:01:42
-53,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-28 13:01:20
-54,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-28 13:01:13
-55,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 13:01:06
-56,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 13:00:50
-57,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 13:00:45
-58,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 13:00:15
-59,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 12:00:53
-60,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 12:00:46
-61,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 12:00:14
-62,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 11:00:20
-63,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 11:00:10
-64,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 10:00:15
-65,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 09:01:17
-66,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 09:01:10
-67,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 09:00:53
-68,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 09:00:46
-69,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 09:00:21
-70,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 09:00:11
-71,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 08:00:16
-72,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-28 07:01:21
-73,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-28 07:01:15
-74,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 07:01:01
-75,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 07:00:48
-76,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 07:00:41
-77,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 07:00:17
-78,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 06:00:47
-79,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 06:00:34
-80,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 06:00:19
-81,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 06:00:09
-82,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 05:00:37
-83,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 05:00:17
-84,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-28 04:02:15
-85,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-28 04:01:32
-86,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-28 04:01:15
-87,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 04:00:56
-88,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 04:00:44
-89,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 04:00:40
-90,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 04:00:22
-91,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 04:00:11
-92,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-28 03:00:58
-93,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 03:00:45
-94,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 03:00:38
-95,Can you become a firmware engineer(embedded software engineer) through bootcamp?,item?id=26964300,2021-04-28 03:00:14
-96,Kyle Vogt of Cruise Automation (YC16) blocking people who question sped up video,https://twitter.com/IfNotPike/status/1385311192231546880,2021-04-27 22:31:14
-97,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-27 22:31:01
-98,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-27 22:30:24
-99,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-27 22:30:24
-100,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-27 22:29:04
-101,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-27 22:28:59
-102,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-27 22:28:52
-103,Ask HN: Router recommendation to replace Ubiquiti?,item?id=26953332,2021-04-27 22:28:52
-104,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-27 22:28:34
-105,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-27 22:28:34
-106,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-27 22:28:34
-107,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-27 22:28:20
-108,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-27 22:28:20
-109,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-27 22:28:06
+26,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 19:01:01
+27,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 19:00:54
+28,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 19:00:17
+29,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 18:00:14
+30,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-28 17:01:50
+31,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-28 17:01:31
+32,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 17:01:17
+33,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 17:01:00
+34,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 17:00:53
+35,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 17:00:16
+36,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 16:00:23
+37,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-28 15:02:22
+38,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-28 15:01:45
+39,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 15:01:21
+40,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 15:01:07
+41,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 15:00:56
+42,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 15:00:48
+43,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 15:00:16
+44,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 14:01:01
+45,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 14:00:54
+46,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 14:00:14
+47,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-28 13:02:16
+48,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-28 13:01:37
+49,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 13:01:20
+50,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 13:01:06
+51,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 13:00:50
+52,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 13:00:45
+53,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 13:00:11
+54,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 12:00:46
+55,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 12:00:14
+56,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 11:00:13
+57,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 10:00:15
+58,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 09:01:17
+59,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 09:00:58
+60,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 09:00:46
+61,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 09:00:40
+62,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 09:00:11
+63,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 08:00:12
+64,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 07:01:21
+65,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 07:01:01
+66,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 07:00:48
+67,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 07:00:41
+68,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 07:00:12
+69,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 06:00:40
+70,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 06:00:34
+71,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 06:00:09
+72,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 05:00:37
+73,Kyle Vogt of Cruise Automation (YC16) blocking people who question sped up video,https://twitter.com/IfNotPike/status/1385311192231546880,2021-04-28 04:02:21
+74,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-28 04:01:32
+75,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-28 04:01:15
+76,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-28 04:01:09
+77,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-28 04:00:44
+78,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-28 04:00:40
+79,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-28 04:00:11
+80,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-28 03:00:45
+81,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-28 03:00:45
+82,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-28 03:00:32
+83,Kyle Vogt of Cruise Automation (YC16) blocking people who question sped up video,https://twitter.com/IfNotPike/status/1385311192231546880,2021-04-27 22:31:14
+84,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-27 22:31:01
+85,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-27 22:30:24
+86,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-27 22:30:24
+87,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-27 22:29:04
+88,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-27 22:28:59
+89,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-27 22:28:52
+90,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-27 22:28:34
+91,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-27 22:28:34
+92,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-27 22:28:34
+93,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-27 22:28:20
+94,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-27 22:28:20
+95,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-27 22:28:06
