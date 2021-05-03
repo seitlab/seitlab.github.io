@@ -183,6 +183,26 @@
             else return "";
         }
 
+        function getDay(day){
+            var today = new Date();
+            var targetday_milliseconds=today.getTime() + 1000*60*60*24*day;
+            today.setTime(targetday_milliseconds);
+            var tYear = today.getFullYear();
+            var tMonth = today.getMonth();
+            var tDate = today.getDate();
+            tMonth = doHandleMonth(tMonth + 1);
+            tDate = doHandleMonth(tDate);
+            return tYear+"-"+tMonth+"-"+tDate;
+        }
+
+        function doHandleMonth(month){
+            var m = month;
+            if(month.toString().length == 1){
+             m = "0" + month;
+            }
+            return m;
+        }
+
         function mark_today(tt) {
           var now = new Date();
           var year = now.getFullYear();
@@ -198,7 +218,15 @@
           var time2 = tt.substring(0, 10);
             if (time1 == time2)
                 return "<i>today</i>";
-            else return "<i>old</i>";
+            else {
+              for (i=-1; i>-8; i--){
+                if (time2 == getDay(i).toString()){
+                  return "<i>recent</i>";
+                }
+              }
+              return "<i>old</i>";
+              // return getDay(i).toString();
+            }
         }
 
         CsvToHtmlTable.init({
