@@ -25,7 +25,7 @@ if __name__ == '__main__':
     source = CTI_DB('cti_cps')
     db=source.connection()
     item = source.get_news(db)
-    image_name = random.choice(['blockchain.jpg', 'smartphone.jpg', 'security.jpg'])
+    image_name = random.choice(['blockchain.jpg', 'smartphone.jpg', 'security.jpg', 'smarthome.jpg'])
     html_link = item[-1]
     html_title = item[2]
     html_date = item[4]
