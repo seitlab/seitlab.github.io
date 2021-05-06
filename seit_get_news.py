@@ -29,6 +29,6 @@ if __name__ == '__main__':
     html_link = item[-1]
     html_title = item[2]
     html_date = item[4]
-    html_string = '<div class="feature_article_img"><img class="img-responsive top_static_article_img" src="assets/img/'+image_name + '" alt="feature-top"> </div> <div class="feature_article_inner"> <div class="tag_lg red">Hot News</div> <div class="feature_article_title"> <h1><a href='+ html_link+ ' target="_self"> ' + html_title + ' </a></h1> </div> <div class="feature_article_date"><a href="#" target="_self">Stive Clark</a>,<a href="#" target="_self"> '+ html_date + ' </a> </div> </div>'
+    html_string = '<div class="feature_article_img"><img class="img-responsive top_static_article_img" src="assets/img/'+image_name + '" alt="feature-top"> </div> <div class="feature_article_inner"> <div class="tag_lg red">Hot Threat News</div> <div class="feature_article_title"> <h1><a href='+ html_link+ ' target="_self"> ' + html_title + ' </a></h1> </div> <div class="feature_article_date"><a href="#" target="_self">Stive Clark</a>,<a href="#" target="_self"> '+ html_date + ' </a> </div> </div>'
     with open('./data/sub_postshow.txt', 'w') as f:
         f.write(html_string)
