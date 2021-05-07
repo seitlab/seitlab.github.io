@@ -10,75 +10,79 @@ Index,Title,URL,Time(UTC)
 8,Google will soon switch on two-factor authentication by default,https://www.theverge.com/2021/5/6/22422778/google-accounts-enabling-two-step-verification-default,2021-05-07 00:00:34
 9,Crypto Should Care About Justin Sun’s Steem Drama,https://www.coindesk.com/why-crypto-should-care-about-justin-suns-steem-drama,2021-05-07 00:00:34
 10,China turned a prize-winning iPhone hack against the Uyghurs,https://www.technologyreview.com/2021/05/06/1024621/china-apple-spy-uyghur-hacker-tianfu/,2021-05-07 00:01:14
-11,The Dogecoin Joke Is Turning Serious in Latest Crypto Binge,https://www.bloomberg.com/news/articles/2021-05-05/the-dogecoin-joke-is-turning-serious-in-latest-crypto-binge,2021-05-06 00:00:17
-12,U.S. Backs Waiver of Intellectual Property Protection for Covid-19 Vaccines,https://www.wsj.com/articles/u-s-backs-waiver-of-intellectual-property-protection-for-covid-19-vaccines-11620243518,2021-05-06 00:00:29
-13,Windows Defender bug may fill your hard drive with thousands of files,https://www.windowslatest.com/2021/05/05/microsoft-fixes-windows-10-defender-bug-generating-random-files/,2021-05-06 00:00:36
-14,Biden Administration Backs Lifting Vaccine Patent Protections,https://www.nytimes.com/live/2021/05/05/world/covid-vaccine-coronavirus-cases,2021-05-06 00:01:52
-15,Belgian parliament halts China Uyghur 'genocide' debate after DDoS,https://www.theregister.com/2021/05/05/belnet_belgium_ddos/,2021-05-06 06:00:28
-16,"US seen as bigger threat to democracy than Russia or China, global poll finds",https://www.theguardian.com/world/2021/may/05/us-threat-democracy-russia-china-global-poll,2021-05-06 06:00:41
-17,Biden’s Vaccine Patent Theft,https://www.wsj.com/articles/bidens-vaccine-patent-theft-11620255362,2021-05-06 06:01:30
-18,Bold Adversarial Journalism: The Intercept Does the Feds Work,https://twitter.com/ggreenwald/status/1389722584804102148,2021-05-06 09:12:35
-19,SeL4 on RISC-V Verified to Binary Code,https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/,2021-05-05 12:00:12
-20,Tesla Car Hacked Remotely from Drone via Zero-Click Exploit,https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit,2021-05-05 12:00:12
-21,Using QEMU-user emulation to reverse engineer binaries,https://ariadne.space/2021/05/05/using-qemu-user-emulation-to-reverse-engineer-binaries/,2021-05-05 12:00:12
-22,"MH370 pilot made many turns and speed changes, new report reveals",https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/,2021-05-05 12:00:12
-23,TrueVault (YC W14) is hiring an engineering lead to lead new privacy product,https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead,2021-05-05 12:00:12
-24,Security and Privacy Risks of Number Recycling at Mobile Carriers in the U.S. [pdf],https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf,2021-05-05 12:00:17
-25,What's so special about vector embeddings,https://www.pinecone.io/learn/vector-embeddings/,2021-05-05 12:00:17
-26,Putting an old digital clock (with an outdoor thermometer) on steroids,https://wejn.org/2021/05/putting-old-temp-clock-on-steroids/,2021-05-05 12:00:17
-27,Dell patches 12-year-old driver vulnerability impacting millions of PCs,https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/,2021-05-05 12:00:17
-28,Bill aims to halt Bitcoin mining until its environmental impact can be assessed,https://markets.businessinsider.com/currencies/news/new-york-ny-bill-bitcoin-mining-environment-assessment-2021-5-1030386497,2021-05-05 12:00:24
-29,FreeSurfer: Open-source software for processing and analyzing brain MRI images,https://surfer.nmr.mgh.harvard.edu/,2021-05-05 12:00:24
-30,Bob Cassette Rewinder: Hacking Detergent DRM,https://github.com/dekuNukem/bob_cassette_rewinder,2021-05-05 12:00:30
-31,Show HN: ReplPad – Javascript Repl/Scratchpad,https://replpad.com/,2021-05-05 12:00:37
-32,"4,700 Amazon employees had unauthorized access to private seller data",https://arstechnica.com/tech-policy/2021/05/4700-amazon-employees-had-unauthorized-access-to-private-seller-data/,2021-05-05 12:00:41
-33,"Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis",https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis,2021-05-05 12:00:41
-34,New Spectre attack once again sends Intel and AMD scrambling for a fix,https://arstechnica.com/gadgets/2021/05/new-spectre-attack-once-again-sends-intel-and-amd-scrambling-for-a-fix/,2021-05-05 12:00:41
-35,Reverse Debugging at Scale,https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/,2021-05-05 12:00:48
-36,"For some, diligence against Covid-19 remains an expression of political identity",https://www.theatlantic.com/politics/archive/2021/05/liberals-covid-19-science-denial-lockdown/618780/,2021-05-05 12:00:48
-37,Havana syndrome: NSA officer’s case hints at microwave attacks since 90s,https://www.theguardian.com/world/2021/may/02/havana-syndrome-nsa-officer-microwave-attacks-since-90s,2021-05-05 12:00:55
-38,Then a Hacker Began Posting Patients’ Deepest Secrets Online,https://www.wired.com/story/vastaamo-psychotherapy-patients-hack-data-breach/,2021-05-05 12:00:55
-39,What3Words sends legal threat to security researcher for sharing an alternative,https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/,2021-05-05 12:00:55
-40,Launching an all female hacker house,https://www.enter-thegarden.com/,2021-05-05 12:00:55
-41,Clodl: Turn dynamically linked ELF binaries into self-contained closures,https://github.com/tweag/clodl,2021-05-05 12:01:02
-42,"In Singapore, Covid vs. privacy is no contest",https://www.lowyinstitute.org/the-interpreter/singapore-covid-vs-privacy-no-contest,2021-05-05 12:01:02
-43,"Show HN: Monito, a browser extension for software testers",https://getmonito.com,2021-05-05 12:01:07
-44,Closing Photoshop will fix CSS cursor:pointer bug,https://stackoverflow.com/a/35212344/109396,2021-05-05 12:01:14
-45,Security and Privacy Risks of Number Recycling at Mobile Carriers in the US,https://recyclednumbers.cs.princeton.edu/,2021-05-05 12:01:14
-46,Digital Sundial,https://en.wikipedia.org/wiki/Digital_sundial,2021-05-05 12:01:14
-47,What I Learned from 2 Years at a Digital Agency,https://blog.jeremyshaw.co.nz/2021/05/04/What-I-Learned-From-2-Years-at-a-Digital-Agency/,2021-05-05 12:01:19
-48,The Free Software Foundation reveals how RMS was re-elected and its future,https://www.zdnet.com/article/the-free-software-foundation-reveals-how-rms-was-re-elected-and-its-future/,2021-05-05 18:00:14
-49,Peloton’s API let anyone grab riders’ private account data,https://techcrunch.com/2021/05/05/peloton-bug-account-data-leak/,2021-05-05 18:00:14
-50,Malicious Office 365 Apps Are the Ultimate Insiders,https://krebsonsecurity.com/2021/05/malicious-office-365-apps-are-the-ultimate-insiders/,2021-05-05 18:00:21
-51,Don’t buy the fearmongering: The Covid-19 threat is waning,https://nypost.com/2021/05/04/dont-buy-the-fearmongering-the-covid-19-threat-is-ending/,2021-05-05 18:00:48
-52,Show HN: JavaScript IP Country lookup in under 500KiB,https://www.npmjs.com/package/ip3country,2021-05-05 18:00:53
-53,Bitcoin Core: Bitcoin Core 0.21.1 released with Taproot activation code,https://bitcoincore.org/en/2021/05/01/release-0.21.1/,2021-05-04 09:00:44
-54,About 1.5M people still pay for AOL (but for tech support and id theft s/w),https://www.cnbc.com/2021/05/03/aol-1point5-million-people-still-pay-for-service-but-not-for-dial-up-internet.html,2021-05-04 09:00:44
-55,Chat with a Digital Version of Einstein,https://einstein.digitalhumans.com/,2021-05-04 09:00:44
-56,Interview with Thomas Gleixner on the real-time Linux kernel patch set,https://www.linux.com/news/in-the-trenches-with-thomas-gleixner-real-time-linux-kernel-patch-set/,2021-05-04 09:00:50
-57,Verizon selling Yahoo and AOL to private equity firm for $5B,https://www.cbsnews.com/news/yahoo-aol-verizon-sale-apollo-global-management/,2021-05-04 09:00:50
-58,New x86 micro-op vulnerability breaks all known Spectre defenses,https://www.sciencedaily.com/releases/2021/04/210430165903.htm,2021-05-04 09:00:50
-59,Screening healthcare workers could serve early warning system for future viruses,https://www.rcsi.com/dublin/news-and-events/news/news-article/2021/05/screening-healthcare-workers-could-serve-as-early-warning-system-for-future-viruses,2021-05-04 09:00:50
-60,Flash Player Getting Removed from Windows with July Patch Tuesday,https://www.windowslatest.com/2021/05/04/windows-10-patch-tuesday-security-update-will-remove-flash-player-in-july/,2021-05-04 09:00:50
-61,"Clubhouse doesn’t value privacy, security or accessibility",https://www.cigionline.org/articles/4-billion-app-doesnt-value-privacy-security-or-accessibility,2021-05-04 09:00:55
-62,Enve: An Open Source 2D Animation Software,https://itsfoss.com/enve-2d-animation/,2021-05-04 09:00:55
-63,"Yes, You Should Estimate Software Projects – The Pragmatic Engineer",https://blog.pragmaticengineer.com/yes-you-should-estimate/,2021-05-04 09:00:58
-64,"Cars are about to be a software platform, subscriptions and all",https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all,2021-05-04 09:01:02
-65,Turn GitHub into an RSS Reader,https://github.com/osmoscraft/osmosfeed,2021-05-04 09:01:02
-66,Software developer tracks down code for beloved 41-year old game,https://thenewstack.io/software-developer-tracks-down-code-for-a-beloved-41-year-old-text-adventure/,2021-05-04 09:01:02
-67,The Linux kernel has surpassed one million git commits,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/,2021-05-04 09:01:07
-68,FB JavaScript SDK down,https://developers.facebook.com/status/issues/492652922187445/,2021-05-04 09:01:14
-69,We applied for a job with a ransomware gang,https://cybernews.com/security/how-we-applied-to-work-with-ransomware-gang/,2021-05-04 09:01:14
-70,"Turkey adds crypto firms to money laundering, terror financing rules",https://www.reuters.com/technology/turkey-adds-crypto-firms-money-laundering-terror-financing-rules-2021-05-01/,2021-05-04 09:01:14
-71,Indian scientists flag virus mutations that could ‘evade immune response’,https://www.reuters.com/world/india/indian-scientists-flag-virus-mutations-that-could-evade-immune-response-2021-05-01/,2021-05-04 09:01:14
-72,Biden team may partner with private firms to bypass legal limits on monitoring,https://www.cnn.com/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html,2021-05-04 09:01:14
-73,Researchers Demo Potential for Zero-Knowledge Proofs in Vulnerability Disclosure,https://www.darpa.mil/news-events/2021-04-22,2021-05-04 09:01:21
-74,New Spectre Variants Discovered by Exploiting Micro-Op Caches,https://www.phoronix.com/scan.php?page=news_item&px=Spectre-Micro-Op-Cache-Exploits,2021-05-04 09:01:21
-75,Substack: How the game-changer turned poacher,https://www.theguardian.com/media/2021/may/02/substack-how-the-game-changer-turned-poacher,2021-05-04 09:01:25
-76,ShellCheck: Finds bugs in your shell scripts,https://www.shellcheck.net/,2021-05-04 09:01:32
-77,"More US agencies potentially hacked, this time with Pulse Secure exploits",https://arstechnica.com/gadgets/2021/04/more-us-agencies-potentially-hacked-this-time-with-pulse-secure-exploits/,2021-05-04 09:01:32
-78,"Antarctic ice-sheet melting to lift sea level higher than thought, study says",https://phys.org/news/2021-04-antarctic-ice-sheet-sea-higher-thought.html,2021-05-04 09:01:38
-79,Dozens of viruses seem to use a different DNA base,https://arstechnica.com/science/2021/04/lots-of-viruses-have-a-distinct-form-of-dna-with-its-own-base/,2021-05-04 09:01:38
-80,Verizon sells Yahoo and AOL to private equity firm for $5B,https://www.axios.com/verizon-yahoo-aol-apollo-03505214-29e7-4f73-9e77-3d778233ecad.html,2021-05-04 09:01:45
-81,"Wormhole – Simple, private file sharing",https://wormhole.app/,2021-05-04 09:01:45
-82,"New Spectre Vulnerability Beats Mitigations, Performance to Badly Drop After Fix",https://www.techpowerup.com/281718/new-spectre-vulnerability-version-beats-all-mitigations-performance-to-badly-degrade-after-the-fix,2021-05-04 09:01:45
+11,Exploiting Aliasing for Manga Restoration,https://github.com/msxie92/MangaRestoration,2021-05-07 18:00:10
+12,Amazon Fake Reviews Scam Exposed in Data Breach,https://www.safetydetectives.com/blog/amazon-reviews-leak-report/,2021-05-07 18:00:10
+13,Shifting the impossible to the inevitable: A Private ARPA user manual,https://benjaminreinhardt.com/parpa,2021-05-07 18:00:15
+14,Privacy activist Max Schrems says Microsoft's EU data move won't block NSA,https://www.theregister.com/2021/05/07/schrems_slams_microsoft_eu_data/,2021-05-07 18:00:15
+15,French cyber insurance provider to stop covering ransomware,https://www.euronews.com/2021/05/07/cybercrime-insurance-giant-axa-to-stop-covering-ransomware-payments-in-france,2021-05-07 18:00:15
+16,Health boss unsure how many patients impacted by dosage bungle blamed on Windows,https://www.abc.net.au/news/2021-05-07/sa-health-unsure-of-patient-impact-of-medication-dosage-bungle/100122958,2021-05-07 18:00:29
+17,How We Manage New York Times Readers’ Data Privacy,https://open.nytimes.com/how-we-manage-new-york-times-readers-data-privacy-d39627d79a64,2021-05-07 18:01:28
+18,The Dogecoin Joke Is Turning Serious in Latest Crypto Binge,https://www.bloomberg.com/news/articles/2021-05-05/the-dogecoin-joke-is-turning-serious-in-latest-crypto-binge,2021-05-06 00:00:17
+19,U.S. Backs Waiver of Intellectual Property Protection for Covid-19 Vaccines,https://www.wsj.com/articles/u-s-backs-waiver-of-intellectual-property-protection-for-covid-19-vaccines-11620243518,2021-05-06 00:00:29
+20,Windows Defender bug may fill your hard drive with thousands of files,https://www.windowslatest.com/2021/05/05/microsoft-fixes-windows-10-defender-bug-generating-random-files/,2021-05-06 00:00:36
+21,Biden Administration Backs Lifting Vaccine Patent Protections,https://www.nytimes.com/live/2021/05/05/world/covid-vaccine-coronavirus-cases,2021-05-06 00:01:52
+22,Belgian parliament halts China Uyghur 'genocide' debate after DDoS,https://www.theregister.com/2021/05/05/belnet_belgium_ddos/,2021-05-06 06:00:28
+23,"US seen as bigger threat to democracy than Russia or China, global poll finds",https://www.theguardian.com/world/2021/may/05/us-threat-democracy-russia-china-global-poll,2021-05-06 06:00:41
+24,Biden’s Vaccine Patent Theft,https://www.wsj.com/articles/bidens-vaccine-patent-theft-11620255362,2021-05-06 06:01:30
+25,"Wormhole – Simple, private file sharing",https://wormhole.app/,2021-05-06 06:01:44
+26,Bold Adversarial Journalism: The Intercept Does the Feds Work,https://twitter.com/ggreenwald/status/1389722584804102148,2021-05-06 09:12:35
+27,Putting an old digital clock (with an outdoor thermometer) on steroids,https://wejn.org/2021/05/putting-old-temp-clock-on-steroids/,2021-05-05 12:00:17
+28,Dell patches 12-year-old driver vulnerability impacting millions of PCs,https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/,2021-05-05 12:00:17
+29,Bill aims to halt Bitcoin mining until its environmental impact can be assessed,https://markets.businessinsider.com/currencies/news/new-york-ny-bill-bitcoin-mining-environment-assessment-2021-5-1030386497,2021-05-05 12:00:24
+30,FreeSurfer: Open-source software for processing and analyzing brain MRI images,https://surfer.nmr.mgh.harvard.edu/,2021-05-05 12:00:24
+31,Bob Cassette Rewinder: Hacking Detergent DRM,https://github.com/dekuNukem/bob_cassette_rewinder,2021-05-05 12:00:30
+32,Show HN: ReplPad – Javascript Repl/Scratchpad,https://replpad.com/,2021-05-05 12:00:37
+33,"4,700 Amazon employees had unauthorized access to private seller data",https://arstechnica.com/tech-policy/2021/05/4700-amazon-employees-had-unauthorized-access-to-private-seller-data/,2021-05-05 12:00:41
+34,"Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis",https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis,2021-05-05 12:00:41
+35,New Spectre attack once again sends Intel and AMD scrambling for a fix,https://arstechnica.com/gadgets/2021/05/new-spectre-attack-once-again-sends-intel-and-amd-scrambling-for-a-fix/,2021-05-05 12:00:41
+36,Reverse Debugging at Scale,https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/,2021-05-05 12:00:48
+37,"For some, diligence against Covid-19 remains an expression of political identity",https://www.theatlantic.com/politics/archive/2021/05/liberals-covid-19-science-denial-lockdown/618780/,2021-05-05 12:00:48
+38,Havana syndrome: NSA officer’s case hints at microwave attacks since 90s,https://www.theguardian.com/world/2021/may/02/havana-syndrome-nsa-officer-microwave-attacks-since-90s,2021-05-05 12:00:55
+39,Then a Hacker Began Posting Patients’ Deepest Secrets Online,https://www.wired.com/story/vastaamo-psychotherapy-patients-hack-data-breach/,2021-05-05 12:00:55
+40,What3Words sends legal threat to security researcher for sharing an alternative,https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/,2021-05-05 12:00:55
+41,Launching an all female hacker house,https://www.enter-thegarden.com/,2021-05-05 12:00:55
+42,New x86 micro-op vulnerability breaks all known Spectre defenses,https://www.sciencedaily.com/releases/2021/04/210430165903.htm,2021-05-05 12:01:02
+43,Clodl: Turn dynamically linked ELF binaries into self-contained closures,https://github.com/tweag/clodl,2021-05-05 12:01:02
+44,Bitcoin Core: Bitcoin Core 0.21.1 released with Taproot activation code,https://bitcoincore.org/en/2021/05/01/release-0.21.1/,2021-05-05 12:01:02
+45,"In Singapore, Covid vs. privacy is no contest",https://www.lowyinstitute.org/the-interpreter/singapore-covid-vs-privacy-no-contest,2021-05-05 12:01:02
+46,"Show HN: Monito, a browser extension for software testers",https://getmonito.com,2021-05-05 12:01:07
+47,Closing Photoshop will fix CSS cursor:pointer bug,https://stackoverflow.com/a/35212344/109396,2021-05-05 12:01:14
+48,Security and Privacy Risks of Number Recycling at Mobile Carriers in the US,https://recyclednumbers.cs.princeton.edu/,2021-05-05 12:01:14
+49,Digital Sundial,https://en.wikipedia.org/wiki/Digital_sundial,2021-05-05 12:01:14
+50,What I Learned from 2 Years at a Digital Agency,https://blog.jeremyshaw.co.nz/2021/05/04/What-I-Learned-From-2-Years-at-a-Digital-Agency/,2021-05-05 12:01:19
+51,Chat with a Digital Version of Einstein,https://einstein.digitalhumans.com/,2021-05-05 12:01:19
+52,"Clubhouse doesn’t value privacy, security or accessibility",https://www.cigionline.org/articles/4-billion-app-doesnt-value-privacy-security-or-accessibility,2021-05-05 12:01:19
+53,Screening healthcare workers could serve early warning system for future viruses,https://www.rcsi.com/dublin/news-and-events/news/news-article/2021/05/screening-healthcare-workers-could-serve-as-early-warning-system-for-future-viruses,2021-05-05 12:01:23
+54,"Yes, You Should Estimate Software Projects – The Pragmatic Engineer",https://blog.pragmaticengineer.com/yes-you-should-estimate/,2021-05-05 12:01:23
+55,Verizon selling Yahoo and AOL to private equity firm for $5B,https://www.cbsnews.com/news/yahoo-aol-verizon-sale-apollo-global-management/,2021-05-05 12:01:30
+56,"Cars are about to be a software platform, subscriptions and all",https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all,2021-05-05 12:01:30
+57,Turn GitHub into an RSS Reader,https://github.com/osmoscraft/osmosfeed,2021-05-05 12:01:30
+58,Interview with Thomas Gleixner on the real-time Linux kernel patch set,https://www.linux.com/news/in-the-trenches-with-thomas-gleixner-real-time-linux-kernel-patch-set/,2021-05-05 12:01:41
+59,Enve: An Open Source 2D Animation Software,https://itsfoss.com/enve-2d-animation/,2021-05-05 12:01:41
+60,FB JavaScript SDK down,https://developers.facebook.com/status/issues/492652922187445/,2021-05-05 12:01:41
+61,Software developer tracks down code for beloved 41-year old game,https://thenewstack.io/software-developer-tracks-down-code-for-a-beloved-41-year-old-text-adventure/,2021-05-05 12:01:41
+62,Flash Player Getting Removed from Windows with July Patch Tuesday,https://www.windowslatest.com/2021/05/04/windows-10-patch-tuesday-security-update-will-remove-flash-player-in-july/,2021-05-05 12:01:41
+63,The Linux kernel has surpassed one million git commits,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/,2021-05-05 12:01:45
+64,"Turkey adds crypto firms to money laundering, terror financing rules",https://www.reuters.com/technology/turkey-adds-crypto-firms-money-laundering-terror-financing-rules-2021-05-01/,2021-05-05 12:01:45
+65,We applied for a job with a ransomware gang,https://cybernews.com/security/how-we-applied-to-work-with-ransomware-gang/,2021-05-05 12:01:45
+66,About 1.5M people still pay for AOL (but for tech support and id theft s/w),https://www.cnbc.com/2021/05/03/aol-1point5-million-people-still-pay-for-service-but-not-for-dial-up-internet.html,2021-05-05 12:01:45
+67,Researchers Demo Potential for Zero-Knowledge Proofs in Vulnerability Disclosure,https://www.darpa.mil/news-events/2021-04-22,2021-05-05 12:01:50
+68,New Spectre Variants Discovered by Exploiting Micro-Op Caches,https://www.phoronix.com/scan.php?page=news_item&px=Spectre-Micro-Op-Cache-Exploits,2021-05-05 12:02:03
+69,Substack: How the game-changer turned poacher,https://www.theguardian.com/media/2021/may/02/substack-how-the-game-changer-turned-poacher,2021-05-05 12:02:03
+70,Indian scientists flag virus mutations that could ‘evade immune response’,https://www.reuters.com/world/india/indian-scientists-flag-virus-mutations-that-could-evade-immune-response-2021-05-01/,2021-05-05 12:02:03
+71,"More US agencies potentially hacked, this time with Pulse Secure exploits",https://arstechnica.com/gadgets/2021/04/more-us-agencies-potentially-hacked-this-time-with-pulse-secure-exploits/,2021-05-05 12:02:18
+72,"Antarctic ice-sheet melting to lift sea level higher than thought, study says",https://phys.org/news/2021-04-antarctic-ice-sheet-sea-higher-thought.html,2021-05-05 12:02:23
+73,Biden team may partner with private firms to bypass legal limits on monitoring,https://www.cnn.com/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html,2021-05-05 12:02:23
+74,Dozens of viruses seem to use a different DNA base,https://arstechnica.com/science/2021/04/lots-of-viruses-have-a-distinct-form-of-dna-with-its-own-base/,2021-05-05 12:02:23
+75,ShellCheck: Finds bugs in your shell scripts,https://www.shellcheck.net/,2021-05-05 12:02:23
+76,SeL4 on RISC-V Verified to Binary Code,https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/,2021-05-05 18:00:10
+77,Tesla Car Hacked Remotely from Drone via Zero-Click Exploit,https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit,2021-05-05 18:00:14
+78,Using QEMU-user emulation to reverse engineer binaries,https://ariadne.space/2021/05/05/using-qemu-user-emulation-to-reverse-engineer-binaries/,2021-05-05 18:00:14
+79,The Free Software Foundation reveals how RMS was re-elected and its future,https://www.zdnet.com/article/the-free-software-foundation-reveals-how-rms-was-re-elected-and-its-future/,2021-05-05 18:00:14
+80,"MH370 pilot made many turns and speed changes, new report reveals",https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/,2021-05-05 18:00:14
+81,Peloton’s API let anyone grab riders’ private account data,https://techcrunch.com/2021/05/05/peloton-bug-account-data-leak/,2021-05-05 18:00:14
+82,Malicious Office 365 Apps Are the Ultimate Insiders,https://krebsonsecurity.com/2021/05/malicious-office-365-apps-are-the-ultimate-insiders/,2021-05-05 18:00:21
+83,What's so special about vector embeddings,https://www.pinecone.io/learn/vector-embeddings/,2021-05-05 18:00:21
+84,Security and Privacy Risks of Number Recycling at Mobile Carriers in the U.S. [pdf],https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf,2021-05-05 18:00:29
+85,Don’t buy the fearmongering: The Covid-19 threat is waning,https://nypost.com/2021/05/04/dont-buy-the-fearmongering-the-covid-19-threat-is-ending/,2021-05-05 18:00:48
+86,Show HN: JavaScript IP Country lookup in under 500KiB,https://www.npmjs.com/package/ip3country,2021-05-05 18:00:53
