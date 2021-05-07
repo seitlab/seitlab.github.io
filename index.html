@@ -204,7 +204,9 @@
         }
 
         function mark_today(tt) {
-          var now = new Date();
+          let _dif = new Date().getTimezoneOffset();
+          let utc_time = new Date().getTime() + _dif * 60 * 1000;
+          var now = new Date(utc_time);
           var year = now.getFullYear();
           var month = now.getMonth()+1;
           var date = now.getDate();
