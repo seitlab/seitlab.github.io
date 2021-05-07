@@ -184,7 +184,9 @@
         }
 
         function getDay(day){
-            var today = new Date();
+            let _dif = new Date().getTimezoneOffset();
+            let utc_time = new Date().getTime() + _dif * 60 * 1000;
+            var today = new Date(utc_time);
             var targetday_milliseconds=today.getTime() + 1000*60*60*24*day;
             today.setTime(targetday_milliseconds);
             var tYear = today.getFullYear();
