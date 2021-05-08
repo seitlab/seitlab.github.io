@@ -1,31 +1,32 @@
 Index,Title,URL,Time(UTC)
 0,"India holds up wireless approvals for China-made devices, delaying launches",https://www.reuters.com/business/media-telecom/exclusive-india-holds-up-wireless-approvals-china-made-devices-delaying-launches-2021-05-07/,2021-05-08 06:00:13
-1,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-07 00:00:10
-2,2021 Perception Sensor Industry Map,https://www.tangramvision.com/blog/the-2021-perception-sensor-industry-map,2021-05-06 00:00:17
-3,CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale,https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/,2021-05-06 09:12:28
-4,Hy: A dialect of Lisp that's embedded in Python,https://github.com/hylang/hy,2021-05-05 12:00:12
-5,What's so special about vector embeddings,https://www.pinecone.io/learn/vector-embeddings/,2021-05-05 12:00:17
-6,WiFiStation: A WiFi Interface for the Cidco MailStation,https://jcs.org/2021/04/23/wifistation,2021-05-05 12:00:17
-7,Self-Reproducing Cellular Automata,https://www.johndcook.com/blog/2021/05/03/self-reproducing-cellular-automata/,2021-05-04 09:00:12
-8,Show HN: Force-feedback controller for racing sims and speculations on next gen,https://www.3am.engineering/works/controller-feedback/,2021-05-03 09:00:25
-9,Amibian – Amiga emulation environment for Raspberry Pi,https://www.amibian.org/,2021-05-03 09:00:31
-10,A cellular platform for the development of synthetic living machines,https://robotics.sciencemag.org/content/6/52/eabf1571,2021-05-02 08:30:19
-11,Wi-Fi packet capturing on M1 Macs is broken,https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/,2021-05-02 08:30:33
-12,"Raspberry Pi Imager Hidden Settings – Setup Hostname, SSH and WiFi",https://www.youtube.com/watch?v=om8gGB3gyT0,2021-05-02 08:30:58
-13,Newest Respects Your Freedom certified device is a 802.11n router,https://www.fsf.org/news/free-software-wireless-n-mini-router-v3-from-thinkpenguin-inc-now-fsf-certified-to-respect-your-freedom,2021-05-02 08:31:36
-14,5G-capable devices access mmWave 5G less than 1% of the time across all US,https://arstechnica.com/information-technology/2021/04/verizon-leads-all-us-carriers-in-mmwave-5g-availability-at-0-8/,2021-05-02 08:31:50
-15,Silicon carbide radio circuits can take the volcanic heat of Venus,https://spectrum.ieee.org/semiconductors/materials/the-radio-we-could-send-to-hell,2021-05-02 09:00:19
-16,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 06:00:09
-17,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-27 22:28:06
-18,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-27 22:28:20
-19,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-27 22:28:20
-20,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-27 22:28:34
-21,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-27 22:28:34
-22,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-27 22:28:34
-23,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-27 22:28:52
-24,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-27 22:28:59
-25,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-27 22:29:04
-26,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-27 22:30:24
-27,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-27 22:30:24
-28,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-27 22:31:01
-29,Kyle Vogt of Cruise Automation (YC16) blocking people who question sped up video,https://twitter.com/IfNotPike/status/1385311192231546880,2021-04-27 22:31:14
+1,A Dutch City Gets a €600k Fine for WiFi Tracking,https://hackaday.com/2021/05/08/a-dutch-city-gets-a-e600000-fine-for-wifi-tracking/,2021-05-08 18:00:15
+2,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-07 00:00:10
+3,2021 Perception Sensor Industry Map,https://www.tangramvision.com/blog/the-2021-perception-sensor-industry-map,2021-05-06 00:00:17
+4,CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale,https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/,2021-05-06 09:12:28
+5,Hy: A dialect of Lisp that's embedded in Python,https://github.com/hylang/hy,2021-05-05 12:00:12
+6,What's so special about vector embeddings,https://www.pinecone.io/learn/vector-embeddings/,2021-05-05 12:00:17
+7,WiFiStation: A WiFi Interface for the Cidco MailStation,https://jcs.org/2021/04/23/wifistation,2021-05-05 12:00:17
+8,Self-Reproducing Cellular Automata,https://www.johndcook.com/blog/2021/05/03/self-reproducing-cellular-automata/,2021-05-04 09:00:12
+9,Show HN: Force-feedback controller for racing sims and speculations on next gen,https://www.3am.engineering/works/controller-feedback/,2021-05-03 09:00:25
+10,Amibian – Amiga emulation environment for Raspberry Pi,https://www.amibian.org/,2021-05-03 09:00:31
+11,A cellular platform for the development of synthetic living machines,https://robotics.sciencemag.org/content/6/52/eabf1571,2021-05-02 08:30:19
+12,Wi-Fi packet capturing on M1 Macs is broken,https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/,2021-05-02 08:30:33
+13,"Raspberry Pi Imager Hidden Settings – Setup Hostname, SSH and WiFi",https://www.youtube.com/watch?v=om8gGB3gyT0,2021-05-02 08:30:58
+14,Newest Respects Your Freedom certified device is a 802.11n router,https://www.fsf.org/news/free-software-wireless-n-mini-router-v3-from-thinkpenguin-inc-now-fsf-certified-to-respect-your-freedom,2021-05-02 08:31:36
+15,5G-capable devices access mmWave 5G less than 1% of the time across all US,https://arstechnica.com/information-technology/2021/04/verizon-leads-all-us-carriers-in-mmwave-5g-availability-at-0-8/,2021-05-02 08:31:50
+16,Silicon carbide radio circuits can take the volcanic heat of Venus,https://spectrum.ieee.org/semiconductors/materials/the-radio-we-could-send-to-hell,2021-05-02 09:00:19
+17,Protocol – An ASCII Header Generator for Network Protocols,http://www.luismg.com/protocol/,2021-04-28 06:00:09
+18,"Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh,2021-04-27 22:28:06
+19,Cellebrite Physical Analyzer no longer fully available for iPhones,https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/,2021-04-27 22:28:20
+20,Show HN: Growlab – Grow seeds and share your progress with the Raspberry Pi,https://github.com/alexellis/growlab/blob/master/README.md,2021-04-27 22:28:20
+21,The Tyranny of the Female-Orgasm Industrial Complex,https://www.theatlantic.com/health/archive/2021/04/weaponization-female-orgasm/618680/,2021-04-27 22:28:34
+22,Yayagram – Physical Telegram Messaging,https://twitter.com/mrcatacroquer/status/1386318806411325440,2021-04-27 22:28:34
+23,Interfaces and Protocols in Python,https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html,2021-04-27 22:28:34
+24,Helena: Web Automation for End Users,https://helena-lang.org/,2021-04-27 22:28:52
+25,26th April 1985 First ARM Processor Powered Up,http://www.computinghistory.org.uk/det/5440/First-ARM-Processor-Powered-Up/,2021-04-27 22:28:59
+26,Irdest: Decentralised ad-hoc wireless mesh communication,https://irde.st/,2021-04-27 22:29:04
+27,"Of Corona, Buggy Audio Drivers and Industrial Espionage",https://insinuator.net/2021/04/of-corona-buggy-audio-drivers-and-industrial-espionage/,2021-04-27 22:30:24
+28,AMD Ryzen Processor Software Optimization [video],https://www.youtube.com/watch?v=2p-UpVc1qZQ,2021-04-27 22:30:24
+29,mnm is not mail – a sane network protocol for email,https://twitter.com/mnmnotmail,2021-04-27 22:31:01
+30,Kyle Vogt of Cruise Automation (YC16) blocking people who question sped up video,https://twitter.com/IfNotPike/status/1385311192231546880,2021-04-27 22:31:14
