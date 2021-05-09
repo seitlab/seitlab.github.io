@@ -1,64 +1,102 @@
 Index,Title,URL,Time(UTC)
-0,Show HN: My Hacker News clone (redesigned),https://hacker-news-dj.netlify.app/,2021-05-09 00:00:17
-1,When Hackers Were Heroes,https://cacm.acm.org/magazines/2021/4/251341-when-hackers-were-heroes/fulltext#references,2021-05-09 00:00:30
-2,WhatsApp will progressively kill features until users accept new privacy policy,https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/,2021-05-08 00:00:09
-3,Audacity Telemetry and Why Free Software Means Better Privacy,https://puri.sm/posts/audacity-telemetry-and-why-free-software-means-better-privacy/,2021-05-08 06:00:13
-4,Some Viruses Have a Completely Different Genome to the Rest of Life on Earth,https://www.sciencealert.com/some-bacteriophages-have-a-completely-different-genome-to-the-rest-of-life-on-earth,2021-05-08 06:00:21
-5,"The virus is an airborne threat, the CDC acknowledges",https://www.nytimes.com/2021/05/07/health/coronavirus-airborne-threat.html,2021-05-08 06:00:35
-6,The Fortnite Trial Is Exposing Details About the Biggest iPhone Hack on Record,https://www.vice.com/en/article/n7bbmz/the-fortnite-trial-is-exposing-details-about-the-biggest-iphone-hack-of-all-time,2021-05-08 18:01:06
-7,Privacy Implications of Accelerometer Data [pdf],https://dl.acm.org/doi/pdf/10.1145/3309074.3309076,2021-05-07 00:00:10
-8,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-07 00:00:10
-9,I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit,https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html,2021-05-07 00:00:10
-10,Starting a crypto project,https://twitter.com/jonsyu/status/1389635626698297344,2021-05-07 00:00:10
-11,A future without passwords,https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/,2021-05-07 00:00:10
-12,Intent to issue €2.5M fine to Disqus over GDPR breaches,https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/,2021-05-07 00:00:16
-13,Hacking a ProgComp with Side Channels,https://lukechampine.com/progcomp.html,2021-05-07 00:00:16
-14,Homecoming Queen Hacker to Be Tried as an Adult,https://www.infosecurity-magazine.com/news/homecoming-queen-hacker-to-be/,2021-05-07 00:00:23
-15,Google will soon switch on two-factor authentication by default,https://www.theverge.com/2021/5/6/22422778/google-accounts-enabling-two-step-verification-default,2021-05-07 00:00:34
-16,Crypto Should Care About Justin Sun’s Steem Drama,https://www.coindesk.com/why-crypto-should-care-about-justin-suns-steem-drama,2021-05-07 00:00:34
-17,China turned a prize-winning iPhone hack against the Uyghurs,https://www.technologyreview.com/2021/05/06/1024621/china-apple-spy-uyghur-hacker-tianfu/,2021-05-07 00:01:14
-18,Exploiting Aliasing for Manga Restoration,https://github.com/msxie92/MangaRestoration,2021-05-07 18:00:10
-19,Amazon Fake Reviews Scam Exposed in Data Breach,https://www.safetydetectives.com/blog/amazon-reviews-leak-report/,2021-05-07 18:00:10
-20,Shifting the impossible to the inevitable: A Private ARPA user manual,https://benjaminreinhardt.com/parpa,2021-05-07 18:00:15
-21,Privacy activist Max Schrems says Microsoft's EU data move won't block NSA,https://www.theregister.com/2021/05/07/schrems_slams_microsoft_eu_data/,2021-05-07 18:00:15
-22,French cyber insurance provider to stop covering ransomware,https://www.euronews.com/2021/05/07/cybercrime-insurance-giant-axa-to-stop-covering-ransomware-payments-in-france,2021-05-07 18:00:15
-23,Health boss unsure how many patients impacted by dosage bungle blamed on Windows,https://www.abc.net.au/news/2021-05-07/sa-health-unsure-of-patient-impact-of-medication-dosage-bungle/100122958,2021-05-07 18:00:29
-24,How We Manage New York Times Readers’ Data Privacy,https://open.nytimes.com/how-we-manage-new-york-times-readers-data-privacy-d39627d79a64,2021-05-07 18:01:28
-25,What's so special about vector embeddings,https://www.pinecone.io/learn/vector-embeddings/,2021-05-06 06:00:28
-26,Malicious Office 365 Apps Are the Ultimate Insiders,https://krebsonsecurity.com/2021/05/malicious-office-365-apps-are-the-ultimate-insiders/,2021-05-06 06:00:34
-27,Putting an old digital clock (with an outdoor thermometer) on steroids,https://wejn.org/2021/05/putting-old-temp-clock-on-steroids/,2021-05-06 06:00:34
-28,"US seen as bigger threat to democracy than Russia or China, global poll finds",https://www.theguardian.com/world/2021/may/05/us-threat-democracy-russia-china-global-poll,2021-05-06 06:00:41
-29,Security and Privacy Risks of Number Recycling at Mobile Carriers in the U.S. [pdf],https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf,2021-05-06 06:00:41
-30,The Free Software Foundation reveals how RMS was re-elected and its future,https://www.zdnet.com/article/the-free-software-foundation-reveals-how-rms-was-re-elected-and-its-future/,2021-05-06 06:00:41
-31,Peloton’s API let anyone grab riders’ private account data,https://techcrunch.com/2021/05/05/peloton-bug-account-data-leak/,2021-05-06 06:00:48
-32,Windows Defender bug may fill your hard drive with thousands of files,https://www.windowslatest.com/2021/05/05/microsoft-fixes-windows-10-defender-bug-generating-random-files/,2021-05-06 06:00:48
-33,Show HN: ReplPad – Javascript Repl/Scratchpad,https://replpad.com/,2021-05-06 06:00:48
-34,Show HN: JavaScript IP Country lookup in under 500KiB,https://www.npmjs.com/package/ip3country,2021-05-06 06:00:54
-35,U.S. Backs Waiver of Intellectual Property Protection for Covid-19 Vaccines,https://www.wsj.com/articles/u-s-backs-waiver-of-intellectual-property-protection-for-covid-19-vaccines-11620243518,2021-05-06 06:00:58
-36,"Contrary to Previous Belief, Strike-Slip Faults Can Generate Large Tsunamis",https://www.caltech.edu/about/news/contrary-to-previous-belief-strike-slip-faults-can-generate-large-tsunamis,2021-05-06 06:00:58
-37,Launching an all female hacker house,https://www.enter-thegarden.com/,2021-05-06 06:01:05
-38,Then a Hacker Began Posting Patients’ Deepest Secrets Online,https://www.wired.com/story/vastaamo-psychotherapy-patients-hack-data-breach/,2021-05-06 06:01:05
-39,"For some, diligence against Covid-19 remains an expression of political identity",https://www.theatlantic.com/politics/archive/2021/05/liberals-covid-19-science-denial-lockdown/618780/,2021-05-06 06:01:05
-40,"4,700 Amazon employees had unauthorized access to private seller data",https://arstechnica.com/tech-policy/2021/05/4700-amazon-employees-had-unauthorized-access-to-private-seller-data/,2021-05-06 06:01:12
-41,"In Singapore, Covid vs. privacy is no contest",https://www.lowyinstitute.org/the-interpreter/singapore-covid-vs-privacy-no-contest,2021-05-06 06:01:12
-42,Security and Privacy Risks of Number Recycling at Mobile Carriers in the US,https://recyclednumbers.cs.princeton.edu/,2021-05-06 06:01:19
-43,Bill aims to halt Bitcoin mining until its environmental impact can be assessed,https://markets.businessinsider.com/currencies/news/new-york-ny-bill-bitcoin-mining-environment-assessment-2021-5-1030386497,2021-05-06 06:01:19
-44,New Spectre attack once again sends Intel and AMD scrambling for a fix,https://arstechnica.com/gadgets/2021/05/new-spectre-attack-once-again-sends-intel-and-amd-scrambling-for-a-fix/,2021-05-06 06:01:19
-45,Chat with a Digital Version of Einstein,https://einstein.digitalhumans.com/,2021-05-06 06:01:19
-46,What I Learned from 2 Years at a Digital Agency,https://blog.jeremyshaw.co.nz/2021/05/04/What-I-Learned-From-2-Years-at-a-Digital-Agency/,2021-05-06 06:01:19
-47,Closing Photoshop will fix CSS cursor:pointer bug,https://stackoverflow.com/a/35212344/109396,2021-05-06 06:01:19
-48,Digital Sundial,https://en.wikipedia.org/wiki/Digital_sundial,2021-05-06 06:01:24
-49,Interview with Thomas Gleixner on the real-time Linux kernel patch set,https://www.linux.com/news/in-the-trenches-with-thomas-gleixner-real-time-linux-kernel-patch-set/,2021-05-06 06:01:30
-50,Biden’s Vaccine Patent Theft,https://www.wsj.com/articles/bidens-vaccine-patent-theft-11620255362,2021-05-06 06:01:30
-51,Flash Player Getting Removed from Windows with July Patch Tuesday,https://www.windowslatest.com/2021/05/04/windows-10-patch-tuesday-security-update-will-remove-flash-player-in-july/,2021-05-06 06:01:37
-52,About 1.5M people still pay for AOL (but for tech support and id theft s/w),https://www.cnbc.com/2021/05/03/aol-1point5-million-people-still-pay-for-service-but-not-for-dial-up-internet.html,2021-05-06 06:01:37
-53,Biden Administration Backs Lifting Vaccine Patent Protections,https://www.nytimes.com/live/2021/05/05/world/covid-vaccine-coronavirus-cases,2021-05-06 06:01:37
-54,Biden team may partner with private firms to bypass legal limits on monitoring,https://www.cnn.com/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html,2021-05-06 06:01:44
-55,ShellCheck: Finds bugs in your shell scripts,https://www.shellcheck.net/,2021-05-06 06:01:44
-56,"Wormhole – Simple, private file sharing",https://wormhole.app/,2021-05-06 06:01:44
-57,Using QEMU-user emulation to reverse engineer binaries,https://ariadne.space/2021/05/05/using-qemu-user-emulation-to-reverse-engineer-binaries/,2021-05-06 09:11:47
-58,Dell patches 12-year-old driver vulnerability impacting millions of PCs,https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/,2021-05-06 09:11:47
-59,Tesla Car Hacked Remotely from Drone via Zero-Click Exploit,https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit,2021-05-06 09:11:47
-60,The Dogecoin Joke Is Turning Serious in Latest Crypto Binge,https://www.bloomberg.com/news/articles/2021-05-05/the-dogecoin-joke-is-turning-serious-in-latest-crypto-binge,2021-05-06 09:11:47
-61,Belgian parliament halts China Uyghur 'genocide' debate after DDoS,https://www.theregister.com/2021/05/05/belnet_belgium_ddos/,2021-05-06 09:12:04
-62,Bold Adversarial Journalism: The Intercept Does the Feds Work,https://twitter.com/ggreenwald/status/1389722584804102148,2021-05-06 09:12:35
+0,Worg (Emacs Org documentation) maintainer needed,https://orgmode.org/list/87y2ctuqcj.fsf@gnu.org/,2021-05-09 06:00:46
+1,OpenCV AI Competition 2021 Highlights and Team Profiles Part 2,https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-2/,2021-05-09 06:00:46
+2,"History as Literature, by Theodore Roosevelt (1912)",https://www.historians.org/about-aha-and-membership/aha-history-and-archives/presidential-addresses/theodore-roosevelt,2021-05-09 06:00:46
+3,Grid Compass 1101 (2016),https://oldcomputers.net/grid1101.html,2021-05-09 06:00:46
+4,Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF),https://blog.svenpeter.dev/posts/m1_sprr_gxf/,2021-05-09 06:00:46
+5,DIY Boat Monitoring System,https://l-36.com/DIY-boat-monitoring-system.php,2021-05-09 06:00:46
+6,One Year of Elixir: How It Compares to Ruby,https://boredhacking.com/one-year-of-elixir/,2021-05-09 06:00:46
+7,A future without passwords,https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/,2021-05-09 06:00:46
+8,"Thunderbird, RNP, and the Importance of a Good API",https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importance-of-a-good-api/,2021-05-09 06:00:46
+9,From Rust to Spark: Formally Proven Bip-Buffers,https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers,2021-05-09 06:00:46
+10,A New AWS SDK for Rust,https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/,2021-05-09 06:00:46
+11,Rust for Windows v0.9,https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/,2021-05-09 06:00:46
+12,Privacy Implications of Accelerometer Data [pdf],https://dl.acm.org/doi/pdf/10.1145/3309074.3309076,2021-05-09 06:00:46
+13,Palestinians criticise social media censorship over Sheikh Jarrah,https://www.aljazeera.com/news/2021/5/7/palestinians-criticise-social-media-censorship-over-sheikh-jarrah,2021-05-09 06:00:46
+14,The Engineering Genius of the Largest Ski Lift Ever,https://www.youtube.com/watch?v=xEAJmxe27h0,2021-05-09 06:00:46
+15,The internals of App Review’s testing,https://twitter.com/stroughtonsmith/status/1390768352944136196,2021-05-09 06:00:46
+16,Visualizing History: The Polish System,https://publicdomainreview.org/collection/visualizing-history-the-polish-system,2021-05-09 06:00:46
+17,Cuba migrating to open source platforms [By 2024],http://en.granma.cu/cuba/2021-05-06/cuba-migrating-to-open-source-platforms,2021-05-09 06:00:46
+18,How We Moved from MongoDB to Postgres Without Downtime and Cut Our Costs by 30%?,https://www.voucherify.io/blog/how-we-moved-from-mongodb-to-postgres-without-downtime-and-cut-our-costs-by-30,2021-05-09 06:00:46
+19,The vast viral world: what we know and don’t know,https://nautil.us/issue/99/universality/the-vast-viral-world-what-we-know-and-dont-know,2021-05-09 06:00:46
+20,Capitalism Is the Operating System (OS) of Modern Society,https://medium.com/@Keith404/fbf773f5f2bc,2021-05-09 06:00:46
+21,Show HN: Serverless USGS historical topographic map tiles,https://kylebarron.dev/usgs-topo-mosaic,2021-05-09 06:00:46
+22,Persuading the Body to Regenerate Its Limbs,https://www.newyorker.com/magazine/2021/05/10/persuading-the-body-to-regenerate-its-limbs,2021-05-09 06:00:46
+23,Linus Torvalds on why desktop Linux sucks (2014),https://www.youtube.com/watch?v=Pzl1B7nB9Kc,2021-05-09 06:00:46
+24,Gleam 0.15,https://gleam.run/news/gleam-v0.15-released/,2021-05-09 06:00:46
+25,"Comparing Tesla, Ford and VW’s Electrical Architectures [video]",https://www.youtube.com/watch?v=ZRkm6-bBk4U,2021-05-09 06:00:46
+26,Beyond Meat’s Beyond Burger life cycle assessment (2018),http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based,2021-05-09 06:00:46
+27,Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf],https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf,2021-05-09 06:00:46
+28,The MGR Window System,https://hack.org/mc/mgr/,2021-05-09 06:00:52
+29,Racket 8.1,https://blog.racket-lang.org/2021/05/racket-v8-1.html,2021-05-09 06:00:52
+30,Every Doge Has Its Day,https://doomberg.substack.com/p/every-doge-has-its-day,2021-05-09 06:00:52
+31,"Opposition to net neutrality was faked, New York says",https://www.nytimes.com/2021/05/06/technology/internet-providers-fake-comments-net-neutrality-new-york.html,2021-05-09 06:00:52
+32,Movie Tycoon Sues YouTube over Piracy and Exposes Content-ID ‘Caveat’,https://torrentfreak.com/movie-tycoon-sues-youtube-over-piracy-and-exposes-content-id-caveat-210506/,2021-05-09 06:00:52
+33,HTML Sanitizer API,https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API,2021-05-09 06:00:52
+34,Basic Telemetry for Audacity,https://github.com/audacity/audacity/pull/835,2021-05-09 06:00:52
+35,Shifting the impossible to the inevitable: A Private ARPA user manual,https://benjaminreinhardt.com/parpa,2021-05-09 06:00:52
+36,China emissions exceed all developed nations combined,https://www.bbc.com/news/world-asia-57018837,2021-05-09 06:00:52
+37,The Rustonomicon,https://doc.rust-lang.org/nomicon/,2021-05-09 06:00:52
+38,Open-source audio fans up in arms after Audacity opts to add telemetry capture,https://www.theregister.com/2021/05/07/audacity_telemetry/,2021-05-09 06:00:52
+39,The famous Vim sudo-write trick,https://twitter.com/susam/status/1390991411424595973,2021-05-09 06:00:52
+40,Deep Diving into the Strengths of FreeBSD,https://klarasystems.com/articles/deep-diving-into-the-strengths-of-freebsd/,2021-05-09 06:00:52
+41,80/20 is the new Half-Ass,https://www.swyx.io/8020/,2021-05-09 06:00:52
+42,ProcMon for Linux (Preview),https://github.com/Sysinternals/ProcMon-for-Linux/,2021-05-09 06:00:52
+43,‘Belonging Is Stronger Than Facts’: The Age of Misinformation,https://www.nytimes.com/2021/05/07/world/asia/misinformation-disinformation-fake-news.html,2021-05-09 06:00:52
+44,RL-IoT: Towards IoT Interoperability via Reinforcement Learning,https://arxiv.org/abs/2105.00884,2021-05-09 06:00:52
+45,Measuring time accurately increases the entropy in the universe,https://www.newscientist.com/article/2277050-measuring-time-accurately-increases-the-entropy-in-the-universe/,2021-05-09 06:00:52
+46,"My Lawyer who wasn't a Lawyer, or why Due Diligence matters",https://www.linkedin.com/pulse/my-lawyer-who-wasnt-why-due-diligence-matters-jesse-brown/,2021-05-09 06:00:52
+47,"Stack Overflow switches to system fonts on May 10, 2021",https://meta.stackexchange.com/questions/364048/were-switching-to-system-fonts-on-may-10-2021,2021-05-09 06:00:52
+48,Another Man’s DNA Is Found on Murder Weapon Years After Execution,https://www.nytimes.com/2021/05/07/us/ledell-lee-dna-testing-arkansas.html,2021-05-09 06:00:52
+49,What It Was Like to Sell Mac Apps Online in 2003,https://inessential.com/2021/05/07/what_it_was_like_to_sell_apps_online_in_2003,2021-05-09 06:00:52
+50,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-09 06:00:52
+51,Researchers chart path to drastically lower administrative costs of health care,http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA,2021-05-09 06:00:52
+52,Show HN: Effortless revenue forecasting for SaaS businesses,https://saascast.io,2021-05-09 06:00:52
+53,Line Wobbler: A Beautiful 1D Arduino-Based Dungeon Crawler Game with LED Lights,https://wobblylabs.com/projects/wobbler,2021-05-09 06:00:52
+54,'Spaghettified' star wrapped around a black hole spotted for the first time,https://www.space.com/spaghettified-star-observed-near-black-hole,2021-05-09 06:00:52
+55,SpiderMonkey JavaScript/WebAssembly Engine,https://spidermonkey.dev/,2021-05-09 06:00:52
+56,Unintended Instructions on x86,https://github.com/preames/public-notes/blob/master/unintended-instructions.rst,2021-05-09 06:00:59
+57,"When the Earth is gone, at least the internet will still be working",https://techcrunch.com/2021/05/08/when-the-earth-is-gone-at-least-the-internet-will-still-be-working/,2021-05-09 06:00:59
+58,European food safety panel reclassifies titanium dioxide food additive as unsafe,https://newatlas.com/health-wellbeing/european-food-safety-panel-e171-unsafe/,2021-05-09 06:00:59
+59,Faster DISTINCT queries on PostgreSQL,https://blog.timescale.com/blog/how-we-made-distinct-queries-up-to-8000x-faster-on-postgresql/,2021-05-09 06:00:59
+60,Study finds using Night Shift doesn’t improve sleep,https://arstechnica.com/gadgets/2021/05/iphones-night-shift-feature-doesnt-help-you-sleep-better-study-finds/,2021-05-09 06:00:59
+61,I made a $2M funeral startup and became a monster,https://www.theguardian.com/global/2021/may/07/funeral-grace-cremation-startup-alex-kruger,2021-05-09 06:00:59
+62,UFOs shows government competence as either surprisingly high or low,https://www.overcomingbias.com/2021/05/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low.html,2021-05-09 06:00:59
+63,Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope,https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/,2021-05-09 06:00:59
+64,Env: a better way to read environment variables in JavaScript,https://humanwhocodes.com/blog/2021/02/introducing-env-javascript-environment-variables/,2021-05-09 06:00:59
+65,German ambulances uses QR code to avoid people taking photos of accidentes,https://www.youtube.com/watch?v=rBCupH0L7t4,2021-05-09 06:00:59
+66,"TeamViewer sends collection agency if missed emails, even after making payment",https://twitter.com/Vibhav_Sinha/status/1390205654820802560,2021-05-09 06:00:59
+67,Show HN: Catjobs.us – Powered by AMP,https://catjobs.us/,2021-05-09 06:00:59
+68,Fuzzing High-Level Synthesis Tools,https://johnwickerson.wordpress.com/2021/05/07/fuzzing-hls/,2021-05-09 06:00:59
+69,"Millions at security risk from old routers, provided by EE, Sky and Virgin",https://www.bbc.co.uk/news/technology-56996717,2021-05-09 06:00:59
+70,Why the Ford Mustang Mach-E Is So Important,https://www.theatlantic.com/science/archive/2021/05/why-ford-mustang-mach-e-so-important-climate/618801,2021-05-09 06:00:59
+71,GitHub Restores Reverse-Engineered GTA Code Following DMCA Counter Notice,https://torrentfreak.com/github-restores-reverse-engineered-gta-code-following-dmca-counter-notice-210507/,2021-05-09 06:00:59
+72,My MacBook Air M1 is dead,https://medium.com/codex/my-macbook-air-m1-is-dead-a394e3581e95,2021-05-09 06:00:59
+73,80% of the 22M comments on net neutrality rollback were fake,https://techcrunch.com/2021/05/06/80-of-the-22-million-comments-on-net-neutrality-rollback-were-fake-,2021-05-09 06:00:59
+74,FreeBSD 2021 Q1 Status Report,https://www.freebsd.org/status/report-2021-01-2021-03/,2021-05-09 06:00:59
+75,Google goes nuclear against Roku by adding YouTube TV to the main YouTube app,https://www.theverge.com/2021/5/7/22425035/google-youtube-tv-roku-app-feud,2021-05-09 06:00:59
+76,Major disruption on UK rail network after 'cracks found on high-speed trains',https://news.sky.com/story/major-disruption-reported-on-large-parts-of-uk-rail-network-12300167,2021-05-09 06:00:59
+77,Back-ups for GPS: Satellite-navigation systems at risk of jamming,https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming,2021-05-09 06:00:59
+78,Android Devices Are at Risk of Data Theft (2020),https://www.wired.com/story/over-a-billion-android-devices-are-at-risk-of-data-theft/,2021-05-09 06:00:59
+79,How to build an NLP labelling interface in JavaScript,https://humanloop.com/blog/how-to-build-an-ml-labelling-interface-in-javascript/,2021-05-09 06:00:59
+80,"The Strange, Soothing World of Instagram's Computer-Generated Interiors",https://www.newyorker.com/culture/rabbit-holes/the-strange-soothing-world-of-instagrams-computer-generated-interiors,2021-05-09 06:00:59
+81,2x-3x Performance Improvements for Debug Builds,https://devblogs.microsoft.com/cppblog/2x-3x-performance-improvements-for-debug-builds/,2021-05-09 06:00:59
+82,Windows 10 “Sun Valley” will do away with Windows 95 era icons,https://arstechnica.com/gadgets/2021/05/microsoft-adds-new-icons-to-windows-10s-upcoming-visual-rejuvenation/,2021-05-09 06:00:59
+83,Migrating from Python to Kotlin for Our Back End Services,https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/,2021-05-09 06:00:59
+84,Montana to cancel unemployment benefits to address severe workforce shortage,https://money.yahoo.com/montana-plans-to-cancel-unemployment-benefits-161755830.html,2021-05-09 06:01:06
+85,ARM vs. RISC-V Vector Extensions,https://erik-engheim.medium.com/arm-vs-risc-v-vector-extensions-992f201f402f,2021-05-09 06:01:06
+86,Making the Internet more secure one signed container at a time,https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.html,2021-05-09 06:01:06
+87,Why some tech workers are turning down jobs at TikTok,https://www.cnbc.com/2021/05/06/tiktoks-toxic-culture-reviews-on-glassdoor-impact-hiring.html,2021-05-09 06:01:06
+88,The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs,https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/,2021-05-09 06:01:06
+89,Politics and the English Language (1946),https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/,2021-05-09 06:01:06
+90,Apple Discussed 'Punitive Measures' Against Netflix for Dropping In-App Purchase,https://www.macrumors.com/2021/05/05/apple-netflix-punitive-measures-in-app-purchases/,2021-05-09 06:01:06
+91,Solve Math Equations That Are Stubborn as a Goat,https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/,2021-05-09 06:01:06
+92,The Reason Wood Prices Are Completely Out of Control,https://slate.com/business/2021/05/wood-prices-expensive-explained-sawmill-maine.html,2021-05-09 06:01:06
+93,Dynamic Audio Normalizer,https://github.com/lordmulder/DynamicAudioNormalizer,2021-05-09 06:01:06
+94,Minuscule drums push the limits of quantum weirdness,https://www.nature.com/articles/d41586-021-01223-4,2021-05-09 06:01:06
+95,Cyberattack Forces Closure of Largest U.S. Refined-Fuel Pipeline,https://www.wsj.com/articles/cyberattack-forces-closure-of-largest-u-s-refined-fuel-pipeline-11620479737,2021-05-09 06:01:06
+96,Show HN: GitHub app to scan Terraform and CloudFormation for config issues,https://github.com/apps/iacbot,2021-05-09 06:01:06
+97,Amazon Drivers Are Instructed to Drive Recklessly to Meet Delivery Quotas,https://www.vice.com/en/article/xgxx54/amazon-drivers-are-instructed-to-drive-recklessly-to-meet-delivery-quotas,2021-05-09 06:01:06
+98,Your problem with Vim is that you don’t grok vi,https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118,2021-05-09 06:01:06
+99,If I fits I sits: An investigation into illusory contour susceptibility in cats,https://arstechnica.com/science/2021/05/what-cats-love-of-boxes-and-squares-can-tell-us-about-their-visual-perception/,2021-05-09 06:01:06
+100,x86 VM on Ethereum,https://github.com/qtumproject/x86lib,2021-05-09 06:01:06
