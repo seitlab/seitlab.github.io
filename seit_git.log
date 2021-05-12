@@ -63,3 +63,6 @@
 [master 478d079] Wed May 12 00:44:05 UTC 2021
  6 files changed, 74 insertions(+), 61 deletions(-)
  rewrite data/sub_postshow.txt (69%)
+[master fe75552] Wed May 12 06:44:05 UTC 2021
+ 5 files changed, 53 insertions(+), 46 deletions(-)
+ rewrite data/sub_postshow.txt (89%)
