@@ -3,37 +3,39 @@ Index,Title,URL,Time(UTC)
 1,"ETH's creator sells quantities of gifted coins, crashing subset of crypto",https://www.coindesk.com/vitaliks-regift-of-unsolicited-doge-knockoffs-sends-memecoin-prices-plunging,2021-05-13 00:00:18
 2,Vitalik Buterin's $1B crypto donation to India Covid Relief fund,https://etherscan.io/tx/0xb65bcbb85c1633b0ab4e4886c3cd8eeaeb63edbb39cacdb9223fdcf4454fd2c7,2021-05-13 00:01:19
 3,Executive Order on Improving the Nation’s Cybersecurity,https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/,2021-05-13 06:00:15
-4,Germany bans Facebook from handling WhatsApp data over privacy concerns,https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns,2021-05-12 00:00:07
-5,How we built a real time privacy inspector (2020),https://themarkup.org/blacklight/2020/09/22/how-we-built-a-real-time-privacy-inspector,2021-05-12 00:00:07
-6,The Oncoming Ransomware Storm,https://www.stephendiehl.com/blog/ransomware.html,2021-05-12 00:00:15
-7,Jailbroken AirTags Could Become a Privacy Nightmare,https://www.extremetech.com/mobile/322683-apple-airtags-now-jailbroken-could-become-even-bigger-privacy-nightmare,2021-05-12 00:01:02
-8,Ransomware gang threatens release of Washington D.C. police records,https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b,2021-05-12 06:00:09
-9,Japan’s Rikunabi Scandal Shows the Dangers of Privacy Law Loopholes – EFF,https://www.eff.org/deeplinks/2021/05/japans-rikunabi-scandal-shows-dangers-privacy-law-loopholes,2021-05-12 06:00:22
-10,Reverse Engineering an Unknown Microcontroller,https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller,2021-05-12 12:00:10
-11,Newly Declassified NSA Document on Cryptography in the 1970s,https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html,2021-05-12 12:00:16
-12,Tracking One Year of Malicious Tor Exit Relay Activities (Part II),https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df,2021-05-11 03:05:43
-13,Engineered bat virus stirs debate over risky research (2015),https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-%201.18787,2021-05-11 03:05:54
-14,Train firm's 'worker bonus' email is cybersecurity test,https://www.theguardian.com/uk-news/2021/may/10/train-firms-worker-bonus-email-is-actually-cyber-security-test,2021-05-11 03:06:01
-15,US passes emergency waiver over fuel pipeline cyber-attack,https://www.bbc.com/news/business-57050690,2021-05-11 03:06:06
-16,An app that swiftly sends CPR volunteers to heart attack sufferers in Denmark,https://www.washingtonpost.com/health/an-app-that-swiftly-sends-cpr-volunteers-to-heart-attack-sufferers-has-made-a-big-differences-in-denmark-could-this-be-copied-in-the-us/2021/05/07/97c59cc6-8734-11eb-8a8b-5cf82c3dffe4_story.html,2021-05-11 03:06:13
-17,Namecheap hosted 25%+ of fake UK govt phishing sites last year – NCSC report,https://www.theregister.com/2021/05/10/ncsc_active_cyber_defence_report/,2021-05-11 03:06:19
-18,U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack,https://www.washingtonpost.com/business/2021/05/08/cyber-attack-colonial-pipeline/,2021-05-11 03:06:19
-19,WhatsApp will progressively kill features until users accept new privacy policy,https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/,2021-05-11 03:06:33
-20,"How private is your Gmail, and should you switch?",https://www.theguardian.com/technology/2021/may/09/how-private-is-your-gmail-and-should-you-switch,2021-05-11 03:06:44
-21,I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit,https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html,2021-05-11 03:06:44
-22,Audacity Telemetry and Why Free Software Means Better Privacy,https://puri.sm/posts/audacity-telemetry-and-why-free-software-means-better-privacy/,2021-05-11 03:06:51
-23,Privacy Implications of Accelerometer Data [pdf],https://dl.acm.org/doi/pdf/10.1145/3309074.3309076,2021-05-11 03:06:51
-24,Amazon Fake Reviews Scam Exposed in Data Breach,https://www.safetydetectives.com/blog/amazon-reviews-leak-report/,2021-05-11 03:06:54
-25,Shifting the impossible to the inevitable: A Private ARPA user manual,https://benjaminreinhardt.com/parpa,2021-05-11 03:07:00
-26,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-11 03:07:00
-27,China turned a prize-winning iPhone hack against the Uyghurs,https://www.technologyreview.com/2021/05/06/1024621/china-apple-spy-uyghur-hacker-tianfu/,2021-05-11 03:07:07
-28,Thousands of Tor exit nodes attacked cryptocurrency users over the past year,https://therecord.media/thousands-of-tor-exit-nodes-attacked-cryptocurrency-users-over-the-past-year/,2021-05-11 03:07:07
-29,Zoom seemingly granted access to private iPad camera API,https://appleinsider.com/articles/21/05/07/zoom-seemingly-granted-access-to-private-ipad-camera-api,2021-05-11 03:07:21
-30,Privacy activist Max Schrems says Microsoft's EU data move won't block NSA,https://www.theregister.com/2021/05/07/schrems_slams_microsoft_eu_data/,2021-05-11 03:07:26
-31,Google will soon switch on two-factor authentication by default,https://www.theverge.com/2021/5/6/22422778/google-accounts-enabling-two-step-verification-default,2021-05-11 03:07:32
-32,Cyberattack Forces Closure of Largest U.S. Refined-Fuel Pipeline,https://www.wsj.com/articles/cyberattack-forces-closure-of-largest-u-s-refined-fuel-pipeline-11620479737,2021-05-11 03:07:32
-33,French cyber insurance provider to stop covering ransomware,https://www.euronews.com/2021/05/07/cybercrime-insurance-giant-axa-to-stop-covering-ransomware-payments-in-france,2021-05-11 03:07:39
-34,The Fortnite Trial Is Exposing Details About the Biggest iPhone Hack on Record,https://www.vice.com/en/article/n7bbmz/the-fortnite-trial-is-exposing-details-about-the-biggest-iphone-hack-of-all-time,2021-05-11 03:07:46
-35,Crypto Should Care About Justin Sun’s Steem Drama,https://www.coindesk.com/why-crypto-should-care-about-justin-suns-steem-drama,2021-05-11 03:07:53
-36,How We Manage New York Times Readers’ Data Privacy,https://open.nytimes.com/how-we-manage-new-york-times-readers-data-privacy-d39627d79a64,2021-05-11 03:07:53
-37,Experts suggest AXA’s plan to shun ransomware payouts will set a precedent,https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/,2021-05-11 18:00:17
+4,Battlestar Galactica Lessons from Ransomware to the Pandemic,https://www.theinsight.org/p/battlestar-galactica-lessons-from?token=eyJ1c2VyX2lkIjo3MzQyNTMsInBvc3RfaWQiOjM2MzcxNTgwLCJfIjoiZEhaRGMiLCJpYXQiOjE2MjA5MjMyODUsImV4cCI6MTYyMDkyNjg4NSwiaXNzIjoicHViLTExODQiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.PA847gT3cEySXTqakmAZRAxq1GG2089EgfAvNO34Ctg,2021-05-13 18:00:13
+5,Show HN: Search 1M Linux kernel commit messages,https://linux-commits-search.typesense.org/,2021-05-13 18:00:13
+6,Germany bans Facebook from handling WhatsApp data over privacy concerns,https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns,2021-05-12 00:00:07
+7,How we built a real time privacy inspector (2020),https://themarkup.org/blacklight/2020/09/22/how-we-built-a-real-time-privacy-inspector,2021-05-12 00:00:07
+8,The Oncoming Ransomware Storm,https://www.stephendiehl.com/blog/ransomware.html,2021-05-12 00:00:15
+9,Jailbroken AirTags Could Become a Privacy Nightmare,https://www.extremetech.com/mobile/322683-apple-airtags-now-jailbroken-could-become-even-bigger-privacy-nightmare,2021-05-12 00:01:02
+10,Ransomware gang threatens release of Washington D.C. police records,https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b,2021-05-12 06:00:09
+11,Japan’s Rikunabi Scandal Shows the Dangers of Privacy Law Loopholes – EFF,https://www.eff.org/deeplinks/2021/05/japans-rikunabi-scandal-shows-dangers-privacy-law-loopholes,2021-05-12 06:00:22
+12,Reverse Engineering an Unknown Microcontroller,https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller,2021-05-12 12:00:10
+13,Newly Declassified NSA Document on Cryptography in the 1970s,https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html,2021-05-12 12:00:16
+14,Tracking One Year of Malicious Tor Exit Relay Activities (Part II),https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df,2021-05-11 03:05:43
+15,Engineered bat virus stirs debate over risky research (2015),https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-%201.18787,2021-05-11 03:05:54
+16,Train firm's 'worker bonus' email is cybersecurity test,https://www.theguardian.com/uk-news/2021/may/10/train-firms-worker-bonus-email-is-actually-cyber-security-test,2021-05-11 03:06:01
+17,US passes emergency waiver over fuel pipeline cyber-attack,https://www.bbc.com/news/business-57050690,2021-05-11 03:06:06
+18,An app that swiftly sends CPR volunteers to heart attack sufferers in Denmark,https://www.washingtonpost.com/health/an-app-that-swiftly-sends-cpr-volunteers-to-heart-attack-sufferers-has-made-a-big-differences-in-denmark-could-this-be-copied-in-the-us/2021/05/07/97c59cc6-8734-11eb-8a8b-5cf82c3dffe4_story.html,2021-05-11 03:06:13
+19,Namecheap hosted 25%+ of fake UK govt phishing sites last year – NCSC report,https://www.theregister.com/2021/05/10/ncsc_active_cyber_defence_report/,2021-05-11 03:06:19
+20,U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack,https://www.washingtonpost.com/business/2021/05/08/cyber-attack-colonial-pipeline/,2021-05-11 03:06:19
+21,WhatsApp will progressively kill features until users accept new privacy policy,https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/,2021-05-11 03:06:33
+22,"How private is your Gmail, and should you switch?",https://www.theguardian.com/technology/2021/may/09/how-private-is-your-gmail-and-should-you-switch,2021-05-11 03:06:44
+23,I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit,https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html,2021-05-11 03:06:44
+24,Audacity Telemetry and Why Free Software Means Better Privacy,https://puri.sm/posts/audacity-telemetry-and-why-free-software-means-better-privacy/,2021-05-11 03:06:51
+25,Privacy Implications of Accelerometer Data [pdf],https://dl.acm.org/doi/pdf/10.1145/3309074.3309076,2021-05-11 03:06:51
+26,Amazon Fake Reviews Scam Exposed in Data Breach,https://www.safetydetectives.com/blog/amazon-reviews-leak-report/,2021-05-11 03:06:54
+27,Shifting the impossible to the inevitable: A Private ARPA user manual,https://benjaminreinhardt.com/parpa,2021-05-11 03:07:00
+28,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-11 03:07:00
+29,China turned a prize-winning iPhone hack against the Uyghurs,https://www.technologyreview.com/2021/05/06/1024621/china-apple-spy-uyghur-hacker-tianfu/,2021-05-11 03:07:07
+30,Thousands of Tor exit nodes attacked cryptocurrency users over the past year,https://therecord.media/thousands-of-tor-exit-nodes-attacked-cryptocurrency-users-over-the-past-year/,2021-05-11 03:07:07
+31,Zoom seemingly granted access to private iPad camera API,https://appleinsider.com/articles/21/05/07/zoom-seemingly-granted-access-to-private-ipad-camera-api,2021-05-11 03:07:21
+32,Privacy activist Max Schrems says Microsoft's EU data move won't block NSA,https://www.theregister.com/2021/05/07/schrems_slams_microsoft_eu_data/,2021-05-11 03:07:26
+33,Google will soon switch on two-factor authentication by default,https://www.theverge.com/2021/5/6/22422778/google-accounts-enabling-two-step-verification-default,2021-05-11 03:07:32
+34,Cyberattack Forces Closure of Largest U.S. Refined-Fuel Pipeline,https://www.wsj.com/articles/cyberattack-forces-closure-of-largest-u-s-refined-fuel-pipeline-11620479737,2021-05-11 03:07:32
+35,French cyber insurance provider to stop covering ransomware,https://www.euronews.com/2021/05/07/cybercrime-insurance-giant-axa-to-stop-covering-ransomware-payments-in-france,2021-05-11 03:07:39
+36,The Fortnite Trial Is Exposing Details About the Biggest iPhone Hack on Record,https://www.vice.com/en/article/n7bbmz/the-fortnite-trial-is-exposing-details-about-the-biggest-iphone-hack-of-all-time,2021-05-11 03:07:46
+37,Crypto Should Care About Justin Sun’s Steem Drama,https://www.coindesk.com/why-crypto-should-care-about-justin-suns-steem-drama,2021-05-11 03:07:53
+38,How We Manage New York Times Readers’ Data Privacy,https://open.nytimes.com/how-we-manage-new-york-times-readers-data-privacy-d39627d79a64,2021-05-11 03:07:53
+39,Experts suggest AXA’s plan to shun ransomware payouts will set a precedent,https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/,2021-05-11 18:00:17
