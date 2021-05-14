@@ -69,7 +69,7 @@
     <script>
         function format_link(link){
           if (link)
-            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            return "<a href='" + link + "' target='_blank'>" + link.substring(0, 150) + "</a>";
           else
             return "";
         }
@@ -86,18 +86,20 @@
                 paging: true,
                 searching:true,
                 "info": true,
-                "lengthMenu": [10,20]
+                "lengthMenu": [10,20],
             },
             custom_formatting: [
                 [2, format_link]
-            ]
+            ],
+
+
         });
     </script>
 
     <script>
         function format_link(link){
           if (link)
-            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            return "<a href='" + link + "' target='_blank'>" + link.substring(0, 150) + "</a>";
           else
             return "";
         }
@@ -126,7 +128,7 @@
     <script>
         function format_link(link){
           if (link)
-            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            return "<a href='" + link + "' target='_blank'>" + link.substring(0, 150) + "</a>";
           else
             return "";
         }
@@ -154,7 +156,7 @@
     <script>
         function format_link(link){
           if (link)
-            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            return "<a href='" + link + "' target='_blank'>" + link.substring(0, 150) + "</a>";
           else
             return "";
         }
