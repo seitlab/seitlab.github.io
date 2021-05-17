@@ -1,0 +1,15 @@
+echo "--------------------WELCOME TO THE DEPLOY-FROM-GITHUB PROGRAM--------------------"
+echo "I am going to connect you to the SEIT server."
+sleep 5
+echo "IMPORTANT: Once there, simply type 'clone' and hit 'Enter'."
+sleep 5
+echo "IMPORTANT: Be sure to wait until the process finishes before typing 'logout' to exit! nohup was purposefully excluded!"
+sleep 5
+echo "Before this, however, I am going to need some information from you to make sure you are authorized to make such an update."
+sleep 5
+echo "Do you understand what you need to do? (y)?"
+read PLACEBO
+echo "Enter your scully.egr.msu.edu username (case-sensitive)."
+read USERNAME
+echo "Enter your scully.egr.msu.edu password (case-sensitive)."
+ssh -t $USERNAME@scully.egr.msu.edu ssh seit@35.9.42.189
