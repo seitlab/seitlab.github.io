@@ -1,19 +1,20 @@
 Index,Title,URL,Time(UTC)
 0,Firefly Rockchip-Based SBC Debuts W M.2 SSD Support to Challenge Raspberry Pi 4,https://hothardware.com/news/firefly-launches-single-board-computer-with-up-to-8gb-of-ram-and-m2-ssd,2021-05-18 00:00:31
 1,Vintage HP-25 Calculator Gets Wireless Charging,https://hackaday.com/2021/05/15/vintage-hp-25-calculator-gets-wireless-charging/,2021-05-18 12:00:12
-2,A Pixel Purse LED Cube Controlled by a Cisco 3G Modem,https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html,2021-05-17 12:00:12
-3,‘Journey to the Edge of Reason’ Review: Gödel’s Beautiful Mind,https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883,2021-05-17 12:00:12
-4,BT's $700M Job to Rip-and-Replace Huawei 5G Begins Here,https://www.bloomberg.com/news/articles/2021-05-14/bt-s-700-million-job-to-rip-and-replace-huawei-5g-begins-here,2021-05-16 00:00:50
-5,BlueHydra – Bluetooth device discovery service,https://github.com/pwnieexpress/blue_hydra,2021-05-15 06:00:08
-6,Cox Hotspots with Panoramic Wifi,https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html,2021-05-15 18:00:10
-7,Use the WiFi Chip on RaspberryPi/Broadcom as Software-Defined Radio (SDR),https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio,2021-05-15 18:00:18
-8,DIY pressure sensor at ZERO COST with materials you definitely have,https://ns.reddit.com/r/arduino/comments/nbk3rp/diy_pressure_sensor_at_zero_cost_with_materials/,2021-05-14 00:00:31
-9,Ferrofluid display cell Bluetooth speaker,https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker,2021-05-14 12:00:16
-10,AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware,https://www.airgradient.com/diy/,2021-05-12 00:00:07
-11,Cloudflare on the edge,https://stratechery.com/2021/cloudflare-on-the-edge/,2021-05-12 00:00:07
-12,"Enabling JPEG XL in Chrome, Firefox and Edge",https://www.ghacks.net/2021/05/11/find-out-if-your-browser-supports-the-new-image-format-jpeg-xl/,2021-05-12 06:01:15
-13,Play Gesture-Controlled Pong with a Raspberry Pi Pico,https://www.hackster.io/nickbild/pico-pong-280b09,2021-05-11 03:06:19
-14,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-11 03:07:00
-15,A Dutch City Gets a €600k Fine for WiFi Tracking,https://hackaday.com/2021/05/08/a-dutch-city-gets-a-e600000-fine-for-wifi-tracking/,2021-05-11 03:07:07
-16,Run your ghost blog on Raspberry Pi for free,https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/,2021-05-11 03:07:14
-17,"India holds up wireless approvals for China-made devices, delaying launches",https://www.reuters.com/business/media-telecom/exclusive-india-holds-up-wireless-approvals-china-made-devices-delaying-launches-2021-05-07/,2021-05-11 03:07:32
+2,Spin-torque oscillators for WiFi band transmission and energy harvesting,https://www.nature.com/articles/s41467-021-23181-1,2021-05-18 18:00:11
+3,A Pixel Purse LED Cube Controlled by a Cisco 3G Modem,https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html,2021-05-17 12:00:12
+4,‘Journey to the Edge of Reason’ Review: Gödel’s Beautiful Mind,https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883,2021-05-17 12:00:12
+5,BT's $700M Job to Rip-and-Replace Huawei 5G Begins Here,https://www.bloomberg.com/news/articles/2021-05-14/bt-s-700-million-job-to-rip-and-replace-huawei-5g-begins-here,2021-05-16 00:00:50
+6,BlueHydra – Bluetooth device discovery service,https://github.com/pwnieexpress/blue_hydra,2021-05-15 06:00:08
+7,Cox Hotspots with Panoramic Wifi,https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html,2021-05-15 18:00:10
+8,Use the WiFi Chip on RaspberryPi/Broadcom as Software-Defined Radio (SDR),https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio,2021-05-15 18:00:18
+9,DIY pressure sensor at ZERO COST with materials you definitely have,https://ns.reddit.com/r/arduino/comments/nbk3rp/diy_pressure_sensor_at_zero_cost_with_materials/,2021-05-14 00:00:31
+10,Ferrofluid display cell Bluetooth speaker,https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker,2021-05-14 12:00:16
+11,AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware,https://www.airgradient.com/diy/,2021-05-12 00:00:07
+12,Cloudflare on the edge,https://stratechery.com/2021/cloudflare-on-the-edge/,2021-05-12 00:00:07
+13,"Enabling JPEG XL in Chrome, Firefox and Edge",https://www.ghacks.net/2021/05/11/find-out-if-your-browser-supports-the-new-image-format-jpeg-xl/,2021-05-12 06:01:15
+14,Play Gesture-Controlled Pong with a Raspberry Pi Pico,https://www.hackster.io/nickbild/pico-pong-280b09,2021-05-11 03:06:19
+15,Adversarial Reprogramming of Neural Cellular Automata,https://distill.pub/selforg/2021/adversarial,2021-05-11 03:07:00
+16,A Dutch City Gets a €600k Fine for WiFi Tracking,https://hackaday.com/2021/05/08/a-dutch-city-gets-a-e600000-fine-for-wifi-tracking/,2021-05-11 03:07:07
+17,Run your ghost blog on Raspberry Pi for free,https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/,2021-05-11 03:07:14
+18,"India holds up wireless approvals for China-made devices, delaying launches",https://www.reuters.com/business/media-telecom/exclusive-india-holds-up-wireless-approvals-china-made-devices-delaying-launches-2021-05-07/,2021-05-11 03:07:32
