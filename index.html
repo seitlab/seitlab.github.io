@@ -220,15 +220,15 @@
 
           var time1 = year+"-"+month+"-"+date;
           var time2 = tt.substring(0, 10);
-            if (time1 == time2)
-                return "<i>today</i>";
+            if (time1 == time2 || time2 == getDay(-1).toString())
+                return "<i>today (<24 hrs)</i>";
             else {
-              for (i=-1; i>-8; i--){
+              for (i=-2; i>-5; i--){
                 if (time2 == getDay(i).toString()){
                   return "<i>recent</i>";
                 }
               }
-              return "<i>old</i>";
+              return "<i>older</i>";
               // return getDay(i).toString();
             }
         }
