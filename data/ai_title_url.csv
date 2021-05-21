@@ -1,30 +1,34 @@
 Index,Title,URL,Time(UTC)
-0,Blind Bipedal Stair Traversal via Sim-to-Real Reinforcement Learning,https://arxiv.org/abs/2105.08328,2021-05-20 00:00:17
-1,Acid test: scientists show how LSD opens doors of perception,https://www.theguardian.com/science/2021/may/19/acid-test-scientists-show-how-lsd-opens-doors-of-perception,2021-05-20 06:00:16
-2,Derivations 102 – Learning Nix pt 4,https://www.sam.today/blog/derivations-102-learning-nix-pt-4/,2021-05-20 06:00:21
-3,Learning Technical Writing Using the Engineering Method (2016) [pdf],https://www.cs.tufts.edu/~nr/pubs/learn.pdf,2021-05-19 00:00:28
-4,The Body’s Most Embarrassing Organ Is an Evolutionary Marvel,https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/,2021-05-19 00:00:28
-5,"Bert Self-Attention Replaced by FourierTransform: 92% Accuracy, 7xFaster on GPUs",https://medium.com/syncedreview/google-replaces-bert-self-attention-with-fourier-transform-92-accuracy-7-times-faster-on-gpus-7a78e3e4ac0e,2021-05-19 00:00:59
-6,Game Programming: Optimization Technique – Delayed Result Gathering,http://allenchou.net/2021/05/delayed-result-gathering/,2021-05-19 06:00:21
-7,Social app Parler is cracking down on hate speech – but only on iOS,https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/,2021-05-18 00:00:31
-8,Semantic Finlex – Finnish Law and Justice as Linked Open Data,https://data.finlex.fi/en/main,2021-05-18 06:00:17
-9,Show HN: Zmsg – Zero knowledge messaging system built on zcash,https://github.com/firmalabs/zmsg,2021-05-18 12:00:18
-10,Kangaroos and Training Neural Networks (1994),https://webcache.googleusercontent.com/search?q=cache:54bCDshgBYkJ:ftp://ftp.sas.com/pub/neural/kangaroos.txt,2021-05-18 18:00:11
-11,If M1 Macs feel faster than Intel is due to optimization of the ARM CPU QoS,https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/,2021-05-17 12:00:12
-12,An Erlangen Programme to Establish the Geometric Foundations of Deep Learning,https://syncedreview.com/2021/05/05/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-12/,2021-05-17 18:00:29
-13,My Robot Vacuum Cleaner Is Afraid of Sunshine,https://shkspr.mobi/blog/2021/05/my-robot-vacuum-cleaner-is-afraid-of-sunshine/,2021-05-16 00:00:25
-14,Army integrates sobel filters into night vision in 2021,https://www.theverge.com/2021/5/3/22417206/army-night-vision-tech-enhanced,2021-05-16 00:00:25
-15,Brain Differences Between Men and Women: Evidence from Deep Learning,https://www.frontiersin.org/articles/10.3389/fnins.2019.00185/full,2021-05-16 06:00:16
-16,Kobra – visual programming language for machine learning,https://kobra.dev/,2021-05-15 12:00:45
-17,Neural Rendering: How Low Can You Go in Terms of Input?,https://www.unite.ai/neural-rendering-low-resolution-input-intel/,2021-05-15 12:00:51
-18,Learning a Manifold of Fonts,http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html,2021-05-15 12:01:02
-19,"Semantic Reader: Show Reference Abstracts in Context, and More",https://www.semanticscholar.org/product/semantic-reader,2021-05-15 12:01:08
-20,Machine Learning Is a Marvelously Executed Scam,https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/,2021-05-15 12:01:19
-21,Debuggable Deep Networks: Sparse Linear Models,https://gradientscience.org/glm_saga/,2021-05-15 12:01:19
-22,The “free speech debate” isn’t about free speech,https://www.vox.com/policy-and-politics/2020/7/22/21325942/free-speech-harpers-letter-bari-weiss-andrew-sullivan,2021-05-15 12:01:32
-23,Companies are learning to read your mind,https://ig.ft.com/emotion-recognition/,2021-05-15 12:01:39
-24,Intel is using machine learning to make GTA V look realistic,https://www.theverge.com/2021/5/12/22432945/intel-gta-v-realistic-machine-learning-cityscapes-dataset,2021-05-15 12:01:45
-25,The Translation Trap,https://www.thedriftmag.com/the-translation-trap/,2021-05-15 18:00:24
-26,Neural implant lets paralyzed person type by imagining writing,https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/,2021-05-15 18:00:31
-27,Semantic search with embeddings: index anything,https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c,2021-05-15 18:00:38
-28,"Replacing Bert Self-Attention with Fourier Tranform: 92% Accuracy, 7X Faster",https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/,2021-05-15 18:00:44
+0,Voice2json: Offline speech and intent recognition on Linux,https://voice2json.org/,2021-05-21 18:00:10
+1,KELM: Integrating Knowledge Graphs with Language Model Pre-Training Corpora,https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html,2021-05-21 18:00:10
+2,It’s Time for Local Speech Recognition,https://medium.com/picovoice/its-time-for-local-speech-recognition-df7c911fe944,2021-05-21 18:00:17
+3,My 6-node 1U Raspberry Pi rack mount Cluster,https://www.jeffgeerling.com/blog/2021/my-6-node-1u-raspberry-pi-rack-mount-cluster,2021-05-21 18:01:05
+4,Blind Bipedal Stair Traversal via Sim-to-Real Reinforcement Learning,https://arxiv.org/abs/2105.08328,2021-05-20 00:00:17
+5,Acid test: scientists show how LSD opens doors of perception,https://www.theguardian.com/science/2021/may/19/acid-test-scientists-show-how-lsd-opens-doors-of-perception,2021-05-20 06:00:16
+6,Derivations 102 – Learning Nix pt 4,https://www.sam.today/blog/derivations-102-learning-nix-pt-4/,2021-05-20 06:00:21
+7,Learning Technical Writing Using the Engineering Method (2016) [pdf],https://www.cs.tufts.edu/~nr/pubs/learn.pdf,2021-05-19 00:00:28
+8,The Body’s Most Embarrassing Organ Is an Evolutionary Marvel,https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/,2021-05-19 00:00:28
+9,"Bert Self-Attention Replaced by FourierTransform: 92% Accuracy, 7xFaster on GPUs",https://medium.com/syncedreview/google-replaces-bert-self-attention-with-fourier-transform-92-accuracy-7-times-faster-on-gpus-7a78e3e4ac0e,2021-05-19 00:00:59
+10,Game Programming: Optimization Technique – Delayed Result Gathering,http://allenchou.net/2021/05/delayed-result-gathering/,2021-05-19 06:00:21
+11,Social app Parler is cracking down on hate speech – but only on iOS,https://www.washingtonpost.com/technology/2021/05/17/parler-apple-app-store/,2021-05-18 00:00:31
+12,Semantic Finlex – Finnish Law and Justice as Linked Open Data,https://data.finlex.fi/en/main,2021-05-18 06:00:17
+13,Show HN: Zmsg – Zero knowledge messaging system built on zcash,https://github.com/firmalabs/zmsg,2021-05-18 12:00:18
+14,Kangaroos and Training Neural Networks (1994),https://webcache.googleusercontent.com/search?q=cache:54bCDshgBYkJ:ftp://ftp.sas.com/pub/neural/kangaroos.txt,2021-05-18 18:00:11
+15,If M1 Macs feel faster than Intel is due to optimization of the ARM CPU QoS,https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/,2021-05-17 12:00:12
+16,An Erlangen Programme to Establish the Geometric Foundations of Deep Learning,https://syncedreview.com/2021/05/05/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-12/,2021-05-17 18:00:29
+17,My Robot Vacuum Cleaner Is Afraid of Sunshine,https://shkspr.mobi/blog/2021/05/my-robot-vacuum-cleaner-is-afraid-of-sunshine/,2021-05-16 00:00:25
+18,Army integrates sobel filters into night vision in 2021,https://www.theverge.com/2021/5/3/22417206/army-night-vision-tech-enhanced,2021-05-16 00:00:25
+19,The Translation Trap,https://www.thedriftmag.com/the-translation-trap/,2021-05-16 00:00:32
+20,Neural implant lets paralyzed person type by imagining writing,https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/,2021-05-16 00:00:38
+21,Semantic search with embeddings: index anything,https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c,2021-05-16 00:00:38
+22,"Replacing Bert Self-Attention with Fourier Tranform: 92% Accuracy, 7X Faster",https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/,2021-05-16 00:00:50
+23,Kobra – visual programming language for machine learning,https://kobra.dev/,2021-05-16 00:00:56
+24,Neural Rendering: How Low Can You Go in Terms of Input?,https://www.unite.ai/neural-rendering-low-resolution-input-intel/,2021-05-16 00:01:11
+25,"Semantic Reader: Show Reference Abstracts in Context, and More",https://www.semanticscholar.org/product/semantic-reader,2021-05-16 00:01:22
+26,Brain Differences Between Men and Women: Evidence from Deep Learning,https://www.frontiersin.org/articles/10.3389/fnins.2019.00185/full,2021-05-16 06:00:16
+27,Learning a Manifold of Fonts,http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html,2021-05-15 18:01:19
+28,Debuggable Deep Networks: Sparse Linear Models,https://gradientscience.org/glm_saga/,2021-05-15 18:01:30
+29,Machine Learning Is a Marvelously Executed Scam,https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/,2021-05-15 18:01:30
+30,The “free speech debate” isn’t about free speech,https://www.vox.com/policy-and-politics/2020/7/22/21325942/free-speech-harpers-letter-bari-weiss-andrew-sullivan,2021-05-15 18:01:40
+31,Companies are learning to read your mind,https://ig.ft.com/emotion-recognition/,2021-05-15 18:01:46
+32,Intel is using machine learning to make GTA V look realistic,https://www.theverge.com/2021/5/12/22432945/intel-gta-v-realistic-machine-learning-cityscapes-dataset,2021-05-15 18:01:52
