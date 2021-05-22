@@ -1,34 +1,49 @@
 Index,Title,URL,Time(UTC)
-0,Statement: AP 'horrified' by Israeli attack on its office,https://apnews.com/article/israel-middle-east-business-israel-palestinian-conflict-f595d0ea0a7e21a4e4974ae55e00024d,2021-05-16 00:00:25
-1,I have a lot to say about Signal’s Cellebrite hack,https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack,2021-05-16 06:00:11
-2,"Brazilian gang defrauds Uber, Lyft, DoorDash using GPS spoofing and stolen IDs",https://therecord.media/brazilian-gang-defrauds-uber-lyft-doordash-using-gps-spoofing-and-stolen-ids/,2021-05-16 06:00:16
-3,Nano: Most Eco-Friendly Crypto,https://www.nasdaq.com/articles/nano-coin%3A-10-things-to-know-about-nano-as-investors-search-for-the-most-eco-friendly,2021-05-16 12:02:28
-4,We Found Joe Biden’s Venmo. Here’s Why That’s a Privacy Nightmare for Everyone,https://www.buzzfeednews.com/article/ryanmac/we-found-joe-bidens-secret-venmo,2021-05-15 06:01:05
-5,Irish health service shuts down after ‘sophisticated’ ransomware attack,https://www.cnbc.com/2021/05/14/irish-health-service-hit-by-sophisticated-ransomware-attack.html,2021-05-15 12:00:26
-6,Ireland refuses to pay ransom demand in attack on its national health service,https://www.theverge.com/2021/5/14/22436164/ireland-refuse-pay-ransom-demand-attack-health-security,2021-05-15 12:00:39
-7,BackBlaze: Privacy Update: Third-Party Tracking,https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13,2021-05-14 00:00:12
-8,"Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor",https://fingerprintjs.com/blog/external-protocol-flooding/,2021-05-14 00:00:12
-9,DC police suffer ‘massive’ info leak after ransomware attack,https://www.aljazeera.com/news/2021/5/13/dc-police-suffer-massive-info-leak-after-ransomware-attack,2021-05-14 00:00:20
-10,Android App Promises to Wipe Your Phone If Cops Try to Hack It,https://github.com/mbkore/lockup,2021-05-14 00:00:57
-11,Irish health service hit by cyber attack,https://www.bbc.co.uk/news/world-europe-57111615,2021-05-14 12:00:16
-12,"DarkSide ransomware gang quits after servers, Bitcoin stash seized",https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/,2021-05-14 18:00:12
-13,Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea,https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566,2021-05-14 18:00:12
-14,The IRS Is Coming for Crypto Investors Who Haven’t Paid Their Taxes,https://www.wsj.com/articles/bitcoin-irs-comes-for-crypto-investors-who-havent-paid-their-taxes-11620937095,2021-05-14 18:00:18
-15,Ransomware crooks post cops’ psych evaluations after talks with DC police stall,https://arstechnica.com/gadgets/2021/05/ransomware-crooks-post-cops-psych-evaluations-after-talks-with-dc-police-stall/,2021-05-14 18:00:55
-16,Reverse Engineering an Unknown Microcontroller,https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller,2021-05-13 06:00:15
-17,Germany bans Facebook from handling WhatsApp data over privacy concerns,https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns,2021-05-13 06:00:15
-18,Ransomware gang threatens release of Washington D.C. police records,https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b,2021-05-13 06:00:22
-19,President Signs Executive Order to Improve the Nation’s Cybersecurity,https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/,2021-05-13 06:00:28
-20,"ETH's creator sells quantities of gifted coins, crashing subset of crypto",https://www.coindesk.com/vitaliks-regift-of-unsolicited-doge-knockoffs-sends-memecoin-prices-plunging,2021-05-13 06:00:28
-21,Newly Declassified NSA Document on Cryptography in the 1970s,https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html,2021-05-13 06:00:35
-22,How we built a real time privacy inspector (2020),https://themarkup.org/blacklight/2020/09/22/how-we-built-a-real-time-privacy-inspector,2021-05-13 06:00:41
-23,Tracking One Year of Malicious Tor Exit Relay Activities (Part II),https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df,2021-05-13 06:00:47
-24,Experts suggest AXA’s plan to shun ransomware payouts will set a precedent,https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/,2021-05-13 06:00:47
-25,The Oncoming Ransomware Storm,https://www.stephendiehl.com/blog/ransomware.html,2021-05-13 06:01:03
-26,Engineered bat virus stirs debate over risky research (2015),https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-%201.18787,2021-05-13 06:01:03
-27,Japan’s Rikunabi Scandal Shows the Dangers of Privacy Law Loopholes – EFF,https://www.eff.org/deeplinks/2021/05/japans-rikunabi-scandal-shows-dangers-privacy-law-loopholes,2021-05-13 06:01:10
-28,Train firm's 'worker bonus' email is cybersecurity test,https://www.theguardian.com/uk-news/2021/may/10/train-firms-worker-bonus-email-is-actually-cyber-security-test,2021-05-13 06:01:22
-29,Jailbroken AirTags Could Become a Privacy Nightmare,https://www.extremetech.com/mobile/322683-apple-airtags-now-jailbroken-could-become-even-bigger-privacy-nightmare,2021-05-13 06:01:27
-30,Executive Order on Improving the Nation’s Cybersecurity,https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/,2021-05-13 12:00:20
-31,Battlestar Galactica Lessons from Ransomware to the Pandemic,https://www.theinsight.org/p/battlestar-galactica-lessons-from?token=eyJ1c2VyX2lkIjo3MzQyNTMsInBvc3RfaWQiOjM2MzcxNTgwLCJfIjoiZEhaRGMiLCJpYXQiOjE2MjA5MjMyODUsImV4cCI6MTYyMDkyNjg4NSwiaXNzIjoicHViLTExODQiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.PA847gT3cEySXTqakmAZRAxq1GG2089EgfAvNO34Ctg,2021-05-13 18:00:13
-32,Show HN: Search 1M Linux kernel commit messages,https://linux-commits-search.typesense.org/,2021-05-13 18:00:13
+0,"Airlines customer data breach for 4.5M users, Star Alliance, Air India, et al.",https://m.businesstoday.in/lite/story/air-india-data-breached-in-major-cyber-attack/1/439708.html,2021-05-22 06:00:17
+1,"Microsoft releases SimuLand, a lab environment to simulate attacker tradecraft",https://therecord.media/microsoft-releases-simuland-a-lab-environment-to-simulate-attacker-tradecraft/,2021-05-21 00:00:11
+2,Thunderbird stored OpenPGP secret keys without master password protection,https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956,2021-05-21 00:00:11
+3,"New SSDs Have Built-In Protection Against Ransomware, Data Theft",https://www.tomshardware.com/uk/news/phison-cigent-develop-self-protecting-ssds,2021-05-21 00:00:18
+4,Biden administration targets crypto transfers in tax crackdown plan,https://www.ft.com/content/09112208-08ce-40a1-8e50-9152f1ba03d9,2021-05-21 00:01:33
+5,DOS SMB Client Performance,http://www.os2museum.com/wp/dos-smb-client-performance/,2021-05-21 06:00:12
+6,"SimuLand, a lab environment to simulate attacker tradecraft",https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/,2021-05-21 06:00:12
+7,Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go,https://github.com/rodrigo-brito/ninjabot,2021-05-21 06:00:12
+8,On Ransomware and Cryptocurrency,https://twitter.com/smdiehl/status/1395683698859814912,2021-05-21 12:00:16
+9,"Now your car is a cybersecurity risk, too",https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/,2021-05-21 12:00:16
+10,One keyboard bug three decades in the making (2015),https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df,2021-05-21 18:00:39
+11,I have a lot to say about Signal’s Cellebrite hack,https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack,2021-05-20 06:01:09
+12,BlockFi accidentally pays out millions of dollars to users due to bug,https://www.reddit.com/r/ethtrader/comments/nfr3dc/apparently_blockfi_goofed_up_and_started_paying/,2021-05-20 06:01:09
+13,Microsoft Authenticator extension for Chrome not Microsoft,https://www.theregister.com/2021/05/19/chrome_extension_microsoft_authenticator_fake/,2021-05-20 06:01:15
+14,What Beijing's new crackdown means for crypto in China,https://www.reuters.com/world/china/what-beijings-new-crackdown-means-crypto-china-2021-05-19/,2021-05-20 06:01:20
+15,Bitcoin falls further as China cracks down on crypto currencies,https://www.bbc.com/news/business-57169726,2021-05-20 06:01:27
+16,Show HN: Dog – a distributed firewall management system,https://relaypro-open.github.io/dog/,2021-05-20 06:01:32
+17,Federal Gov. left ‘completely blind’ on cyberattacks looks to force reporting,https://www.politico.com/news/2021/05/15/congress-colonial-pipeline-disclosure-488406,2021-05-20 06:01:32
+18,Missing line in a smart contract leads to $10M hack,https://www.rekt.news/value-rekt2/,2021-05-20 06:01:38
+19,Is 85% of US Critical Infrastructure in Private Hands?,https://www.schneier.com/blog/archives/2021/05/is-85-of-us-critical-infrastructure-in-private-hands.html,2021-05-20 06:01:38
+20,Cyberinsurance giant AXA hit by ransomware attack after shunning ransom payments,https://grahamcluley.com/cyberinsurance-giant-axa-hit-by-ransomware-attack-after-saying-it-would-stop-covering-ransom-payments/,2021-05-20 06:01:46
+21,Cloudflare’s captcha proposal would end AIs source of free labor,https://qz.com/2009829/cloudflares-captcha-proposal-would-end-ais-source-of-free-labor,2021-05-20 06:01:46
+22,Ransomware Hackers Claim to Leak 250GB of Washington D.C. Police Data,https://www.forbes.com/sites/thomasbrewster/2021/05/13/ransomware-hackers-claim-to-leak-250gb-of-washington-dc-police-data-after-cops-dont-pay-4-million-ransom/,2021-05-20 06:01:52
+23,Bitcoin plunges to $40k as China widens its crypto crackdown,https://www.cnn.com/2021/05/19/investing/bitcoin-price-drop-china-crypto-intl-hnk/index.html,2021-05-20 06:01:56
+24,Bitcoin price falls on China crypto warning,https://www.foxbusiness.com/markets/bitcoin-price-falls-on-china-crypto-warning,2021-05-20 06:01:56
+25,Todays’s Guardian puzzle is about sneaky cookie pop-ups,https://www.theguardian.com/science/2021/may/17/can-you-solve-it-are-you-smart-enough-to-opt-out-of-cookies,2021-05-20 06:01:56
+26,China Cracks Down on Crypto,https://www.forbes.com/sites/jonathanponciano/2021/05/18/china-bans-banks-from-crypto-business-saying-speculative-trading-seriously-infringing-on-financial-order/,2021-05-20 06:02:07
+27,"Elon Musk impersonators stole more than $2M in crypto scams, regulator",https://www.cnbc.com/2021/05/17/elon-musk-impersonators-stole-more-than-2-million-in-crypto-scams-.html,2021-05-20 06:02:07
+28,GameStop FOMO inspires a new wave of crypto pump-and-dumps,https://arstechnica.com/tech-policy/2021/05/gamestop-fomo-inspires-a-new-wave-of-crypto-pump-and-dumps/,2021-05-20 06:02:20
+29,Interesting story about how Apple is moving encryption keys to China,https://twitter.com/matthew_d_green/status/1394394630523871233,2021-05-20 06:02:20
+30,"Australian Uyghur activist experienced online trolling, nasty messages, malware",https://www.theguardian.com/world/2021/may/16/i-cant-be-that-careless-australian-uyghur-activist-targeted-online,2021-05-20 06:02:20
+31,We Found Joe Biden’s Secret Venmo. It’s a Privacy Nightmare for Everyone,https://www.buzzfeednews.com/ryanmac/we-found-joe-bidens-secret-venmo,2021-05-20 06:02:25
+32,Should encryption be curbed to combat child abuse?,https://www.bbc.com/news/business-57050689,2021-05-20 06:02:25
+33,U.S. has almost 500k job openings in cybersecurity,https://www.cbsnews.com/news/cybersecurity-job-openings-500k/,2021-05-20 12:00:29
+34,"Crypto crash deepens, stocks slip",https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/,2021-05-20 12:00:35
+35,Deadly Fungi Are the Newest Emerging Microbe Threat All over the World,https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/,2021-05-20 12:00:42
+36,Blueprint: Reverse engineer server configuration (2013),https://github.com/devstructure/blueprint,2021-05-20 12:00:59
+37,Hetzner has banned crypto mining and Chia farming,https://twitter.com/Hetzner_Online/status/1394957824749457409,2021-05-20 12:00:59
+38,Identify a Facebook user by his phone number despite privacy settings set,https://ysamm.com/?p=691,2021-05-20 12:00:59
+39,Preventing Crypto Mining Abuse on Gitlab.com SaaS,https://about.gitlab.com/blog/2021/05/17/prevent-crypto-mining-abuse/,2021-05-20 12:01:06
+40,"Working over 55 hours a week associated with higher risk of stroke, heart attack",https://www.bbc.co.uk/news/business-57139434,2021-05-20 12:01:11
+41,Microsoft Authenticator Chrome Extention is not from MS and is phishing,https://chrome.google.com/webstore/detail/microsoft-authenticator/mabdjppmcjpjploliggpbonahnjjlgkf/related?hl=en-US,2021-05-20 12:01:18
+42,Install the Russian keyboard to prevent Russian ransomware attacks,https://twitter.com/briankrebs/status/1392163072970829830,2021-05-20 12:01:25
+43,Crypto Investors Scheme to Gain Control of Tesla as Bitcoin Markets Tank,https://gizmodo.com/crypto-investors-scheme-to-gain-control-of-tesla-as-bit-1846925631,2021-05-20 12:01:25
+44,Treasury Calls for Crypto Transfers over $10k to Be Reported to IRS,https://www.bloomberg.com/news/articles/2021-05-20/treasury-calls-for-crypto-transfers-over-10-000-reported-to-irs,2021-05-20 18:00:14
+45,The Full Story of the Stunning RSA Hack Can Finally Be Told,https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/,2021-05-20 18:00:18
+46,Privacy on iPhone (Apple Ad),https://www.youtube.com/watch?v=8w4qPUSG17Y,2021-05-20 18:00:18
+47,"The level of Mac malware is not acceptable, says Apple exec at Epic trial",https://www.theverge.com/2021/5/19/22444353/mac-malware-not-acceptable-craig-federighi-apple-epic,2021-05-20 18:00:18
