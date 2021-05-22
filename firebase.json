@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      {
+        "source": "https://seit-lab.web.app",
+        "destination": "https://seit.egr.msu.edu",
+        "type": 301
+      }
+    ]
+  }
