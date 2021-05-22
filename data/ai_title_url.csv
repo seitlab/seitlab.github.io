@@ -21,19 +21,19 @@ Index,Title,URL,Time(UTC)
 19,Kangaroos and Training Neural Networks (1994),https://webcache.googleusercontent.com/search?q=cache:54bCDshgBYkJ:ftp://ftp.sas.com/pub/neural/kangaroos.txt,2021-05-18 18:00:11
 20,If M1 Macs feel faster than Intel is due to optimization of the ARM CPU QoS,https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/,2021-05-17 12:00:12
 21,An Erlangen Programme to Establish the Geometric Foundations of Deep Learning,https://syncedreview.com/2021/05/05/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-12/,2021-05-17 18:00:29
-22,Machine Learning Is a Marvelously Executed Scam,https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/,2021-05-16 06:01:35
-23,The “free speech debate” isn’t about free speech,https://www.vox.com/policy-and-politics/2020/7/22/21325942/free-speech-harpers-letter-bari-weiss-andrew-sullivan,2021-05-16 06:01:48
-24,Companies are learning to read your mind,https://ig.ft.com/emotion-recognition/,2021-05-16 06:01:53
-25,Intel is using machine learning to make GTA V look realistic,https://www.theverge.com/2021/5/12/22432945/intel-gta-v-realistic-machine-learning-cityscapes-dataset,2021-05-16 06:01:53
-26,Brain Differences Between Men and Women: Evidence from Deep Learning,https://www.frontiersin.org/articles/10.3389/fnins.2019.00185/full,2021-05-16 12:00:23
-27,The Translation Trap,https://www.thedriftmag.com/the-translation-trap/,2021-05-16 12:00:43
-28,My Robot Vacuum Cleaner Is Afraid of Sunshine,https://shkspr.mobi/blog/2021/05/my-robot-vacuum-cleaner-is-afraid-of-sunshine/,2021-05-16 12:00:49
-29,Semantic search with embeddings: index anything,https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c,2021-05-16 12:00:55
-30,Kobra – visual programming language for machine learning,https://kobra.dev/,2021-05-16 12:01:02
-31,Army integrates sobel filters into night vision in 2021,https://www.theverge.com/2021/5/3/22417206/army-night-vision-tech-enhanced,2021-05-16 12:01:07
-32,"Replacing Bert Self-Attention with Fourier Tranform: 92% Accuracy, 7X Faster",https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/,2021-05-16 12:01:07
-33,Neural Rendering: How Low Can You Go in Terms of Input?,https://www.unite.ai/neural-rendering-low-resolution-input-intel/,2021-05-16 12:01:19
-34,"Semantic Reader: Show Reference Abstracts in Context, and More",https://www.semanticscholar.org/product/semantic-reader,2021-05-16 12:01:23
-35,Learning a Manifold of Fonts,http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html,2021-05-16 12:01:45
-36,Debuggable Deep Networks: Sparse Linear Models,https://gradientscience.org/glm_saga/,2021-05-16 12:01:52
-37,Neural implant lets paralyzed person type by imagining writing,https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/,2021-05-16 18:00:40
+22,Learning a Manifold of Fonts,http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html,2021-05-16 12:01:45
+23,Debuggable Deep Networks: Sparse Linear Models,https://gradientscience.org/glm_saga/,2021-05-16 12:01:52
+24,Machine Learning Is a Marvelously Executed Scam,https://www.lastweekinaws.com/blog/machine-learning-is-a-marvelously-executed-scam/,2021-05-16 12:01:58
+25,The “free speech debate” isn’t about free speech,https://www.vox.com/policy-and-politics/2020/7/22/21325942/free-speech-harpers-letter-bari-weiss-andrew-sullivan,2021-05-16 12:02:11
+26,Companies are learning to read your mind,https://ig.ft.com/emotion-recognition/,2021-05-16 12:02:11
+27,Intel is using machine learning to make GTA V look realistic,https://www.theverge.com/2021/5/12/22432945/intel-gta-v-realistic-machine-learning-cityscapes-dataset,2021-05-16 12:02:16
+28,Brain Differences Between Men and Women: Evidence from Deep Learning,https://www.frontiersin.org/articles/10.3389/fnins.2019.00185/full,2021-05-16 18:00:27
+29,Neural implant lets paralyzed person type by imagining writing,https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/,2021-05-16 18:00:40
+30,The Translation Trap,https://www.thedriftmag.com/the-translation-trap/,2021-05-16 18:00:40
+31,My Robot Vacuum Cleaner Is Afraid of Sunshine,https://shkspr.mobi/blog/2021/05/my-robot-vacuum-cleaner-is-afraid-of-sunshine/,2021-05-16 18:00:48
+32,Semantic search with embeddings: index anything,https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c,2021-05-16 18:00:52
+33,Kobra – visual programming language for machine learning,https://kobra.dev/,2021-05-16 18:00:58
+34,"Replacing Bert Self-Attention with Fourier Tranform: 92% Accuracy, 7X Faster",https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/,2021-05-16 18:01:03
+35,Army integrates sobel filters into night vision in 2021,https://www.theverge.com/2021/5/3/22417206/army-night-vision-tech-enhanced,2021-05-16 18:01:08
+36,Neural Rendering: How Low Can You Go in Terms of Input?,https://www.unite.ai/neural-rendering-low-resolution-input-intel/,2021-05-16 18:01:08
+37,"Semantic Reader: Show Reference Abstracts in Context, and More",https://www.semanticscholar.org/product/semantic-reader,2021-05-16 18:01:20
