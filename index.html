@@ -190,7 +190,7 @@
 
         function getDay(day){
             let _dif = new Date().getTimezoneOffset();
-            let utc_time = new Date().getTime() + (_dif - 14400) * 60 * 1000;
+            let utc_time = new Date().getTime() + _dif * 60 * 1000;
             var today = new Date(utc_time);
             var targetday_milliseconds=today.getTime() + 1000*60*60*24*day;
             today.setTime(targetday_milliseconds);
@@ -212,7 +212,7 @@
 
         function mark_today(tt) {
           let _dif = new Date().getTimezoneOffset();
-          let utc_time = new Date().getTime() + (_dif - 14400) * 60 * 1000;
+          let utc_time = new Date().getTime() + _dif * 60 * 1000;
           var now = new Date(utc_time);
           var year = now.getFullYear();
           var month = now.getMonth()+1;
