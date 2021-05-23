@@ -224,8 +224,7 @@
             date = "0"+date;
 
           var time1 = year+"-"+month+"-"+date;
-          document.write(_dif + " ");
-          document.write(time1);
+          document.write(utc_time/1000 + " ");
           var time2 = tt.substring(0, 10);
             if (time1 == time2)
                 return "<i>today</i>";
