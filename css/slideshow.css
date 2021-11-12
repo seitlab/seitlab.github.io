@@ -24,36 +24,14 @@
     }
 */
 
+#slide{
+  width:96%;
+  }
+  
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides, .mySlides_mobile {
   display:none;
-}
-#img1{
-  position: absolute;
-  z-index: 4;
-  animation: xfade 20s -0s infinite;
-  animation-timing-function: ease-in-out;
-}
-
-#img2{
-  position: absolute;
-  z-index: 3;
-  animation: xfade 20s -5s infinite;
-  animation-timing-function: ease-in-out;
-}
-
-#img3{
-  position: absolute;
-  z-index: 2;
-  animation: xfade 20s -10s infinite;
-  animation-timing-function: ease-in-out;
-}
-#img4{
-  position: absolute;
-  z-index: 1;
-  animation: xfade 20s -15s infinite;
-  animation-timing-function: ease-in-out;
 }
 
 @media only screen and (max-width: 480px) {
@@ -75,6 +53,29 @@ img {vertical-align: middle;}
   margin: auto;
 }
 
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: #ffffff!important;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
 /* Caption text */
 .text {
   color: #f2f2f2;
@@ -97,30 +98,35 @@ img {vertical-align: middle;}
 
 /* The dots/bullets/indicators */
 .dot {
-  height: 15px;
-  width: 15px;
+  cursor: pointer;
+  height: 13px;
+  width: 13px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
 }
-
-.active {
+.active, .dot:hover {
   background-color: #717171;
 }
-
 /* Fading animation */
-@keyframes xfade{
-
-     0% {opacity: 0;}
-    20% {opacity: 1;}
-    33% {opacity: 1;}
-    53% {opacity: 0;}
-    100% {opacity: 0;}
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 2s;
+  animation-name: fade;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
 }
 
-
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
