@@ -26,7 +26,46 @@
 
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
+.mySlides, .mySlides_mobile {
+  display:none;
+}
+#img1{
+  position: absolute;
+  z-index: 4;
+  animation: xfade 20s -0s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+#img2{
+  position: absolute;
+  z-index: 3;
+  animation: xfade 20s -5s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+#img3{
+  position: absolute;
+  z-index: 2;
+  animation: xfade 20s -10s infinite;
+  animation-timing-function: ease-in-out;
+}
+#img4{
+  position: absolute;
+  z-index: 1;
+  animation: xfade 20s -15s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+@media only screen and (max-width: 480px) {
+  #web {
+    display: none;
+  } 
+}
+@media only screen and (min-width: 480px) {
+   #mobile {
+     display: none;
+  }
+}
 img {vertical-align: middle;}
 
 /* Slideshow container */
@@ -72,22 +111,16 @@ img {vertical-align: middle;}
 }
 
 /* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 2.5s;
-  animation-name: fade;
-  animation-duration: 2.5s;
+@keyframes xfade{
+
+     0% {opacity: 0;}
+    20% {opacity: 1;}
+    33% {opacity: 1;}
+    53% {opacity: 0;}
+    100% {opacity: 0;}
 }
 
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
 
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
