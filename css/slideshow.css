@@ -54,7 +54,7 @@ img {vertical-align: middle;}
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev, .next_pic {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -68,12 +68,12 @@ img {vertical-align: middle;}
   border-radius: 0 3px 3px 0;
 }
 /* Position the "next button" to the right */
-.next {
+.next_pic {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+.prev:hover, .next_pic:hover {
   background-color: rgba(0,0,0,0.8);
 }
 /* Caption text */
