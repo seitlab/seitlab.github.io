@@ -1,0 +1,7 @@
+@inproceedings{li2021nelora,
+  title={NELoRa: Towards Ultra-low SNR LoRa Communication with Neural-enhanced Demodulation},
+  author={Li, Chenning and Guo, Hanqing and Tong, Shuai and Zeng, Xiao and Cao, Zhichao and Zhang, Mi and Yan, Qiben and Xiao, Li and Wang, Jiliang and Liu, Yunhao},
+  booktitle={The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys ’21)},
+  month={November},
+  year={2021},
+}

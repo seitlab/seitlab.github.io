@@ -1,0 +1,7 @@
+@inproceedings{zhou2022doublestar,
+  title={DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems},
+  author={Zhou, Ce and Yan, Qiben and Shi, Yan and Sun, Lichao},
+  booktitle={USENIX Security Symposium},
+  month={August},
+  year={2022}
+}
