@@ -1,0 +1,7 @@
+@article{yan2022uradio,
+  title={URadio: Wideband Ultrasound Communication for Smart Home Applications},
+  author={Yan, Qiben and Xia, Qi and Wang, Yuanda and Zhou, Pan and Zeng, Huacheng},
+  journal={IEEE Internet of Things Journal},
+  year={2022},
+  publisher={IEEE}
+}
