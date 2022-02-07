@@ -1,0 +1,7 @@
+@article{yu2021security,
+  title={Security and Privacy in the Emerging Cyber-Physical World: A Survey},
+  author={Yu, Zhiyuan and Kaplan, Zack and Yan, Qiben and Zhang, Ning},
+  journal={IEEE Communications Surveys \& Tutorials},
+  year={2021},
+  publisher={IEEE}
+}

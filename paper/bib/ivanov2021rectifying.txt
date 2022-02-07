@@ -1,0 +1,8 @@
+@inproceedings{ivanov2021rectifying,
+  title={Rectifying Administrated ERC20 Tokens},
+  author={Ivanov, Nikolay and Guo, Hanqing and Yan, Qiben},
+  booktitle={International Conference on Information and Communications Security},
+  pages={22--37},
+  year={2021},
+  organization={Springer}
+}

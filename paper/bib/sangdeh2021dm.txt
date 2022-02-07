@@ -1,0 +1,7 @@
+@article{sangdeh2021dm,
+  title={DM-COM: Combining Device-to-Device and MU-MIMO Communications for Cellular Networks},
+  author={Sangdeh, Pedram Kheirkhah and Pirayesh, Hossein and Yan, Qiben and Zeng, Huacheng},
+  journal={IEEE Internet of Things Journal},
+  year={2021},
+  publisher={IEEE}
+}

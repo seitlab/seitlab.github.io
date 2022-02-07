@@ -1,0 +1,7 @@
+@article{tang2021systematical,
+  title={A Systematical Study on Application Performance Management Libraries for Apps},
+  author={Tang, Yutian and Wang, Haoyu and Zhan, Xian and Luo, Xiapu and Zhou, Yajin and Zhou, Hao and Yan, Qiben and Sui, Yulei and Keung, Jacky Wai},
+  journal={IEEE Transactions on Software Engineering},
+  year={2021},
+  publisher={IEEE}
+}

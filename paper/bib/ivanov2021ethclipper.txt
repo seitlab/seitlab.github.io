@@ -1,0 +1,7 @@
+@inproceedings{ivanov2021ethclipper,
+  title={EthClipper: A Clipboard Meddling Attack on Hardware Wallets with Address Verification Evasion},
+  author={Ivanov, Nikolay and Yan, Qiben},
+  booktitle={2021 IEEE Conference on Communications and Network Security (CNS)},
+  year={2021},
+  organization={IEEE}
+}

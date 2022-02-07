@@ -1,0 +1,8 @@
+@inproceedings{ivanov2021system,
+  title={System-Wide Security for Offline Payment Terminals},
+  author={Ivanov, Nikolay and Yan, Qiben},
+  booktitle={International Conference on Security and Privacy in Communication Systems},
+  pages={99--119},
+  year={2021},
+  organization={Springer}
+}

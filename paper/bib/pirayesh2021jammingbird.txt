@@ -1,0 +1,8 @@
+@inproceedings{pirayesh2021jammingbird,
+  title={JammingBird: Jamming-resilient communications for vehicular ad hoc networks},
+  author={Pirayesh, Hossein and Sangdeh, Pedram Kheirkhah and Zhang, Shichen and Yan, Qiben and Zeng, Huacheng},
+  booktitle={2021 18th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)},
+  pages={1--9},
+  year={2021},
+  organization={IEEE}
+}

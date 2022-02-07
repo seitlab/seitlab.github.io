@@ -1,0 +1,8 @@
+@inproceedings{lou2021soundfence,
+  title={SoundFence: Securing Ultrasonic Sensors in Vehicles Using Physical-Layer Defense},
+  author={Lou, Jianzhi and Yan, Qiben and Hui, Qing and Zeng, Huacheng},
+  booktitle={2021 18th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)},
+  pages={1--9},
+  year={2021},
+  organization={IEEE}
+}

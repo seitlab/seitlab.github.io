@@ -1,0 +1,8 @@
+@inproceedings{song2021privacy,
+  title={Privacy-Preserving Polynomial Evaluation over Spatio-Temporal Data on an Untrusted Cloud Server},
+  author={Song, Wei and Tang, Mengfei and Yan, Qiben and Shen, Yuan and Cao, Yang and Wang, Qian and Peng, Zhiyong},
+  booktitle={International Conference on Database Systems for Advanced Applications},
+  pages={474--490},
+  year={2021},
+  organization={Springer}
+}

@@ -1,0 +1,10 @@
+@article{yan2021scalable,
+  title={Scalable Privacy-preserving Geo-distance Evaluation for Precision Agriculture IoT Systems},
+  author={Yan, Qiben and Lou, Jianzhi and Vuran, Mehmet C and Irmak, Suat},
+  journal={ACM Transactions on Sensor Networks (TOSN)},
+  volume={17},
+  number={4},
+  pages={1--30},
+  year={2021},
+  publisher={ACM New York, NY}
+}

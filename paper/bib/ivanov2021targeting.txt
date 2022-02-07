@@ -1,0 +1,7 @@
+@inproceedings{ivanov2021targeting,
+  title={Targeting the Weakest Link: Social Engineering Attacks in Ethereum Smart Contracts},
+  author={Ivanov, Nikolay and Lou, Jianzhi and Chen, Ting and Li, Jin and Yan, Qiben},
+  booktitle={Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security},
+  pages={787--801},
+  year={2021}
+}
