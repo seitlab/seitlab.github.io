@@ -1,0 +1,6 @@
+@inproceedings{guo2022supervoice,
+  title={SUPERVOICE: Text-Independent Speaker Verification Using Ultrasound Energy in Human Speech},
+  author={Guo, Hanqing and Yan, Qiben and Ivanov, Nikolay and Zhu, Ying and Xiao, Li and Hunter, Eric J.},
+  booktitle={The 17th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2022)},
+  year={2022}
+}

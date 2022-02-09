@@ -1,0 +1,6 @@
+@inproceedings{wang2022ghosttalk,
+  title={GhostTalk: Interactive Attack on Smartphone Voice System Through Power Line},
+  author={Wang, Yuanda and Guo, Hanqing and Yan, Qiben},
+  booktitle={Network and Distributed Systems Security (NDSS) Symposium},
+  year={2022}
+}
