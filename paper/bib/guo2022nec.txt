@@ -1,0 +1,6 @@
+@inproceedings{guo2022nec,
+  title={NEC: Speaker Selective Cancellation via Neural Enhanced Ultrasound Shadowing},
+  author={Guo, Hanqing and Li, Chenning and Li, Lingkun and Cao, Zhichao and Yan, Qiben and Xiao, Li},
+  booktitle={The 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)},
+  year={2022}
+}
