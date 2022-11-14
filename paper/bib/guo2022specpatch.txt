@@ -1,0 +1,6 @@
+@inproceedings{guo2022specpatch,
+  title={SpecPatch: Human-In-The-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition},
+  author={Guo, Hanqing and Wang, Yuanda and Ivanov, Nikolay and Yan, Qiben and Xiao, Li},
+  booktitle={Proceedings of the 2022 ACM Conference on Computer and Communications Security (CCS)},
+  year={2022}
+}
