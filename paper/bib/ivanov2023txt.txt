@@ -1,0 +1,7 @@
+@article{ivanov2023txt,
+  title={TxT: Real-time Transaction Encapsulation for Ethereum Smart Contracts},
+  author={Ivanov, Nikolay and Yan, Qiben and Kompalli, Anurag},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  publisher={IEEE}
+}
