@@ -1,0 +1,10 @@
+@article{zhang2022authiot,
+  title={AuthIoT: A Transferable Wireless Authentication Scheme for IoT Devices Without Input Interface},
+  author={Zhang, Shichen and Sangdeh, Pedram Kheirkhah and Pirayesh, Hossein and Zeng, Huacheng and Yan, Qiben and Zeng, Kai},
+  journal={IEEE Internet of Things Journal},
+  volume={9},
+  number={22},
+  pages={23072--23085},
+  year={2022},
+  publisher={IEEE}
+}

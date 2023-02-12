@@ -1,0 +1,7 @@
+@article{ivanov2022autothing,
+  title={AutoThing: A Secure Transaction Framework for Self-Service Things},
+  author={Ivanov, Nikolay and Yan, Qiben},
+  journal={IEEE Transactions on Services Computing},
+  year={2022},
+  publisher={IEEE}
+}

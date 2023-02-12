@@ -1,0 +1,7 @@
+@article{alhanahnah2022iotcom,
+  title={IoTCOM: Dissecting Interaction Threats in IoT Systems},
+  author={Alhanahnah, Mohannad and Stevens, Clay and Chen, Bocheng and Yan, Qiben and Bagheri, Hamid},
+  journal={IEEE Transactions on Software Engineering},
+  year={2022},
+  publisher={IEEE}
+}
