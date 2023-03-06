@@ -295,10 +295,10 @@
 
           var time1 = year+"-"+month+"-"+date;
           var time2 = tt.substring(0, 10);
-            if (time1 == time2)
+            if (time1 == time2 || time2 == getDay(-1).toString())
                 return "<i>today</i>";
             else {
-              for (i=-1; i>-4; i--){
+              for (i=-2; i>-5; i--){
                 if (time2 == getDay(i).toString()){
                   return "<i>recent</i>";
                 }
