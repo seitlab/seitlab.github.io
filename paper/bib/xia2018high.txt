@@ -1,0 +1,8 @@
+@inproceedings{xia2018high,
+  title={High-bandwidth ultrasonic communication using graphene-based acoustic devices},
+  author={Xia, Qi and Yan, Qiben and Zhou, Qin},
+  booktitle={IEEE INFOCOM 2018-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)},
+  pages={1--2},
+  year={2018},
+  organization={IEEE}
+}

@@ -1,0 +1,6 @@
+@inproceedings{guo2023masterkey,
+  title={MASTERKEY: Practical Backdoor Attack Against Speaker Verification Systems},
+  author={Guo, Hanqing and Chen, Xun and Guo, Junfeng and Xiao, Li and Yan, Qiben},
+  booktitle={Proceedings of the 29th Annual International Conference on Mobile Computing and Networking},
+  year={2023}
+}

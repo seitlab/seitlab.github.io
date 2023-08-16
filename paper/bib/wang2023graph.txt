@@ -1,0 +1,8 @@
+@article{wang2023graph,
+  title={Graph Learning for Interactive Threat Detection in Heterogeneous Smart Home Rule Data},
+  author={Wang, Guangjing and Ivanov, Nikolay and Chen, Bocheng and Wang, Qi and Nguyen, ThanhVu and Yan, Qiben},
+  journal={Proceedings of the ACM on Management of Data},
+  pages={1--27},
+  year={2023},
+  publisher={ACM New York, NY, USA}
+}

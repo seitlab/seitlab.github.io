@@ -1,0 +1,7 @@
+@inproceedings{chen2023dynamicfl,
+  title={DynamicFL: Balancing Communication Dynamics and Client Manipulation for Federated Learning},
+  author={Chen, Bocheng and Ivanov, Nikolay and Wang, Guangjing and Yan, Qiben},
+  booktitle={2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)},
+  month={September},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{zhou2023comprehensive,
+  title={A comprehensive survey on pretrained foundation models: A history from bert to chatgpt},
+  author={Zhou, Ce and Li, Qian and Li, Chen and Yu, Jun and Liu, Yixin and Wang, Guangjing and Zhang, Kai and Ji, Cheng and Yan, Qiben and He, Lifang and Peng, Hao and Li, Jianxin and Wu, Jia and Liu, Ziwei and Xie, Pengtao and Xiong, Caiming and Pei, Jian and Yu, Philip S. and Sun, Lichao},
+  journal={arXiv preprint arXiv:2302.09419},
+  year={2023}
+}

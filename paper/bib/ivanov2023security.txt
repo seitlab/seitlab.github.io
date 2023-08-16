@@ -1,0 +1,7 @@
+@article{ivanov2023security,
+  title={Security Threat Mitigation For Smart Contracts: A Comprehensive Survey},
+  author={Ivanov, Nikolay and Li, Chenning and Yan, Qiben and Sun, Zhiyuan and Cao, Zhichao and Luo, Xiapu},
+  journal={ACM Computing Surveys},
+  year={2023},
+  publisher={ACM New York, NY}
+}

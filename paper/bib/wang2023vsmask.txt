@@ -1,0 +1,7 @@
+@inproceedings{wang2023vsmask,
+  title={VSMask: Defending Against Voice Synthesis Attack via Real-Time Predictive Perturbation},
+  author={Wang, Yuanda and Guo Hanqing and Wang, Guangjing and Chen, Bocheng and Yan, Qiben},
+  booktitle={The 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec)},
+  month={May},
+  year={2023}
+}

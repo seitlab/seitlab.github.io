@@ -1,0 +1,9 @@
+@article{sun2021osprey,
+  title={Osprey: A fast and accurate patch presence test framework for binaries},
+  author={Sun, Peiyuan and Yan, Qiben and Zhou, Haoyi and Li, Jianxin},
+  journal={Computer Communications},
+  volume={173},
+  pages={95--106},
+  year={2021},
+  publisher={Elsevier}
+}

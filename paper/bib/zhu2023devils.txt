@@ -1,0 +1,6 @@
+@inproceedings{zhu2023devils,
+  title={Devils in the Clouds: An Evolutionary Study of Telnet Bot Loaders},
+  author={Zhu, Yuhui and Chen, Zhenxiang and Yan, Qiben and Wang, Shanshan and Giaretta, Alberto and Li, Enlong and Peng, Lizhi and Zhao, Chuan and Conti, Mauro},
+  booktitle={IEEE International Conference on Communications (ICC)},
+  year={2023}
+}

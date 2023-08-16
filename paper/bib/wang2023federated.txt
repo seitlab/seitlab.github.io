@@ -1,0 +1,6 @@
+@inproceedings{wang2023federated,
+  title={Federated IoT Interaction Vulnerability Analysis},
+  author={Wang, Guangjing and Guo, Hanqing and Li, Anran and Liu, Xiaorui and Yan, Qiben},
+  booktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE). IEEE},
+  year={2023}
+}

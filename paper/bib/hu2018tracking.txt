@@ -1,0 +1,8 @@
+@inproceedings{hu2018tracking,
+  title={Tracking location privacy leakage of mobile ad networks at scale},
+  author={Hu, Boyang and Yan, Qiben and Zheng, Yao},
+  booktitle={IEEE INFOCOM 2018-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)},
+  pages={1--2},
+  year={2018},
+  organization={IEEE}
+}

@@ -1,0 +1,6 @@
+@inproceedings{guo2023phantomsound,
+  title={PhantomSound: Black-Box, Query-Efficient Audio Adversarial Attack via Split-Second Phoneme Injection},
+  author={Guo, Hanqing and Wang, Guangjing and Wang, Yuanda and Chen, Bocheng and Yan, Qiben and Xiao, Li},
+  booktitle={The 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)},
+  year={2023}
+}
