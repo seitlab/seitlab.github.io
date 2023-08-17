@@ -1,0 +1,41 @@
+Index,Title,URL,Time
+0,Don't use Control Center to turn off Bluetooth on iPhone,https://www.androidauthority.com/psa-toggling-bluetooth-in-iphone-control-center-doesnt-do-what-you-likely-think-3355583/,2023-08-16 12:46:48
+1,"Embedded Linux, Ioctl, SPI-Dev, I2C-Dev and FPGA",https://www.adiuvoengineering.com/post/microzed-chronicles-ioctl-spi-i2c-and-petalinux,2023-08-16 05:54:19
+2,Make a low-cost Bluetooth LE packet sniffer with Wireshark,https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/,2023-08-09 22:45:03
+3,SQLedge: Replicate Postgres to SQLite on the Edge,https://github.com/zknill/sqledge,2023-08-09 10:29:49
+4,Sensor Watch: a board swap for the classic Casio F-91W wristwatch,https://www.sensorwatch.net/,2023-08-08 22:50:52
+5,Android 14 introduces cellular connectivity security features,https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html,2023-08-08 17:07:44
+6,Microsoft is testing a new Edge feature that captures screenshots of everything,https://www.techspot.com/news/99690-microsoft-testing-new-edge-feature-captures-screenshots-every.html,2023-08-07 20:53:44
+7,Raspberry Pis Found in Abandoned Spin Scooters in Seattle,https://www.tomshardware.com/news/raspberry-pi-4bs-inside-spin-scooters,2023-08-07 11:52:49
+8,What’s the Deal with Sensor Tower?,https://daringfireball.net/2023/08/whats_the_deal_with_sensor_tower,2023-08-06 16:40:16
+9,Raspberry Pi is this church’s new organist,https://www.raspberrypi.com/news/raspberry-pi-is-this-churchs-new-organist/,2023-08-05 22:56:32
+10,Raspberry Pi availability is visibly improving after years of shortages,https://arstechnica.com/gadgets/2023/08/some-shops-will-let-you-buy-more-than-one-raspberry-pi-at-a-time-again/,2023-08-02 17:58:44
+11,Back when I discovered that iOS 15 will gladly render newlines in WiFi SSIDs,https://twitter.com/DominoTree/status/1686429261882941440,2023-08-02 10:28:48
+12,Edge detection doesn’t explain line drawing,https://aaronhertzmann.com/2020/04/19/lines-as-edges.html,2023-08-02 07:35:59
+13,ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf],https://www.usenix.org/system/files/osdi23-saokar.pdf,2023-08-01 17:39:01
+14,Show HN: Macropad using the Raspberry Pi Pico microcontroller board,https://github.com/thiagosanches/makrobuddy,2023-08-01 06:09:52
+15,IronOS: Open-source soldering iron firmware,https://github.com/Ralim/IronOS,2023-08-01 05:43:43
+16,Show HN: A simple wireless power demonstration circuit,https://10maurycy10.github.io/projects/simple_wireless_power/,2023-08-01 00:38:57
+17,Free Public WiFi,https://computer.rip/2023-07-29-Free-Public-WiFi.html,2023-07-30 20:30:43
+18,Microsoft is trying too hard with Edge,https://www.xda-developers.com/microsoft-trying-too-hard-edge/,2023-07-30 03:09:45
+19,Ways to print hello world in assembler on a Raspberry Pi,https://github.com/ksaj/helloworld,2023-07-29 18:31:25
+20,How to Overclock a Raspberry Pi 4 for Improved Performance,https://www.msn.com/en-us/money/technology/how-to-overclock-a-raspberry-pi-4-for-improved-performance/ar-AA1ewsvT,2023-07-29 15:44:42
+21,Retro TV: Live 24/7 Vintage Cable TV Network on Raspberry Pi [video],https://www.youtube.com/watch?v=luxFdsAkG80,2023-07-28 17:22:26
+22,U Aalto wireless charging: distance 5 times antenna size and 80% efficiency,https://www.aalto.fi/en/news/going-the-distance-for-better-wireless-charging,2023-07-27 16:48:16
+23,Assembler on Raspberry Pi,https://imomath.com/index.cgi?page=asmMain,2023-07-27 16:30:44
+24,"Intel, Ericsson to work together on custom 5G chip using the 18A process",https://www.reuters.com/technology/intel-ericsson-work-together-custom-5g-chip-2023-07-25/,2023-07-27 16:18:54
+25,Memfault (YC W19) Is Hiring an Embedded Linux Engineer,https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b,2023-07-27 08:01:15
+26,T-Mobile says its ultrafast 5G capable of up to 3.3Gbps is rolling out now,https://www.theverge.com/2023/7/25/23807252/t-mobile-5g-carrier-aggregation-samsung-galaxy-s23,2023-07-25 21:25:43
+27,Show HN: An Open-Source Platform for Raspberry Pi with Robust OTA Updates,https://oss.silitics.com/rugpi/,2023-07-24 09:27:22
+28,Debian vs. Yocto for Embedded Systems,https://www.bytesnap.com/news-blog/debian-vs-yocto-for-embedded-systems/,2023-07-23 11:05:39
+29,Why Rust is a great fit for embedded software – 2023 update,https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update,2023-07-21 23:17:44
+30,"High-Performance server for NATS.io, the cloud and edge native messaging system",https://github.com/nats-io/nats-server,2023-07-21 18:04:57
+31,Firmware vulnerabilities in millions of computers could give hackers superuser,https://arstechnica.com/security/2023/07/millions-of-servers-inside-data-centers-imperiled-by-flaws-in-ami-bmc-firmware/,2023-07-21 03:01:33
+32,China Fights for an Edge on Semiconductors,https://restofworld.org/2023/exporter-china-export-controls-semiconductors/,2023-07-19 16:09:22
+33,"Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt",https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/,2023-07-19 11:44:24
+34,"Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light",https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light,2023-07-16 11:59:49
+35,AI weed killer uses sunlight and Raspberry Pi,https://www.raspberrypi.com/news/ai-weed-killer-uses-sunlight-and-raspberry-pi/,2023-07-15 00:31:50
+36,The Brain Fog of Long Covid Is a Serious Medical Issue That Needs More Attention,https://www.scientificamerican.com/article/the-brain-fog-of-long-covid-is-a-serious-medical-issue-that-needs-more-attention/,2023-07-14 17:19:27
+37,Show HN: Retool Portals and Retool Embed,https://retool.com/blog/external/,2023-07-13 12:26:48
+38,Discovery of Chemical Means to Reverse Aging and Restore Cellular Function,https://www.aging-us.com/news_room/NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function,2023-07-12 18:50:35
+39,Chemically induced reprogramming to reverse cellular aging,https://www.aging-us.com/article/204896/text,2023-07-12 16:33:33
