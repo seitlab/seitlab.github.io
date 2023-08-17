@@ -1,6 +1,6 @@
 @article{yuan2023motif,
   title={Motif-level Anomaly Detection in Dynamic Graphs},
-  author={Ivanov, Nikolay and Yan, Qiben and Kompalli, Anurag},
+  author={Yuan, Zirui and Shao, Minglai and Yan, Qiben},
   journal={IEEE Transactions on Information Forensics and Security},
   year={2023},
   publisher={IEEE}
