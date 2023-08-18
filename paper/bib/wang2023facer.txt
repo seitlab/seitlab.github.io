@@ -1,6 +1,6 @@
 @inproceedings{wang2023facer,
   title={FacER: Contrastive Attention based Expression Recognition via Smartphone Earpiece Speaker},
-  author={Wang, Guangjing and Yan, Qiben and Patrarungrong, Shane and Wang, Juexing and Zeng, Huacheng}
+  author={Wang, Guangjing and Yan, Qiben and Patrarungrong, Shane and Wang, Juexing and Zeng, Huacheng},
   booktitle={IEEE INFOCOM},
   year={2023}
 }
