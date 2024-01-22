@@ -1,0 +1,6 @@
+@article{wang2023beyond,
+  title={Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems},
+  author={Wang, Guangjing and Zhou, Ce and Wang, Yuanda and Chen, Bocheng and Guo, Hanqing and Yan, Qiben},
+  journal={arXiv preprint arXiv:2311.11796},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{wang2023practical,
+  title={A Practical Survey on Emerging Threats from AI-driven Voice Attacks: How Vulnerable are Commercial Voice Control Systems?},
+  author={Wang, Yuanda and Yan, Qiben and Ivanov, Nikolay and Chen, Xun},
+  journal={arXiv preprint arXiv:2312.06010},
+  year={2023}
+}

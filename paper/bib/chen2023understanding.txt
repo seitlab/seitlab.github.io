@@ -1,7 +1,7 @@
 @inproceedings{chen2023understanding,
   title={Understanding Multi-Turn Toxic Behaviors in Open-Domain Chatbots},
-  author={Chen, Bocheng and Wang, Guangjing and Guo, Hanqing and Wang, Yuanda and Yan, Qiben
-},
-  booktitle={The 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)},
+  author={Chen, Bocheng and Wang, Guangjing and Guo, Hanqing and Wang, Yuanda and Yan, Qiben},
+  booktitle={Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses},
+  pages={282--296},
   year={2023}
 }

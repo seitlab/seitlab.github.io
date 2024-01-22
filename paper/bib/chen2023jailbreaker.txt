@@ -1,0 +1,7 @@
+@inproceedings{chen2023jailbreaker,
+  title={Jailbreaker in jail: Moving target defense for large language models},
+  author={Chen, Bocheng and Paliwal, Advait and Yan, Qiben},
+  booktitle={Proceedings of the 10th ACM Workshop on Moving Target Defense},
+  pages={29--32},
+  year={2023}
+}

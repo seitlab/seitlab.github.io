@@ -1,0 +1,10 @@
+@article{he2023resnext+,
+  title={ResNeXt+: Attention Mechanisms Based on ResNeXt for Malware Detection and Classification},
+  author={He, Yuewang and Kang, Xiangui and Yan, Qiben and Li, Enping},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  volume={19},
+  number={},
+  pages={1142-1155},
+  publisher={IEEE}
+}
