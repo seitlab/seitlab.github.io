@@ -1,0 +1,8 @@
+@inproceedings{ivanov2021blockumulus,
+  title={Blockumulus: a scalable framework for smart contracts on the cloud},
+  author={Ivanov, Nikolay and Yan, Qiben and Wang, Qingyang},
+  booktitle={2021 IEEE 41st International Conference on Distributed Computing Systems (ICDCS)},
+  pages={607--617},
+  year={2021},
+  organization={IEEE}
+}

@@ -1,0 +1,6 @@
+@inproceedings{zhou2024transient,
+  title={Transient adversarial 3d projection attacks on object detection in autonomous driving},
+  author={Zhou, Ce and Yan, Qiben and Liu, Sijia},
+  booktitle={2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (EAI SmartSP 2024)},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@inproceedings{wang2024clearai,
+  title={ClearAI: AI-Driven Speech Enhancement for Hypophonic Speech},
+  author={Wang, Yuanda and Yan, Qiben and Knowles, Thea and Cushnie-Sparrow, Daryn},
+  booktitle={IEEE International Conference on E-health Networking, Application & Services},
+  year={2024},
+  organization={IEEE}
+}

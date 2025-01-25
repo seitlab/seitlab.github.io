@@ -1,0 +1,7 @@
+@article{zhang2024tbp,
+  title={TBP: Temporal Beam Prediction for Mobile Millimeter-Wave Networks},
+  author={Zhang, Shichen and Yan, Qiben and Li, Tianxing and Xiao, Li and Zeng, Huacheng},
+  journal={IEEE Internet of Things Journal},
+  year={2024},
+  publisher={IEEE}
+}

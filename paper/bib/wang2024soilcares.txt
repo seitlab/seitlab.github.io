@@ -1,0 +1,7 @@
+@inproceedings{wang2024soilcares,
+  title={SoilCares: Towards Low-cost Soil Macronutrients and Moisture Monitoring Using RF-VNIR Sensing},
+  author={Wang, Juexing and Feng, Yuda and Kumbhar, Gouree and Wang, Guangjing and Yan, Qiben and Jin, Qingxu and Ferrier, Robert C and Xiong, Jie and Li, Tianxing},
+  booktitle={Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services (MobiSys)},
+  pages={196--209},
+  year={2024}
+}

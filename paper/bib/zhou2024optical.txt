@@ -1,0 +1,6 @@
+@inproceedings{zhou2024optical,
+  title={Optical lens attack on deep learning based monocular depth estimation},
+  author={Zhou, Ce and Yan, Qiben and Kent, Daniel and Wang, Guangjing and Zhang, Ziqi and Radha, Hayder},
+  booktitle={20th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)},
+  year={2024}
+}

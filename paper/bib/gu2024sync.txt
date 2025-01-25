@@ -1,0 +1,7 @@
+@inproceedings{gu2024sync,
+  title={Sync-millibottleneck attack on microservices cloud architecture},
+  author={Gu, Xuhang and Wang, Qingyang and Yan, Qiben and Liu, Jianshu and Pu, Calton},
+  booktitle={Proceedings of the 19th ACM ASIA Conference on Computer and Communications Security},
+  pages={799--813},
+  year={2024}
+}

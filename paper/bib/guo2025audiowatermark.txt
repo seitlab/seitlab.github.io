@@ -1,0 +1,6 @@
+@inproceedings{guo2025audiowatermark,
+  title={Audio Watermark: Dynamic and Harmless Watermark for Black-box Voice Dataset Copyright Protection},
+  author={Guo Hanqing and Guo, Junfeng and Chen, Bocheng and Wang, Yuanda and Chen, Xun and Huang, Heng and Yan, Qiben and Xiao, Li},
+  booktitle={USENIX Security},
+  year={2025}
+}

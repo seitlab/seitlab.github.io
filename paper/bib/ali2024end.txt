@@ -1,0 +1,8 @@
+@inproceedings{ali2024end,
+  title={End-to-End Decentralized Tracking of Carbon Footprint using Internet of Things and Distributed Databases},
+  author={Ali, Salman and Gondro, Cedric and Yan, Qiben and Banzhaf, Wolfgang},
+  booktitle={2024 7th Conference on Cloud and Internet of Things (CIoT)},
+  pages={1--8},
+  year={2024},
+  organization={IEEE}
+}

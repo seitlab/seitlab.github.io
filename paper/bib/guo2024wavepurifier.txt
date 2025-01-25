@@ -1,0 +1,7 @@
+@inproceedings{guo2024wavepurifier,
+  title={WavePurifier: Purifying Audio Adversarial Examples via Hierarchical Diffusion Models},
+  author={Guo, Hanqing and Wang, Guangjing and Chen, Bocheng and Wang, Yuanda and Zhang, Xiao and Chen, Xun and Yan, Qiben and Xiao, Li},
+  booktitle={Proceedings of the 30th Annual International Conference on Mobile Computing and Networking},
+  pages={1268--1282},
+  year={2024}
+}

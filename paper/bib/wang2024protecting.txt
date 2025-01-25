@@ -1,0 +1,8 @@
+@inproceedings{wang2024protecting,
+  title={Protecting activity sensing data privacy using hierarchical information dissociation},
+  author={Wang, Guangjing and Guo, Hanqing and Wang, Yuanda and Chen, Bocheng and Zhou, Ce and Yan, Qiben},
+  booktitle={2024 IEEE Conference on Communications and Network Security (CNS)},
+  pages={1--9},
+  year={2024},
+  organization={IEEE}
+}

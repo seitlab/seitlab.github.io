@@ -1,0 +1,8 @@
+@inproceedings{ali2024distributed,
+  title={A Distributed System for Optimization of Carbon Emitting Resource Consumption in Supply Chains},
+  author={Ali, Salman and Gondro, Cedric and Yan, Qiben and Banzhaf, Wolfgang},
+  booktitle={2024 International Symposium on Networks, Computers and Communications (ISNCC)},
+  pages={1--8},
+  year={2024},
+  organization={IEEE}
+}

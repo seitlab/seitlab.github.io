@@ -1,0 +1,7 @@
+@inproceedings{chen2024multi,
+  title={Multi-turn hidden backdoor in large language model-powered chatbot models},
+  author={Chen, Bocheng and Ivanov, Nikolay and Wang, Guangjing and Yan, Qiben},
+  booktitle={Proceedings of the 19th ACM Asia Conference on Computer and Communications Security},
+  pages={1316--1330},
+  year={2024}
+}
