@@ -3,35 +3,30 @@
 
 <head>
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="../assets2/css/main.css">
-  <meta name="description" content="">
-  <meta name="author" content="SEIT Lab">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="SEIT Lab">
 
-  <title>Qiben Yan</title>
+    <title>Qiben Yan</title>
 
-  <!-- Bootstrap core CSS -->
-  <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!DOCTYPE html>
-    <html lang="en">
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <head>
+    <!-- Custom styles for this template -->
+    <link href="../css/small-business.css" rel="stylesheet">
 
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="stylesheet" href="../assets2/css/main.css">
-        <meta name="description" content="">
-        <meta name="author" content="SEIT Lab">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SWS2DLHFTG"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-        <title>Qiben Yan</title>
+        gtag('config', 'G-SWS2DLHFTG');
+    </script>
 
-        <!-- Bootstrap core CSS -->
-        <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-        <!-- Custom styles for this template -->
-        <link href="../css/small-business.css" rel="stylesheet">
-    </head>
+</head>
 
 <body>
 <script src="../vendor/jquery/jquery.min.js"></script>
@@ -79,38 +74,25 @@
     });
 </script>
 
+<script>
+    function ct() {
+        return document.compatMode == "BackCompat" ? document.body.clientHeight : document.documentElement.clientHeight;
+    }
+    var f = document.getElementById('footer-ph');
+    (window.onresize = function() {
+        f.style.position = document.body.scrollHeight > ct() ? 'static' : 'fixed';
+        f.style.left = "0";
+        f.style.bottom = "0";
+        f.style.width = "100%"
+    })();
+
+</script>
+
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>
 <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 
 
-<!-- Scripts -->
-<script src="../assets2/js/jquery.min.js"></script>
-<script src="../assets2/js/jquery.scrolly.min.js"></script>
-<script src="../assets2/js/browser.min.js"></script>
-<script src="../assets2/js/breakpoints.min.js"></script>
-<script src="../assets2/js/util.js"></script>
-<script src="../assets2/js/main.js"></script>
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-66347128-1', 'auto');
-    ga('send', 'pageview');
-</script>
-
-
-
 </body>
-
-
-<div style="display:none;visibility:hidden;">
-    <a href="https://www.easycounter.com/">
-        <img src="https://www.easycounter.com/counter.php?qbyan"
-             border="0" alt="Free Web Counters"></a>
-    <br><a href="https://www.easycounter.com/">HTML Hit Counters</a>
-</div>
 </html>
