@@ -8,13 +8,13 @@
     <meta name="description" content="">
     <meta name="author" content="SEIT Lab">
 
-    <title>SEIT Lab - Posts</title>
+    <title>SEIT Lab - Post</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/small-business.css" rel="stylesheet">
+    <link href="../css/small-business.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
@@ -24,13 +24,13 @@
 </head>
 
 <body>
-    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/jquery/jquery.min.js"></script>
 
     <!-- Navigation -->
     <div id="nav-placeholder"></div>
     <script>
       $(function(){
-        $("#nav-placeholder").load("./nav.html");
+        $("#nav-placeholder").load("../nav.html");
       });
     </script>
 
@@ -55,16 +55,16 @@
 
     <script>
         $(function(){
-            $("#footer-ph").load("./footer.html");
+            $("#footer-ph").load("../footer.html");
         });
     </script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/jquery.csv.min.js"></script>
+    <script src="../assets/js/jquery.csv.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-    <script src="assets/js/csv_to_html_table.js"></script>
+    <script src="../assets/js/csv_to_html_table.js"></script>
 
     <script>
         function format_link(link){
@@ -75,7 +75,7 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/security_title_url.csv",
+            csv_path: "../data/security_title_url.csv",
             element: "security_table-container",
             allow_download: false,
             csv_options: {
@@ -105,7 +105,7 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/ai_title_url.csv",
+            csv_path: "../data/ai_title_url.csv",
             element: "ai_table-container",
             allow_download: false,
             csv_options: {
@@ -134,7 +134,7 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/blockchain_title_url.csv",
+            csv_path: "../data/blockchain_title_url.csv",
             element: "blockchain_table-container",
             allow_download: false,
             csv_options: {
@@ -162,7 +162,7 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/iot_title_url.csv",
+            csv_path: "../data/iot_title_url.csv",
             element: "iot_table-container",
             allow_download: false,
             csv_options: {
