@@ -1,5 +1,5 @@
-@inproceedings{zhou2025short,
-  title={Short: Breaking the Charge: Exploiting State Manipulation in EV Charging},
+@inproceedings{zhou2025breaking,
+  title={Breaking the Charge: Exploiting State Manipulation in EV Charging},
   author={Zhou, Ce and Yan, Qiben and Yu, Zhiyan and Dixit, Eshan and Zhang, Ning and Zeng, Huacheng and Ghanhdari, Alireza Safdari},
   booktitle={3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec 25)},
   pages={99--108},
