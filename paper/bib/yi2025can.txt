@@ -1,0 +1,6 @@
+@inproceedings{yi2025can,
+  title={Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection},
+  author={Yi, Ariana and Zhou, Ce and Xiao, Liyang and Yan, Qiben},
+  booktitle={3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP)},
+  year={2025}
+}

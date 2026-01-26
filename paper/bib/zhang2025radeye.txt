@@ -1,0 +1,7 @@
+@inproceedings{zhang2025radeye,
+  title={RadEye: Tracking Eye Motion Using FMCW Radar},
+  author={Zhang, Shichen and Wang, Qijun and Song, Kunzhe and Yan, Qiben and Zeng, Huacheng},
+  booktitle={Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  pages={1--13},
+  year={2025}
+}

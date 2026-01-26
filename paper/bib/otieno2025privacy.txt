@@ -1,0 +1,6 @@
+@inproceedings{otieno2025privacy,
+  title={Short: Privacy-Preserving Multimodal Fall Detection in Smart Homes Using Dynamic Confidence-Weighted Fusion},
+  author={Otieno, Collins and Kayhan, Muhammed Salih and Yan, Qiben},
+  booktitle={3rd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP)},
+  year={2025}
+}

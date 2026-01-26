@@ -1,0 +1,7 @@
+@inproceedings{dar2026impact,
+  title={Impact of Phonetics on Speaker Identity in Adversarial Voice Attack},
+  author={Dar, Daniyal Kabir and Yan, Qiben and Xiao, Li and Ross, Arun},
+  booktitle={2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  year={2026}
+}
+

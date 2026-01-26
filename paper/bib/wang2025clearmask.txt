@@ -1,0 +1,7 @@
+@inproceedings{wang2025clearmask,
+  title={ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks},
+  author={Wang, Yuanda and Chen, Bocheng and Guo, Hanqing and Wang, Guangjing and Ding, Weikang and Yan, Qiben},
+  booktitle={Proceedings of the 20th ACM Asia Conference on Computer and Communications Security},
+  pages={696--709},
+  year={2025}
+}

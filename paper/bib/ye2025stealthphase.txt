@@ -1,0 +1,9 @@
+@article{ye2025stealthphase,
+  title={StealthPhase: Toward a Stealthy Backdoor Attack Against Speaker Recognition},
+  author={Ye, Zhe and Yan, Qiben and Chen, Jiahao and Kang, Xiangui and Huang, Jiwu},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={20},
+  pages={13328--13341},
+  year={2025},
+  publisher={IEEE}
+}

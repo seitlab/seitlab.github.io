@@ -1,0 +1,8 @@
+@inproceedings{sun2025high,
+  title={High-Efficiency Fuzzing Technique Using Hooked I/O System Calls for Targeted Input Analysis},
+  author={Sun, Wenju and Xiao, Xi and Yan, Qiben and Hu, Guangwu and Li, Qing and Chen, Chuan},
+  booktitle={European Symposium on Research in Computer Security},
+  pages={464--483},
+  year={2025},
+  organization={Springer}
+}

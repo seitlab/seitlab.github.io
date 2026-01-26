@@ -1,0 +1,6 @@
+@inproceedings{xiaoposter2025,
+  title={Poster: Angular Exploitation of FMCW Radars in Autonomous Driving},
+  author={Xiao, Liyang and Zhou, Ce and Yan, Qiben}
+  booktitle={3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec)},
+  year={2025}
+}

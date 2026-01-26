@@ -1,0 +1,8 @@
+@misc{qiben2025speaker,
+  title={Speaker verification system using ultrasound energy in human speech},
+  author={Qiben, YAN and Guo, Hanqing and Xiao, Li},
+  year={2025},
+  month=Jul # "~1",
+  publisher={Google Patents},
+  note={US Patent 12,347,440}
+}

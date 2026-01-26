@@ -1,0 +1,6 @@
+@inproceedings{zhouposter2025,
+  title={Poster: Robustness Analysis of Camera-Radar Sensor Fusion Algorithms under Adversarial Attacks in Autonomous Driving},
+  author={Zhou, Ce and Nguyen, Khang and Xiao, Liyang and Yan, Qiben},
+  booktitle={3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec)},
+  year={2025}
+}
