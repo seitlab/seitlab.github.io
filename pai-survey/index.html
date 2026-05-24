@@ -1,0 +1,926 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Physical AI: A Comprehensive Survey of Enabling Technologies From a Systems Perspective</title>
+  <meta name="description" content="A system-level survey of Physical Artificial Intelligence (PAI), proposing a unified Perception–Cognition–Actuation framework spanning the digital and physical worlds." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-bar">
+      <a href="#top" class="brand">Physical&nbsp;AI&nbsp;Survey</a>
+      <nav class="primary-nav" aria-label="Section navigation">
+        <a href="#abstract">Abstract</a>
+        <a href="#definition">Definition</a>
+        <a href="#organization">Organization</a>
+        <a href="#entities">Entities</a>
+        <a href="#perception">Perception</a>
+        <a href="#cognition">Cognition</a>
+        <a href="#actuation">Actuation</a>
+        <a href="#building">Sim&nbsp;to&nbsp;Real</a>
+        <a href="#applications">Applications</a>
+        <a href="#challenges">Challenges</a>
+        <a href="#bibtex">BibTeX</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+
+    <!-- =========================================================
+         HERO
+    ========================================================== -->
+    <section class="hero">
+      <div class="container">
+        <p class="eyebrow">Comprehensive Survey · Physical AI · Systems Perspective</p>
+        <h1 class="hero-title">
+          Physical&nbsp;AI: A Comprehensive Survey of Enabling Technologies From a Systems Perspective
+        </h1>
+        <p class="hero-sub">
+          A system-level synthesis of Physical Artificial Intelligence (PAI) — extending AI beyond the digital domain
+          through tightly coupled perception, cognition, and actuation grounded in real-world interaction.
+        </p>
+
+        <ul class="authors" aria-label="Authors">
+          <li>Shengding Liu<sup>1,*</sup></li>
+          <li>Zhanwei Zhang<sup>1,*</sup></li>
+          <li>Zhiying Li<sup>1</sup></li>
+          <li>Yudi Lin<sup>2</sup></li>
+          <li>Ruxin Lin<sup>1</sup></li>
+          <li>Xiaoqun Liu<sup>1</sup></li>
+          <li>Khang Nguyen<sup>1</sup></li>
+          <li>Ziran Gao<sup>1</sup></li>
+          <li>Guopeng Liao<sup>3</sup></li>
+          <li>Jingxiang Mo<sup>4</sup></li>
+          <li>Linshan Jiang<sup>2</sup></li>
+          <li>Jianfei Yang<sup>2</sup></li>
+          <li>Osher Azulay<sup>5</sup></li>
+          <li>Stella X. Yu<sup>5</sup></li>
+          <li>Philip S. Yu<sup>6</sup></li>
+          <li>Qiben Yan<sup>1,†</sup></li>
+        </ul>
+
+        <p class="affiliations">
+          <sup>1</sup>Michigan State University &nbsp;·&nbsp;
+          <sup>2</sup>Nanyang Technological University &nbsp;·&nbsp;
+          <sup>3</sup>Meta &nbsp;·&nbsp;
+          <sup>4</sup>Gradient Robotics &nbsp;·&nbsp;
+          <sup>5</sup>University of Michigan &nbsp;·&nbsp;
+          <sup>6</sup>University of Illinois Chicago
+        </p>
+        <p class="affiliations small">
+          <sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>†</sup>Corresponding author: <a href="mailto:qyan@msu.edu">qyan@msu.edu</a>
+        </p>
+
+        <div class="hero-buttons">
+          <a class="btn primary" href="#" aria-disabled="true">📄 Paper (coming soon)</a>
+          <a class="btn" href="#bibtex">BibTeX</a>
+          <a class="btn" href="mailto:qyan@msu.edu">Contact</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         ABSTRACT
+    ========================================================== -->
+    <section id="abstract" class="section">
+      <div class="container narrow">
+        <p class="section-eyebrow">Abstract</p>
+        <h2 class="section-title">From digital reasoning to physically grounded intelligence</h2>
+        <p>
+          Artificial intelligence (AI) has evolved from predominantly discriminative paradigms toward generative and
+          agentic intelligence capable of autonomous reasoning, planning, and action. However, despite these advances,
+          current AI systems remain largely confined to digital environments, lacking physical grounding and embodied
+          interaction with the real world. To address these limitations, <strong>Physical Artificial Intelligence
+          (PAI)</strong> has emerged as a new paradigm that extends AI into the physical domain by tightly integrating
+          perception, cognition, and actuation under real-world interaction constraints.
+        </p>
+        <p>
+          Building on progress in robotics, embodied intelligence, sensing, machine learning, and cyber-physical
+          systems, PAI moves beyond traditionally siloed developments to enable form-agnostic, physics-consistent, and
+          continuously adaptive intelligence across diverse embodiments and environments. We present the first
+          comprehensive, system-level survey of PAI, tracing its evolution from conceptual foundations to core
+          components and ultimately to closed-loop deployment.
+        </p>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         DEFINITION  (with small three-layer architecture figure inside)
+    ========================================================== -->
+    <section id="definition" class="section alt">
+      <div class="container">
+        <p class="section-eyebrow">Definition</p>
+        <h2 class="section-title">What makes a system Physical&nbsp;AI?</h2>
+
+        <div class="definition-layout">
+          <div class="definition-text">
+            <p class="lede">
+              Any intelligent system interacting with the physical world must be able to (i) acquire information from
+              its environment, (ii) reason over this information to support decision-making, and (iii) act upon the
+              environment to exert influence. These three requirements naturally correspond to <em>perception</em>,
+              <em>cognition</em>, and <em>actuation</em>, forming a tightly coupled closed loop.
+            </p>
+            <p>
+              Beyond this closed loop, PAI further demands that at least one component directly interfaces with the
+              physical world, that estimation and control respect underlying physical laws, and that cognition keeps
+              learning after deployment. A system qualifies as PAI when it satisfies four necessary properties:
+            </p>
+          </div>
+
+          <figure class="figure-inline">
+            <img src="assets/figures/three-layer-architecture.svg"
+                 alt="Three-layer architecture for Physical AI: perception, cognition, and actuation across digital and physical world lines." />
+            <figcaption>Three-layer architecture for PAI.</figcaption>
+          </figure>
+        </div>
+
+        <div class="cards-grid four-up">
+          <article class="card">
+            <span class="card-num">01</span>
+            <h3>Perception–Cognition–Actuation closed loop</h3>
+            <p>The system implements a closed-loop architecture in which perception, cognition, and actuation are
+              closely coupled, enabling continuous sensing, decision-making, and action under real-world interaction
+              constraints.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">02</span>
+            <h3>Physical-world grounding</h3>
+            <p>The system maintains direct interaction with the physical world through perception, cognition, and/or
+              physical actuation rather than relying solely on offline data or simulation-based feedback loops.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">03</span>
+            <h3>Physics-consistent reasoning &amp; control</h3>
+            <p>The system explicitly incorporates physical laws and operational constraints across perception,
+              cognition, and actuation, ensuring estimation, prediction, planning, and control remain physically
+              feasible and consistent.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">04</span>
+            <h3>Evolving cognition &amp; deployment-time adaptation</h3>
+            <p>The system possesses the architectural capability to learn from open-world experience after deployment
+              and to continuously update its cognitive and behavioral policies through feedback-driven adaptation.</p>
+          </article>
+        </div>
+
+        <p class="callout">
+          Ultimately, PAI is defined by closed-loop, physically grounded, and continuously adaptive intelligence.
+        </p>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         SURVEY ORGANIZATION  (the big taxonomy lives here)
+    ========================================================== -->
+    <section id="organization" class="section">
+      <div class="container">
+        <p class="section-eyebrow">Survey Organization</p>
+        <h2 class="section-title">A taxonomy of Physical&nbsp;AI</h2>
+        <p class="lede">
+          Our survey traces PAI from <em>concept grounding</em> through <em>fundamental components</em> to
+          <em>closed-loop deployment</em>. The framework organizes its components along three interdependent
+          functional layers — perception, cognition, and actuation — across the coupled digital–physical
+          continuum, and ultimately bridges them through the simulation-to-deployment pipeline, applications,
+          and cross-cutting challenges.
+        </p>
+
+        <figure class="figure">
+          <img src="assets/figures/taxonomy-tree.svg"
+               alt="Taxonomy tree summarizing the topics covered across all chapters of the survey." />
+          <figcaption>A unified taxonomy of PAI topics: from system substrates (§3) through perception (§4),
+            cognition (§5), and actuation (§6), to building PAI from simulation to deployment (§7), applications
+            (§8), and cross-cutting challenges (§9).</figcaption>
+        </figure>
+
+        <div class="cards-grid four-up tight">
+          <article class="card mini"><span class="card-num">§3</span><h3>Embodiments</h3><p>Robots, autonomous vehicles, smart edge systems.</p></article>
+          <article class="card mini"><span class="card-num">§4</span><h3>Perception</h3><p>Modalities, physics-informed, data-driven, generative, fusion, tasks.</p></article>
+          <article class="card mini"><span class="card-num">§5</span><h3>Cognition</h3><p>State, world models, reasoning, memory, alignment.</p></article>
+          <article class="card mini"><span class="card-num">§6</span><h3>Actuation</h3><p>Actuators, control, closed-loop interaction.</p></article>
+          <article class="card mini"><span class="card-num">§7</span><h3>Building PAI</h3><p>Simulators, data, sim-to-real, validation, digital twins.</p></article>
+          <article class="card mini"><span class="card-num">§8</span><h3>Applications</h3><p>Industry, mobility, healthcare, extreme, space.</p></article>
+          <article class="card mini"><span class="card-num">§9</span><h3>Challenges</h3><p>Integration, co-design, robustness, safety.</p></article>
+          <article class="card mini highlight"><span class="card-num">§10</span><h3>Roadmap</h3><p>Toward general-purpose PAI.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         ENTITIES
+    ========================================================== -->
+    <section id="entities" class="section alt">
+      <div class="container">
+        <p class="section-eyebrow">Section 3</p>
+        <h2 class="section-title">PAI embodiments and system substrates</h2>
+        <p class="lede">
+          To operate in the physical world, intelligence cannot exist in isolation; it must be instantiated in a PAI
+          embodiment capable of sensing, reasoning, and interacting with its environment. PAI embodiments comprise a
+          diverse spectrum of systems that share one objective: grounding intelligence in physical reality through a
+          continuous closed loop of perception, cognition, and action.
+        </p>
+
+        <figure class="figure">
+          <img src="assets/figures/pai-entities.svg"
+               alt="Representative PAI entities across embodiment categories." />
+          <figcaption>Representative PAI entities across embodiment categories: (a) fixed-base manipulator,
+            (b) quadrupedal robot, (c) humanoid, (d) mobile manipulator, (e) bionic robot, (f) autonomous vehicle,
+            (g) UAV, (h) smart glasses, (i) smart home, (j) smartwatch, and (k) next-generation PAI hardware.</figcaption>
+        </figure>
+
+        <h3 class="subhead">3.1 · Robots</h3>
+        <p>
+          Robots constitute one of the most prominent and mature embodiments of PAI, serving as fully integrated
+          platforms that combine rich multi-modal sensing, physical actuation, and onboard intelligence. This tight
+          coupling between intelligence and physics manifests across a rich variety of morphologies, each tailored to
+          different environments and tasks.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card light">
+            <span class="tag">Fixed-base manipulators</span>
+            <p>Bolted to a factory floor or laboratory bench (e.g., Franka Emika Panda), indispensable wherever
+              sub-millimeter repeatability matters. PAI upgrades them with vision-guided grasping, force-aware
+              insertion, and language-conditioned task switching.</p>
+          </article>
+          <article class="card light">
+            <span class="tag">Mobile manipulators</span>
+            <p>Wheeled bases combined with dexterous arms (e.g., Mobile ALOHA) navigate unstructured spaces and
+              perform fine-grained tasks on arrival, learning skills through imitation from human demonstrations.</p>
+          </article>
+          <article class="card light">
+            <span class="tag">Legged &amp; quadruped robots</span>
+            <p>Robots like Unitree Go2 trot over rubble, climb stairs, and recover from shoves using
+              reinforcement-learning controllers and proprioceptive feedback for terrain uncertainty.</p>
+          </article>
+          <article class="card light">
+            <span class="tag">Humanoid robots</span>
+            <p>Mirroring the human body plan (e.g., Unitree G1) for plug-and-play compatibility with human
+              infrastructure — performing tool-use, whole-body manipulation, and bipedal locomotion.</p>
+          </article>
+          <article class="card light">
+            <span class="tag">Biomimetic &amp; soft robots</span>
+            <p>Drawing on nature itself, exploiting compliance, elasticity, and underactuation to squeeze through
+              gaps, gently grasp fragile objects, or fly by flapping wings (e.g., Bionicbird MetaFly).</p>
+          </article>
+          <article class="card light highlight">
+            <span class="tag">Unifying principle</span>
+            <p>Intelligence is not overlaid on a passive body but emerges from the interplay between an agent's
+              physical form and the world it inhabits.</p>
+          </article>
+        </div>
+
+        <h3 class="subhead">3.2 · Autonomous vehicles</h3>
+        <p>
+          Autonomous vehicles represent a large-scale and safety-critical instantiation of PAI, operating in open,
+          dynamic, and highly uncertain real-world environments. Modern systems integrate cameras, LiDAR, radar,
+          inertial measurement units, and increasingly wireless V2X communication, moving beyond rule-based pipelines
+          toward unified perception–prediction–planning frameworks. Beyond passenger cars, PAI powers self-driving
+          delivery robots, autonomous forklifts, maritime vessels, and unmanned aerial vehicles such as Meituan's
+          delivery drones, demonstrating PAI at the intersection of logistics and aerial robotics.
+        </p>
+
+        <h3 class="subhead">3.3 · Smart edge systems</h3>
+        <p>
+          Smart edge systems operate quietly at the edge of the physical world, embedding intelligence directly into
+          devices that sense and interact with real-world dynamics under resource, energy, and latency constraints.
+          This category unifies both infrastructure-level and human-centric embodiments of PAI.
+        </p>
+        <div class="cards-grid two-up">
+          <article class="card">
+            <h4>Infrastructure-level smart environments</h4>
+            <p>Networks of sensors, actuators, and edge computing nodes form a collective PAI fabric. The Google Nest
+              ecosystem orchestrates distributed devices for context-aware automation, energy optimization, and home
+              security. NVIDIA's AI-RAN platform fuses 5G/6G processing and AI workloads onto shared GPU
+              infrastructure, transforming base stations into distributed edge AI nodes.</p>
+          </article>
+          <article class="card">
+            <h4>Human-centric wearables</h4>
+            <p>Wearables bring PAI directly onto the human body, turning every gesture, heartbeat, and gaze into a
+              stream of physically grounded data. Smart glasses (Ray-Ban Meta) overlay context onto the visual field;
+              smartwatches (Apple Watch) monitor physiology continuously; emerging EMG wristbands let users issue
+              commands through subtle muscle contractions.</p>
+          </article>
+        </div>
+
+        <figure class="figure">
+          <img src="assets/figures/pai-example.svg"
+               alt="Closed-loop PAI example with autonomous warehouse robot." />
+          <figcaption>An autonomous warehouse picking robot illustrating the closed-loop PCA pipeline from
+            multi-modal perception, through structured world modeling and reasoning-driven planning, to physically
+            grounded actuation.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         PERCEPTION
+    ========================================================== -->
+    <section id="perception" class="section">
+      <div class="container">
+        <p class="section-eyebrow">Section 4</p>
+        <h2 class="section-title">Physical perception</h2>
+        <p class="lede">
+          Physical perception is the primary mechanism through which PAI systems acquire information about their
+          surroundings. We survey its foundations along four layers: <em>modalities</em> through which the world is
+          observed; <em>methods</em> that interpret raw signals (physics-informed, data-driven, and generative);
+          <em>sensor fusion and multimodal perception</em>; and representative <em>perception tasks</em>.
+        </p>
+
+        <figure class="figure">
+          <img src="assets/figures/perception-overview.svg" class="constrained"
+               alt="Physical perception layer overview." />
+          <figcaption>Physical perception layer overview. Diverse modalities (§4.1) acquire heterogeneous data;
+            physics-informed (§4.2), data-driven (§4.3), and generative (§4.4) methods extract information from raw
+            signals; sensor fusion (§4.5) integrates streams across space, time, and agents; and representative
+            perception tasks (§4.6) span object-, scene-, and human-centered sensing.</figcaption>
+        </figure>
+
+        <h3 class="subhead">4.1 · Perception modalities</h3>
+        <p>
+          Perception in PAI begins with the choice of sensing modality. Each modality is governed by distinct physical
+          principles that dictate signal generation and environmental interaction, and entails distinct trade-offs.
+          Because no single modality suffices, these complementary trade-offs motivate multimodal fusion and
+          physics-aware perception design.
+        </p>
+        <div class="cards-grid four-up tight">
+          <article class="card mini"><h4>Optical</h4><p>Reflection, absorption, and emission of visible &amp; IR light. Dense geometry, appearance, and material identification.</p><span class="muted-tag">RGB / depth / LiDAR / hyperspectral</span></article>
+          <article class="card mini"><h4>Acoustic</h4><p>Mechanical wave propagation through air, liquids, or solids — strong material/tissue interaction, ranging, and subsurface sensing.</p><span class="muted-tag">Microphones · Ultrasonic</span></article>
+          <article class="card mini"><h4>Tactile</h4><p>Contact-force and deformation transduction; direct measurement of contact dynamics critical for manipulation.</p><span class="muted-tag">Capacitive · Piezoelectric · Resistive</span></article>
+          <article class="card mini"><h4>RF</h4><p>Electromagnetic propagation, reflection, and multipath — penetrates walls and occlusions for non-line-of-sight sensing.</p><span class="muted-tag">WiFi · mmWave · UWB · RFID</span></article>
+          <article class="card mini"><h4>Thermal</h4><p>Infrared radiation and heat transfer — operates in darkness and reveals temperature and heat flow.</p><span class="muted-tag">IR cameras · Thermopiles</span></article>
+          <article class="card mini"><h4>Magnetic</h4><p>Magnetic field sensing and disturbance detection — contactless, robust to visual occlusion.</p><span class="muted-tag">Magnetometers · Hall sensors</span></article>
+          <article class="card mini"><h4>Inertial</h4><p>High-temporal-resolution acceleration and angular-velocity measurement for motion tracking.</p><span class="muted-tag">Accelerometers · Gyros · IMUs</span></article>
+          <article class="card mini highlight"><h4>Beyond human senses</h4><p>By exploiting a broader range of physical mechanisms, PAI extends perception beyond human sensory limits.</p></article>
+        </div>
+
+        <h3 class="subhead">4.2 · Physics-informed perception</h3>
+        <p>
+          Physics-informed perception grounds inference in first-principles models of signal generation, propagation,
+          and interaction, leveraging analytical models and classical signal processing rather than learned
+          representations. We organize this body of work into three categories.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card">
+            <span class="card-num">4.2.1</span>
+            <h4>Signal propagation modeling</h4>
+            <p>When wave propagation admits a first-principles model, spatial awareness can be recovered analytically
+              from deterministic wave geometry — time-of-flight, angle-of-arrival, and multipath differences. Methods
+              exploit environmental reflections (VoLoc, LEAD, 2xTrack) or actively engineer the propagation path with
+              retro-reflective tags (Millimetro, Hawkeye, EchoBLUE).</p>
+          </article>
+          <article class="card">
+            <span class="card-num">4.2.2</span>
+            <h4>Phase &amp; frequency dynamics modeling</h4>
+            <p>Phase and frequency dynamics encode microscopic motion such as structural vibration and respiration.
+              mmVib, DF-Sense, Platypus, and SwiftTrack isolate weak micro-motions from environmental noise and
+              compensate for Doppler shifts and phase jumps under fast motion.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">4.2.3</span>
+            <h4>Physical interaction &amp; transduction</h4>
+            <p>First-principles models can recover material state and structural form by relating physical properties
+              to measurable signal changes — internal composition (AgriTera, TMSense), surface geometry (RFlect,
+              mmNorm), and mechanical dynamics (WiForce).</p>
+          </article>
+        </div>
+
+        <h3 class="subhead">4.3 · Data-driven perception</h3>
+        <p>
+          Data-driven perception replaces explicit physical modeling with statistical learning from sensor data —
+          physics-informed methods encode physical laws while data-driven methods learn sensor-to-semantic mappings
+          from samples. We focus on systems designed for well-defined perception objectives within fixed semantic
+          scopes.
+        </p>
+        <div class="cards-grid two-up">
+          <article class="card">
+            <span class="card-num">4.3.1</span>
+            <h4>Task-specific discriminative perception</h4>
+            <p>Maps sensing signals directly to semantic outputs through learned models. CNNs extract task-relevant
+              patterns (DeepRange, SiFall, mm3DFace); recurrent and attention-based architectures (WiPose, mmEgo,
+              BMX, RAM-Hand) capture spatiotemporal dynamics for gesture and pose estimation.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">4.3.2</span>
+            <h4>Data-efficient perception</h4>
+            <p>Addresses data scarcity through cross-modal alignment (Cosmo, ADMarker, mmET) and domain-shift
+              adaptation (RF-Net, OneFi, HandFi, BSENSE), shifting emphasis from accuracy on a fixed dataset to
+              minimizing real-world deployment cost.</p>
+          </article>
+        </div>
+
+        <h3 class="subhead">4.4 · Generative perception</h3>
+        <p>
+          Recent advances in generative models — LLMs and diffusion models in particular — are transforming physical
+          perception into a generative, interpretable, and knowledge-driven paradigm. We organize this literature
+          along three dimensions.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card">
+            <span class="card-num">4.4.1</span>
+            <h4>Semantic world understanding</h4>
+            <p>Elevates sensor perception from low-level signals to high-level interpretation of environments,
+              activities, and latent states. Penetrative AI, ContextLLM, LLaSA, and HoloLLM unify multimodal
+              sensors in a shared semantic space.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">4.4.2</span>
+            <h4>Sensor-grounded reasoning</h4>
+            <p>Couples LLM/VLM reasoning with physically grounded sensor evidence for tasks where pure visual or
+              textual reasoning falls short.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">4.4.3</span>
+            <h4>Sensor data synthesis</h4>
+            <p>Generative models synthesize physically plausible sensor data — from radar spectra to IMU streams —
+              augmenting scarce real-world signals for training and evaluation.</p>
+          </article>
+        </div>
+
+        <h3 class="subhead">4.5 · Sensor fusion &amp; multimodal perception</h3>
+        <p>
+          No single modality is sufficient for PAI under occlusion, illumination change, adverse weather, or sensor
+          degradation, motivating the fusion of complementary streams (camera, LiDAR, radar, IMU, RF, wearables) into
+          robust scene representations. We organize this design space along three axes.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card light"><span class="card-num">4.5.1</span><h4>Architectural fusion strategies</h4><p>Where and how tightly modalities are combined within a single agent and frame — early, intermediate, late, and tightly coupled hybrid fusion.</p></article>
+          <article class="card light"><span class="card-num">4.5.2</span><h4>Cross-modal association &amp; robustness</h4><p>Aligning entities across heterogeneous sensors and compensating for missing or degraded streams.</p></article>
+          <article class="card light"><span class="card-num">4.5.3</span><h4>Spatiotemporal, collaborative, FM fusion</h4><p>Scaling fusion across time, agents, and language with foundation-model-based mechanisms.</p></article>
+        </div>
+
+        <h3 class="subhead">4.6 · Perception tasks</h3>
+        <p>
+          Having reviewed the modalities and algorithmic foundations of PAI perception, we shift from <em>how
+          perception is realized</em> to <em>what perception enables</em>, examining established and emerging tasks
+          along three dimensions.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card"><span class="card-num">4.6.1</span><h4>Object perception</h4><p>Detection, classification, pose estimation, and material/affordance reasoning at the object level — the entry point for downstream manipulation.</p></article>
+          <article class="card"><span class="card-num">4.6.2</span><h4>Scene perception</h4><p>BEV, 3D, and 4D scene understanding spanning geometry, occupancy, and dynamics to support navigation and planning.</p></article>
+          <article class="card"><span class="card-num">4.6.3</span><h4>Human perception</h4><p>Pose, activity, intention, and physiological-state sensing across modalities — the substrate for safe and intuitive human–robot interaction.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         COGNITION
+    ========================================================== -->
+    <section id="cognition" class="section alt">
+      <div class="container">
+        <p class="section-eyebrow">Section 5</p>
+        <h2 class="section-title">Physical cognition</h2>
+        <p class="lede">
+          Cognition is the central layer linking perception to actuation, converting raw sensory inputs into
+          structured representations, predictive models, and executable decisions. Recent PAI systems increasingly
+          build cognition on foundation models that unify sensing, memory, reasoning, and decision-making within a
+          shared framework.
+        </p>
+
+        <figure class="figure">
+          <img src="assets/figures/cognition-overview.svg" class="constrained"
+               alt="Cognitive layer overview." />
+          <figcaption>Cognitive layer overview. Raw inputs are abstracted into unified latent and structured
+            representations (§5.1); the cognitive core integrates world models (§5.2), reasoning and planning (§5.3),
+            and memory (§5.4) for prediction, retrieval, and decision-making; alignment modules (§5.5) constrain the
+            system through physical and human-value alignment.</figcaption>
+        </figure>
+
+        <h3 class="subhead">5.1 · State representation &amp; abstraction</h3>
+        <p>
+          Cognition does not operate directly on raw sensor streams but on internal states abstracted from perceptual
+          outputs. A useful cognitive state retains the variables needed for prediction, reasoning, and planning while
+          discarding modality-specific detail relevant mainly to low-level perception.
+        </p>
+        <div class="cards-grid four-up tight">
+          <article class="card mini"><h4>Latent state</h4><p>Compact task-relevant variables distilled from high-dimensional observations.</p><span class="muted-tag">PlaNet · I-JEPA</span></article>
+          <article class="card mini"><h4>Object-/relation-centric</h4><p>Discrete entities, agent attributes, and their interactions.</p><span class="muted-tag">VectorNet · MP3</span></article>
+          <article class="card mini"><h4>Geometric scene state</h4><p>Metric layouts: BEV grids, voxels, occupancy fields.</p><span class="muted-tag">BEVFormer · OccWorld</span></article>
+          <article class="card mini"><h4>Language-grounded</h4><p>Scene descriptions aligned with semantic instructions and affordances.</p><span class="muted-tag">VoxPoser</span></article>
+        </div>
+
+        <h3 class="subhead">5.2 · World models</h3>
+        <p>
+          A world model in PAI encodes the current state, predicts how it evolves, and simulates how the world would
+          change under candidate actions — supporting imagination, counterfactual reasoning, and planning. We organize
+          world models into three major routes.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card">
+            <span class="card-num">Route A</span>
+            <h4>Latent predictive</h4>
+            <p>Action-conditioned latent dynamics on which planning and policy learning operate directly. Compact,
+              sample-efficient, naturally supports imagination.</p>
+            <span class="muted-tag">PlaNet · Dreamer · DayDreamer · I-JEPA · V-JEPA 2</span>
+          </article>
+          <article class="card">
+            <span class="card-num">Route B</span>
+            <h4>Generative / interactive</h4>
+            <p>Models future observations directly, typically as videos or action-controllable environments. Scalable
+              with video data, useful for simulation and synthetic data generation.</p>
+            <span class="muted-tag">Sora · Genie · GameNGen · GAIA-1 · DriveDreamer · Cosmos</span>
+          </article>
+          <article class="card">
+            <span class="card-num">Route C</span>
+            <h4>Geometric / structured</h4>
+            <p>Makes world state explicit through BEV, occupancy, point clouds, or 3D tokens. Strong spatial
+              grounding, interpretable geometry, suited to safety-critical control.</p>
+            <span class="muted-tag">OccWorld · Drive-OccWorld · RoboOccWorld · 3D-VLA</span>
+          </article>
+        </div>
+
+        <h3 class="subhead">5.3 · Reasoning &amp; planning</h3>
+        <p>
+          The reasoning and planning layer connects perception to actuation by transforming sensory observations,
+          task specifications, and internal state estimates into structured behavior. In PAI, planning is a multi-level
+          cognitive-to-physical process that interprets intent, decomposes tasks, evaluates physical feasibility, and
+          produces subgoals, trajectories, or action primitives for downstream control.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card light"><span class="card-num">5.3.1</span><h4>Task specification &amp; problem formulation</h4><p>From classical complete formulations to modern PAI's partial language, demonstration, and multi-modal task descriptions.</p></article>
+          <article class="card light"><span class="card-num">5.3.2</span><h4>Motion planning</h4><p>Geometric and dynamical grounding — sampling-based, optimization-based, and learning-augmented motion planners.</p></article>
+          <article class="card light"><span class="card-num">5.3.3</span><h4>Foundation-model-based reasoning &amp; planning</h4><p>SayCan-style affordance grounding, code-as-policy, and tool-use reasoning that bring foundation models into the planning loop.</p></article>
+          <article class="card light"><span class="card-num">5.3.4</span><h4>VLA &amp; action representations</h4><p>Vision-language-action models and structured action representations bridging cognition and control.</p></article>
+          <article class="card light"><span class="card-num">5.3.5</span><h4>Computational brain models</h4><p>Cognitive architectures and models of human planning that inspire long-horizon, hierarchical PAI reasoning.</p></article>
+        </div>
+
+        <h3 class="subhead">5.4 · Memory</h3>
+        <p>
+          Memory is what distinguishes agentic AI from conventional reactive models. For PAI — robots and embodied
+          systems interacting with the real world — memory is even more essential: agents must interpret dynamic
+          environments, recall past interactions, and refine behaviors based on accumulated experience.
+        </p>
+        <div class="cards-grid two-up">
+          <article class="card">
+            <span class="card-num">5.4.1</span>
+            <h4>Short-term memory</h4>
+            <p>A temporary workspace holding recent inputs, actions, or conversation turns. Implemented through
+              recurrent and spiking networks with dynamic synapses; memory-augmented architectures such as Neural
+              Turing Machines extend this with differentiable external memory.</p>
+          </article>
+          <article class="card">
+            <span class="card-num">5.4.2</span>
+            <h4>Long-term memory</h4>
+            <p>Persistent storage and retrieval across extended periods, decomposed into:
+              <strong>episodic memory</strong> (specific past experiences with contextual details),
+              <strong>semantic memory</strong> (general world knowledge and relations), and
+              <strong>procedural memory</strong> (action sequences and skill policies). RAG serves as the
+              memory-access mechanism injecting relevant content into the agent's reasoning.</p>
+          </article>
+        </div>
+
+        <h3 class="subhead">5.5 · Alignment</h3>
+        <p>
+          Unlike purely digital agents, embodied systems act under irreversible real-world consequences — an error may
+          become a collision, hardware damage, or a violation of human norms. Alignment in PAI must therefore be
+          addressed along two coupled fronts and enforced at both training and deployment time.
+        </p>
+        <div class="cards-grid two-up">
+          <article class="card">
+            <span class="card-num">5.5.1</span>
+            <h4>Alignment with the physical world</h4>
+            <p>Ensuring that internal representations, predictions, and action proposals are compatible with
+              embodiment, geometry, and causal dynamics. Enforced through cross-embodiment datasets (Open X-Embodiment,
+              RT-2), 3D-grounded architectures (3D-VLA), and predictive objectives (V-JEPA), plus runtime affordance
+              prompting (SayCan, ProgPrompt), retrieval, and simulator verification (Mind's Eye).</p>
+          </article>
+          <article class="card">
+            <span class="card-num">5.5.2</span>
+            <h4>Alignment with human value</h4>
+            <p>Ensuring feasible actions are also safe, desirable, and norm-compatible. Combines training-time
+              constrained learning (SafeVLA) and trajectory-level preference optimization (GRAPE, HAPO) with
+              deployment-time guardrails: constitution-style prompting (AutoRT), retrieval-based safety grounding,
+              and safe execution interfaces (Code as Policies).</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         ACTUATION
+    ========================================================== -->
+    <section id="actuation" class="section">
+      <div class="container">
+        <p class="section-eyebrow">Section 6</p>
+        <h2 class="section-title">Physical actuation and execution</h2>
+        <p class="lede">
+          The physical actuation layer translates cognitive intent into forces, motions, and interactions in the real
+          world. Where perception tells an agent what the world looks like and cognition decides what to do, actuation
+          determines <em>how</em> the agent physically acts — through what body, along what trajectory, under what
+          control law, and in what task context.
+        </p>
+
+        <h3 class="subhead">6.1 · Actuators &amp; end-effectors</h3>
+        <p>
+          An actuator converts input energy and control signals into mechanical output — force, torque, or motion.
+          PAI systems span rigid, compliant, and soft embodiments. End-effectors, the direct interface between robot
+          and environment, critically determine manipulation capability.
+        </p>
+        <div class="cards-grid four-up tight">
+          <article class="card mini"><span class="card-num">6.1.1</span><h4>Taxonomy of actuators</h4><p>Three dimensions: <strong>energy domain</strong> (electrical / fluid power / soft &amp; emerging), <strong>output motion</strong> (linear or rotary), and <strong>compliance design</strong> (rigid, SEA, variable stiffness).</p></article>
+          <article class="card mini"><span class="card-num">6.1.2</span><h4>Representative actuator families</h4><p>Electrical &amp; electromagnetic, hydraulic, pneumatic, tendon-driven, compliant/variable-stiffness, and soft/emerging (HASEL, SMA, piezo, EAP, DEA).</p></article>
+          <article class="card mini"><span class="card-num">6.1.3</span><h4>End-effectors &amp; grippers</h4><p>Parallel-jaw, multi-finger dexterous hands (Shadow, Allegro, LEAP), soft &amp; adaptive grippers, suction/vacuum, and underactuated hands.</p></article>
+          <article class="card mini"><span class="card-num">6.1.4</span><h4>Actuation as priors for PAI</h4><p>Actuator limits define the feasible action space; transmission and impedance shape system dynamics and serve as implicit priors for learning, planning, and safety.</p></article>
+        </div>
+
+        <h3 class="subhead">6.2 · Physical control</h3>
+        <p>
+          Physical control constitutes the execution layer of PAI. Given subgoals, trajectories, action chunks, or
+          reference motions produced by reasoning and planning, control maps them into real-time motor commands while
+          preserving stability, safety, and robustness under embodiment constraints, actuator limits, contact dynamics,
+          latency, and sensor noise.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card"><span class="card-num">6.2.1</span><h4>Classical &amp; optimization-based control</h4><p>PID, MPC, impedance/admittance, and convex optimization formulations that leverage explicit dynamics models for stability and constraint handling.</p></article>
+          <article class="card"><span class="card-num">6.2.2</span><h4>Learning-based control</h4><p>Deep RL, imitation learning, and residual policies trained on real or simulated interaction data, increasingly embedding physical structure into learned controllers.</p></article>
+          <article class="card"><span class="card-num">6.2.3</span><h4>Foundation-model-based action generation</h4><p>VLA models, diffusion policies, and language-conditioned controllers that generate action trajectories or chunks directly from multimodal context.</p></article>
+        </div>
+
+        <h3 class="subhead">6.3 · Closed-loop execution &amp; interaction</h3>
+        <p>
+          Unlike pre-programmed motions or one-shot executions, interactive tasks in PAI form a continuous closed loop
+          of perception → cognition → action → physical feedback → adaptation. Crucially, this interaction occurs not
+          only over information channels (vision, language) but also over physical energy channels (forces, contacts,
+          friction), imposing stability, safety, and real-time adaptation requirements.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card light"><span class="card-num">6.3.1</span><h4>Locomotion &amp; navigation</h4><p>Legged locomotion via RL policies (HOVER, ASAP, ANYmal, Unitree Go), wheeled and tracked navigation with SLAM and learned reactive controllers.</p></article>
+          <article class="card light"><span class="card-num">6.3.2</span><h4>Manipulation &amp; grasping</h4><p>Grasp planning (GraspNet-1B, Contact-GraspNet), dexterous in-hand manipulation (DexMimicGen), and bimanual coordination (ManipTrans).</p></article>
+          <article class="card light"><span class="card-num">6.3.3</span><h4>Physical human–robot interaction</h4><p>Compliant actuation, impedance/admittance control, passivity-aware co-carrying, and ISO/TS 15066-aligned safety primitives for shared tasks with humans.</p></article>
+          <article class="card light"><span class="card-num">6.3.4</span><h4>Active perception &amp; exploration</h4><p>Visuo-tactile pushing, mechanical search to reveal occluded targets, and embodied question answering — agents act to perceive.</p></article>
+          <article class="card light"><span class="card-num">6.3.5</span><h4>Language-conditioned execution</h4><p>Reasoning grasping, generalist policies (Octo), and human-in-the-loop RL bring natural-language guidance and online correction into the execution layer.</p></article>
+          <article class="card light highlight"><h4>Closing the loop</h4><p>Information channels and physical energy channels jointly impose real-time adaptation, stability, and safety requirements that pure perception or planning cannot provide.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         BUILDING / SIM-TO-REAL
+    ========================================================== -->
+    <section id="building" class="section alt">
+      <div class="container">
+        <p class="section-eyebrow">Section 7</p>
+        <h2 class="section-title">Building PAI: from simulation to physical deployment</h2>
+        <p class="lede">
+          Simulation plays a fundamental role in developing PAI by enabling scalable data generation, safe exploration,
+          and reproducible evaluation prior to physical deployment. Together these components form a closed loop:
+          real-world data calibrates simulation, simulation accelerates learning, and real-world deployment re-validates
+          assumptions.
+        </p>
+
+        <h3 class="subhead">7.1 · Simulation platforms</h3>
+        <p>
+          Simulators provide virtual environments in which agents perceive, reason, and act under physical constraints.
+          We organize existing platforms into three families.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card"><span class="card-num">7.1.1</span><h4>General-purpose simulators</h4><p>Configurable virtual environments with physics engines, supporting diverse embodiments and tasks.</p><span class="muted-tag">Isaac Sim · Isaac Gym · Gazebo · MuJoCo · PyBullet · Webots · CoppeliaSim · AirSim · Unity ML-Agents</span></article>
+          <article class="card"><span class="card-num">7.1.2</span><h4>Real-scene-based simulators</h4><p>High realism via real-world scans or photorealistic assets, suited to household activity and indoor navigation.</p><span class="muted-tag">AI2-THOR · Habitat · SAPIEN · iGibson · TDW · Matterport3D · ProcTHOR · HOLODECK · RoboGen · PhyScene</span></article>
+          <article class="card"><span class="card-num">7.1.3</span><h4>Domain-specific simulators</h4><p>Autonomous-vehicle and non-visual / multi-modal simulators bridge driving-specific challenges and tactile / acoustic / RF / inertial modalities.</p><span class="muted-tag">CARLA · SUMO · nuPlan · Waymax · TACTO · SoundSpaces · Wireless InSite · NYUSIM · IMUSim</span></article>
+        </div>
+
+        <h3 class="subhead">7.2 · Data collection</h3>
+        <p>
+          Data acquisition is the foundation of PAI learning. The pipeline spans real-world robot data, simulation-based
+          generation, and human video / web-scale corpora.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card light"><span class="card-num">7.2.1</span><h4>Real-world robot data</h4><p>Teleoperation, demonstrations, and large-scale cross-embodiment datasets (e.g., Open X-Embodiment) capture the realities of contact-rich physical interaction.</p></article>
+          <article class="card light"><span class="card-num">7.2.2</span><h4>Simulation-based data generation</h4><p>Procedural scene generation, replay, and automated data pipelines amplify training data at low cost.</p></article>
+          <article class="card light"><span class="card-num">7.2.3</span><h4>Human video &amp; web-scale data</h4><p>First-person video and Internet-scale image / language data provide priors for affordances, semantics, and motion.</p></article>
+        </div>
+
+        <h3 class="subhead">7.3 · Sim-to-real training</h3>
+        <p>
+          Reliable PAI systems require training paradigms that bridge simulation and real-world deployment. We organize
+          sim-to-real transfer into three regimes.
+        </p>
+        <div class="cards-grid three-up tight">
+          <article class="card mini"><span class="card-num">7.3.1</span><h4>Domain randomization</h4><p>Visual, dynamics, and sensor randomization, with adaptive (ADR, BayesSim) variants.</p></article>
+          <article class="card mini"><span class="card-num">7.3.2</span><h4>Domain adaptation</h4><p>Pixel-level (SimGAN, CycleGAN, RL-CycleGAN), feature-level (DANN, RCAN), and progressive / hybrid pipelines (GraspGAN).</p></article>
+          <article class="card mini"><span class="card-num">7.3.3</span><h4>System identification</h4><p>Calibrating simulator parameters to real dynamics through optimization or Bayesian inference.</p></article>
+          <article class="card mini"><span class="card-num">7.3.4</span><h4>Real2Sim2Real pipelines</h4><p>Real-world capture is digitized into simulation for amplification, then redeployed.</p></article>
+          <article class="card mini"><span class="card-num">7.3.5</span><h4>Real-world adaptation &amp; fine-tuning</h4><p>On-robot fine-tuning and online adaptation close the residual gap after sim training.</p></article>
+          <article class="card mini"><span class="card-num">7.3.6</span><h4>World-model-assisted training</h4><p>Learned world models serve as differentiable simulators for policy improvement and post-training.</p></article>
+        </div>
+
+        <h3 class="subhead">7.4 · Validation &amp; benchmarks</h3>
+        <p>
+          Reproducible evaluation is critical for safe, comparable progress. We separate simulation benchmarks from
+          real-world validation protocols.
+        </p>
+        <div class="cards-grid two-up">
+          <article class="card"><span class="card-num">7.4.1</span><h4>Simulation benchmarks</h4><p>Standardized tasks, metrics, and embodiments for reproducible comparison across algorithms.</p></article>
+          <article class="card"><span class="card-num">7.4.2</span><h4>Real-world validation protocols</h4><p>Hardware-in-the-loop testing, deployment audits, and safety assessments under realistic operating envelopes.</p></article>
+        </div>
+
+        <h3 class="subhead">7.5 · Digital twins</h3>
+        <p>
+          Digital twins maintain synchronized digital replicas of physical assets, providing infrastructure for
+          continuous validation and online optimization.
+        </p>
+        <div class="cards-grid three-up">
+          <article class="card light"><span class="card-num">7.5.1</span><h4>Concept &amp; architecture</h4><p>Bidirectional links between physical assets and their digital counterparts enable monitoring, diagnostics, and what-if analysis.</p></article>
+          <article class="card light"><span class="card-num">7.5.2</span><h4>Role in PAI development</h4><p>Digital twins support cross-layer co-design of perception, cognition, and actuation throughout the PAI lifecycle.</p></article>
+          <article class="card light"><span class="card-num">7.5.3</span><h4>From offline simulation to online sync</h4><p>Increasingly, twins evolve from offline what-if tools into live, continuously updated co-pilots of physical systems.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         APPLICATIONS
+    ========================================================== -->
+    <section id="applications" class="section">
+      <div class="container">
+        <p class="section-eyebrow">Section 8</p>
+        <h2 class="section-title">Applications of Physical&nbsp;AI</h2>
+        <p class="lede">
+          Building on the foundational layers introduced earlier, this section surveys representative applications of
+          PAI organized by the increasing complexity of their operating environments. Together, these scenarios show
+          how PAI integrates multimodal perception, world-model reasoning, and robust physical control to address
+          tangible challenges across industrial, mobility, healthcare, hazardous, and space domains.
+        </p>
+
+        <div class="cards-grid two-up">
+          <article class="card">
+            <span class="card-num">8.1</span>
+            <h3>Manufacturing &amp; logistics</h3>
+            <p>The most mature commercial deployments of PAI. Smart manufacturing leverages impedance-controlled force
+              feedback and tactile sensing for tight-tolerance assembly under unpredictable contact, while
+              warehousing fleets fuse RF, RGB-D, and LiDAR with foundation-model-based language-specified tasks.</p>
+            <span class="muted-tag">Smart manufacturing · Flexible assembly · Warehousing &amp; logistics clusters</span>
+          </article>
+
+          <article class="card">
+            <span class="card-num">8.2</span>
+            <h3>Autonomous mobility</h3>
+            <p>Moving from structured factories to open environments, this domain shifts PAI from deterministic
+              execution to probabilistic anticipation. Autonomous driving fuses cameras, LiDAR, radar, and V2X into
+              unified BEV scene representations; UAVs and drone swarms employ decentralized multi-agent RL for
+              cooperative navigation.</p>
+            <span class="muted-tag">Autonomous driving · Aerial &amp; field platforms · Drone swarms</span>
+          </article>
+
+          <article class="card">
+            <span class="card-num">8.3</span>
+            <h3>Human-centered &amp; healthcare</h3>
+            <p>Domestic and caregiving settings require PAI to manage continuous, unstructured physical interactions
+              with humans while strictly guaranteeing safety, compliance, and psychological comfort.</p>
+            <span class="muted-tag">Domestic assistance · Smart environments · Rehabilitation &amp; continuous care</span>
+          </article>
+
+          <article class="card">
+            <span class="card-num">8.4</span>
+            <h3>Extreme environments &amp; high-risk operations</h3>
+            <p>Beyond structured settings, PAI must operate where rules, communication, or standard physical
+              affordances are absent and errors are often irreversible — combining multimodal compensatory perception
+              with fully autonomous edge-side decision-making.</p>
+            <span class="muted-tag">Marine &amp; search-and-rescue · Surgery · Nuclear / chemical containment</span>
+          </article>
+
+          <article class="card">
+            <span class="card-num">8.5</span>
+            <h3>Space infrastructure</h3>
+            <p>Space operations combine extreme communication latency, the impossibility of physical maintenance,
+              and altered physical laws, mandating fully autonomous edge-side execution and dynamic recalibration of
+              control strategies.</p>
+            <span class="muted-tag">Deep-space autonomy · On-orbit servicing · Extraterrestrial locomotion</span>
+          </article>
+
+          <article class="card highlight">
+            <span class="card-num">8.6</span>
+            <h3>Toward general-purpose PAI</h3>
+            <p>Current PAI deployments remain specialized to particular operating envelopes, yet their underlying
+              demands converge on a common stack: multimodal perception, world-model reasoning, and physically
+              compliant control. Foundation models for physical intelligence, world foundation models, and VLA models
+              are increasingly making learned physical priors transferable across embodiments and tasks.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         CHALLENGES
+    ========================================================== -->
+    <section id="challenges" class="section alt">
+      <div class="container">
+        <p class="section-eyebrow">Section 9</p>
+        <h2 class="section-title">Cross-cutting challenges &amp; research frontiers</h2>
+        <p class="lede">
+          Realizing scalable, general-purpose PAI requires progress along several intertwined axes that cut across
+          perception, cognition, and actuation. We highlight the most pressing challenges and outline promising
+          research frontiers.
+        </p>
+
+        <div class="cards-grid three-up">
+          <article class="card light">
+            <span class="card-num">9.1</span>
+            <h3>Interdisciplinary integration</h3>
+            <p>PAI operates at the intersection of robotics, machine learning, control theory, materials science,
+              neuroscience, and mechanical engineering, but progress remains fragmented. Overcoming this bottleneck
+              requires shared benchmarks, modular interfaces, and unified curricula that emphasize system-level
+              integration over isolated optimization.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.2</span>
+            <h3>Hardware–software co-design</h3>
+            <p>Through the lens of Moravec's Paradox, sensorimotor skills remain remarkably difficult relative to
+              abstract reasoning. Bridging this gap requires evolving algorithms and physical systems together rather
+              than designing hardware first and adapting algorithms to its constraints.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.3</span>
+            <h3>Multi-modal grounding &amp; robustness</h3>
+            <p>PAI must integrate vision, tactile, force, audio, proprioception, and RF across diverse temporal
+              resolutions, noise profiles, and coordinate systems. Failures arise from partial observability and
+              environmental shift; deformable and articulated objects further demand joint visual–tactile–force
+              estimation augmented with physical priors.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.4</span>
+            <h3>Learning &amp; training</h3>
+            <p>PAI learning is constrained by safety, interaction cost, and limited real-world supervision. Although
+              large-scale pretraining raises the semantic ceiling of robotic policies, it does not automatically raise
+              the contact ceiling — multimodal vision-touch learning remains crucial for dexterous manipulation.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.5</span>
+            <h3>Generalization &amp; transferability</h3>
+            <p>Generalization is challenged by intrinsic property variation (weight, friction, stiffness) and
+              extrinsic data heterogeneity (platforms, sensors, task definitions). Transfer across embodiments and
+              robust human-to-robot retargeting remain unresolved.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.6</span>
+            <h3>Manipulation &amp; dexterity</h3>
+            <p>Many manipulation failures share a common root: uncertain, contact-rich dynamics. Bimanual
+              coordination, long-horizon error accumulation, and dexterous in-hand manipulation remain far below
+              human-level performance.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.7</span>
+            <h3>Safety, security &amp; privacy</h3>
+            <p>First-class design objectives across the PAI stack — including verification, adversarial robustness,
+              and on-device privacy as PAI systems move from labs into homes, hospitals, and public spaces.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.8</span>
+            <h3>Evaluation protocols</h3>
+            <p>Benchmarks and metrics must measure functional utility for real-world PAI rather than narrow proxy
+              scores, capturing the full closed loop rather than isolated module performance.</p>
+          </article>
+
+          <article class="card light">
+            <span class="card-num">9.9</span>
+            <h3>Trustworthy deployment</h3>
+            <p>Auditability, explainability, and human-AI collaboration as PAI systems move from laboratories to
+              shared physical and social spaces.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================================================
+         BIBTEX
+    ========================================================== -->
+    <section id="bibtex" class="section">
+      <div class="container narrow">
+        <p class="section-eyebrow">Citation</p>
+        <h2 class="section-title">BibTeX</h2>
+        <pre class="bibtex"><code>@article{liu2026physicalai,
+  title   = {Physical AI: A Comprehensive Survey of Enabling Technologies
+             From a Systems Perspective},
+  author  = {Liu, Shengding and Zhang, Zhanwei and Li, Zhiying and Lin, Yudi
+             and Lin, Ruxin and Liu, Xiaoqun and Nguyen, Khang and Gao, Ziran
+             and Liao, Guopeng and Mo, Jingxiang and Jiang, Linshan
+             and Yang, Jianfei and Azulay, Osher and Yu, Stella X.
+             and Yu, Philip S. and Yan, Qiben},
+  journal = {Journal of Artificial Intelligence Research (under review)},
+  year    = {2026}
+}</code></pre>
+        <p class="muted">Correspondence: <a href="mailto:qyan@msu.edu">Qiben Yan (qyan@msu.edu)</a></p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Physical AI Survey Team. Companion site for the JAIR submission.</p>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
