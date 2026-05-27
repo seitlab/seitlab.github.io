@@ -22,10 +22,11 @@
         <a href="#perception">Perception</a>
         <a href="#cognition">Cognition</a>
         <a href="#actuation">Actuation</a>
-        <a href="#building">Sim&nbsp;to&nbsp;Real</a>
+        <a href="#building">Building&nbsp;PAI</a>
         <a href="#applications">Applications</a>
         <a href="#challenges">Challenges</a>
         <a href="#bibtex">BibTeX</a>
+        <a href="https://github.com/seitlab/awesome-pai" target="_blank" rel="noopener noreferrer">GitHub</a>
       </nav>
     </div>
   </header>
@@ -79,6 +80,7 @@
 
         <div class="hero-buttons">
           <a class="btn primary" href="#" aria-disabled="true">📄 Paper (coming soon)</a>
+          <a class="btn" href="https://github.com/seitlab/awesome-pai" target="_blank" rel="noopener noreferrer">⭐ GitHub Repo</a>
           <a class="btn" href="#bibtex">BibTeX</a>
           <a class="btn" href="mailto:qyan@msu.edu">Contact</a>
         </div>
@@ -89,89 +91,141 @@
          ABSTRACT
     ========================================================== -->
     <section id="abstract" class="section">
-      <div class="container narrow">
+      <div class="container">
         <p class="section-eyebrow">Abstract</p>
         <h2 class="section-title">From digital reasoning to physically grounded intelligence</h2>
-        <p>
-          Artificial intelligence (AI) has evolved from predominantly discriminative paradigms toward generative and
-          agentic intelligence capable of autonomous reasoning, planning, and action. However, despite these advances,
-          current AI systems remain largely confined to digital environments, lacking physical grounding and embodied
-          interaction with the real world. To address these limitations, <strong>Physical Artificial Intelligence
-          (PAI)</strong> has emerged as a new paradigm that extends AI into the physical domain by tightly integrating
-          perception, cognition, and actuation under real-world interaction constraints.
-        </p>
-        <p>
-          Building on progress in robotics, embodied intelligence, sensing, machine learning, and cyber-physical
-          systems, PAI moves beyond traditionally siloed developments to enable form-agnostic, physics-consistent, and
-          continuously adaptive intelligence across diverse embodiments and environments. We present the first
-          comprehensive, system-level survey of PAI, tracing its evolution from conceptual foundations to core
-          components and ultimately to closed-loop deployment.
-        </p>
+
+        <div class="abstract-layout">
+          <div class="abstract-text">
+            <p class="abstract-lead">
+              Artificial intelligence has evolved from discriminative paradigms toward generative and agentic
+              intelligence capable of autonomous reasoning, planning, and action. Yet current AI systems remain
+              largely confined to digital environments, lacking physical grounding and embodied interaction with
+              the real world. <strong>Physical Artificial Intelligence (PAI)</strong> emerges as a new paradigm
+              that extends AI into the physical domain by tightly integrating perception, cognition, and actuation
+              under real-world interaction constraints.
+            </p>
+            <p>
+              Building on progress in robotics, embodied intelligence, sensing, machine learning, and cyber-physical
+              systems, PAI moves beyond traditionally siloed developments to enable
+              <em>form-agnostic, physics-consistent, and continuously adaptive</em> intelligence across diverse
+              embodiments and environments.
+            </p>
+            <p class="abstract-gap">
+              Despite this promise, PAI remains <strong>underdeveloped and fragmented across disciplines</strong>,
+              and lacks a unified framework to systematically organize existing research and guide future
+              development. To close this gap, we present the first comprehensive, system-level survey of PAI —
+              tracing its evolution from conceptual foundations to core components and ultimately to closed-loop
+              deployment.
+            </p>
+          </div>
+
+          <figure class="abstract-figure">
+            <img src="assets/figures/Gap.png"
+                 alt="Illustration of the gap between digital AI and physically grounded Physical AI." />
+            <figcaption>The gap between digital AI and Physical AI.</figcaption>
+          </figure>
+        </div>
       </div>
     </section>
 
     <!-- =========================================================
-         DEFINITION  (with small three-layer architecture figure inside)
+         DEFINITION  (academic + industry definitions, then four properties)
     ========================================================== -->
     <section id="definition" class="section alt">
       <div class="container">
         <p class="section-eyebrow">Definition</p>
         <h2 class="section-title">What makes a system Physical&nbsp;AI?</h2>
 
-        <div class="definition-layout">
-          <div class="definition-text">
-            <p class="lede">
-              Any intelligent system interacting with the physical world must be able to (i) acquire information from
-              its environment, (ii) reason over this information to support decision-making, and (iii) act upon the
-              environment to exert influence. These three requirements naturally correspond to <em>perception</em>,
-              <em>cognition</em>, and <em>actuation</em>, forming a tightly coupled closed loop.
-            </p>
+        <p class="lede">
+          Although the term <em>Physical AI</em> is gaining traction, its meaning has been articulated quite
+          differently by the academic and industrial communities. We summarize both perspectives below, and then
+          distill four necessary properties that, in our view, jointly characterize a Physical AI system.
+        </p>
+
+        <div class="def-sources">
+          <article class="def-card">
+            <p class="def-tag">Academic origin</p>
+            <h3 class="def-heading">The physical counterpart of digital AI</h3>
             <p>
-              Beyond this closed loop, PAI further demands that at least one component directly interfaces with the
-              physical world, that estimation and control respect underlying physical laws, and that cognition keeps
-              learning after deployment. A system qualifies as PAI when it satisfies four necessary properties:
+              The term was initially introduced in early academic discussions to describe the
+              <em>physical counterpart of digital artificial intelligence</em>
+              (<a href="#bibtex">Miriyev &amp; Kovač, 2020</a>), emphasizing the cultivation of intelligence
+              that operates beyond purely symbolic or virtual domains and is realized through bodies, materials,
+              and interactions with the real world.
             </p>
+          </article>
+
+          <article class="def-card">
+            <p class="def-tag">Industry view · NVIDIA</p>
+            <h3 class="def-heading">AI that understands and acts in the physical world</h3>
+            <p>
+              According to NVIDIA, Physical AI lets autonomous systems like cameras, robots, and self-driving cars perceive, understand, reason, and perform or orchestrate complex actions in the physical world.
+            </p>
+          </article>
+        </div>
+
+        <section class="characterization">
+          <header class="characterization-head">
+            <p class="def-tag">Our characterization</p>
+            <h3>Four necessary properties of a Physical&nbsp;AI system</h3>
+          </header>
+
+          <div class="characterization-intro">
+            <div class="definition-text">
+              <p>
+                Any intelligent system interacting with the physical world must be able to (i) acquire information from
+                its environment, (ii) reason over this information to support decision-making, and (iii) act upon the
+                environment to exert influence. These three requirements naturally correspond to <em>perception</em>,
+                <em>cognition</em>, and <em>actuation</em>, forming a tightly coupled closed loop.
+              </p>
+              <p>
+                Beyond this closed loop, PAI further demands that at least one component directly interfaces with the
+                physical world, that estimation and control respect underlying physical laws, and that cognition keeps
+                learning after deployment. A system qualifies as PAI when it satisfies four necessary properties:
+              </p>
+            </div>
+
+            <figure class="figure-inline architecture-mini">
+              <img src="assets/figures/three-layer-architecture.svg"
+                   alt="Three-layer architecture for Physical AI: perception, cognition, and actuation across digital and physical world lines." />
+              <figcaption>Three-layer architecture for PAI.</figcaption>
+            </figure>
           </div>
 
-          <figure class="figure-inline">
-            <img src="assets/figures/three-layer-architecture.svg"
-                 alt="Three-layer architecture for Physical AI: perception, cognition, and actuation across digital and physical world lines." />
-            <figcaption>Three-layer architecture for PAI.</figcaption>
-          </figure>
-        </div>
+          <div class="cards-grid four-up property-cards">
+            <article class="card property-card">
+              <span class="card-num">01</span>
+              <h3>Perception–Cognition–Actuation closed loop</h3>
+              <p>The system implements a closed-loop architecture in which perception, cognition, and actuation are
+                closely coupled, enabling continuous sensing, decision-making, and action under real-world interaction
+                constraints.</p>
+            </article>
+            <article class="card property-card">
+              <span class="card-num">02</span>
+              <h3>Physical-world grounding</h3>
+              <p>The system maintains direct interaction with the physical world through perception, cognition, and/or
+                physical actuation rather than relying solely on offline data or simulation-based feedback loops.</p>
+            </article>
+            <article class="card property-card">
+              <span class="card-num">03</span>
+              <h3>Physics-consistent reasoning &amp; control</h3>
+              <p>The system explicitly incorporates physical laws and operational constraints across perception,
+                cognition, and actuation, ensuring estimation, prediction, planning, and control remain physically
+                feasible and consistent.</p>
+            </article>
+            <article class="card property-card">
+              <span class="card-num">04</span>
+              <h3>Evolving cognition &amp; deployment-time adaptation</h3>
+              <p>The system possesses the architectural capability to learn from open-world experience after deployment
+                and to continuously update its cognitive and behavioral policies through feedback-driven adaptation.</p>
+            </article>
+          </div>
 
-        <div class="cards-grid four-up">
-          <article class="card">
-            <span class="card-num">01</span>
-            <h3>Perception–Cognition–Actuation closed loop</h3>
-            <p>The system implements a closed-loop architecture in which perception, cognition, and actuation are
-              closely coupled, enabling continuous sensing, decision-making, and action under real-world interaction
-              constraints.</p>
-          </article>
-          <article class="card">
-            <span class="card-num">02</span>
-            <h3>Physical-world grounding</h3>
-            <p>The system maintains direct interaction with the physical world through perception, cognition, and/or
-              physical actuation rather than relying solely on offline data or simulation-based feedback loops.</p>
-          </article>
-          <article class="card">
-            <span class="card-num">03</span>
-            <h3>Physics-consistent reasoning &amp; control</h3>
-            <p>The system explicitly incorporates physical laws and operational constraints across perception,
-              cognition, and actuation, ensuring estimation, prediction, planning, and control remain physically
-              feasible and consistent.</p>
-          </article>
-          <article class="card">
-            <span class="card-num">04</span>
-            <h3>Evolving cognition &amp; deployment-time adaptation</h3>
-            <p>The system possesses the architectural capability to learn from open-world experience after deployment
-              and to continuously update its cognitive and behavioral policies through feedback-driven adaptation.</p>
-          </article>
-        </div>
-
-        <p class="callout">
-          Ultimately, PAI is defined by closed-loop, physically grounded, and continuously adaptive intelligence.
-        </p>
+          <p class="callout callout-line">
+            Ultimately, PAI is defined by <strong>closed-loop, physically grounded, and continuously adaptive intelligence</strong>.
+          </p>
+        </section>
       </div>
     </section>
 
@@ -181,7 +235,7 @@
     <section id="organization" class="section">
       <div class="container">
         <p class="section-eyebrow">Survey Organization</p>
-        <h2 class="section-title">A taxonomy of Physical&nbsp;AI</h2>
+        <h2 class="section-title">Structure of our PAI survey framework</h2>
         <p class="lede">
           Our survey traces PAI from <em>concept grounding</em> through <em>fundamental components</em> to
           <em>closed-loop deployment</em>. The framework organizes its components along three interdependent
@@ -613,6 +667,16 @@
           determines <em>how</em> the agent physically acts — through what body, along what trajectory, under what
           control law, and in what task context.
         </p>
+
+        <figure class="figure">
+          <img src="assets/figures/actuation-overview.svg" class="constrained"
+               alt="Physical actuation layer overview." />
+          <figcaption>Physical actuation layer overview. Actuators and end-effectors (§6.1) define the feasible
+            action space and embodiment; physical control (§6.2) maps cognitive intent into stable, safe motor
+            commands via classical, learning-based, and foundation-model methods; and closed-loop execution
+            (§6.3) couples locomotion, manipulation, human–robot interaction, active perception, and
+            language-conditioned execution into continuous physical interaction.</figcaption>
+        </figure>
 
         <h3 class="subhead">6.1 · Actuators &amp; end-effectors</h3>
         <p>
