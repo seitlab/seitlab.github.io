@@ -1,0 +1,80 @@
+/* Publications page - search box styling */
+
+.pub-search-wrap {
+  max-width: 560px;
+  margin: 0.5rem auto 1.75rem;
+}
+
+.pub-search {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 999px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.pub-search:focus-within {
+  border-color: #5bbad5;
+  box-shadow: 0 0 0 3px rgba(91, 186, 213, 0.2);
+}
+
+.pub-search .pub-search-icon {
+  flex: 0 0 auto;
+  margin-left: 0.9rem;
+  color: #6c757d;
+  pointer-events: none;
+}
+
+.pub-search input {
+  flex: 1 1 auto;
+  border: 0;
+  background: transparent;
+  padding: 0.55rem 0.75rem;
+  font-size: 1rem;
+  color: #343a40;
+  outline: none;
+  min-width: 0;
+}
+
+.pub-search input::placeholder {
+  color: #9aa3ad;
+}
+
+.pub-search-clear {
+  flex: 0 0 auto;
+  border: 0;
+  background: transparent;
+  color: #6c757d;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0 1rem;
+  cursor: pointer;
+  visibility: hidden;
+}
+
+.pub-search-clear:hover {
+  color: #343a40;
+}
+
+.pub-search.has-value .pub-search-clear {
+  visibility: visible;
+}
+
+.pub-search-status {
+  text-align: center;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #6c757d;
+  min-height: 1.1em;
+}
+
+.pub-no-results {
+  text-align: center;
+  color: #6c757d;
+  font-style: italic;
+  padding: 1.5rem 0;
+  display: none;
+}
